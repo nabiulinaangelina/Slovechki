@@ -1,0 +1,580 @@
+﻿unit,unitTitle,term,partOfSpeech,translation
+1,COMPUTER NETWORKS,Analog signals,n,аналоговые сигналы
+1,COMPUTER NETWORKS,Appliance,n,"приспособление, прибор"
+1,COMPUTER NETWORKS,Broadband,n,широкополосный
+1,COMPUTER NETWORKS,Bus topology,n,Шинная топология
+1,COMPUTER NETWORKS,Client/server network,n,Сеть клиент-сервер
+1,COMPUTER NETWORKS,Collide,v,"сталкиваться, вступать в противоречие"
+1,COMPUTER NETWORKS,Colon,n,двоеточие
+1,COMPUTER NETWORKS,Communication channel,n,канал связи
+1,COMPUTER NETWORKS,Congestion,n,перегруженность
+1,COMPUTER NETWORKS,Decimal (number) system,n,десятичная система счисления
+1,COMPUTER NETWORKS,Digital signals,n,цифровые сигналы
+1,COMPUTER NETWORKS,Diffuse,v,"рассеивать, распространять"
+1,COMPUTER NETWORKS,Distorted,adj,искаженный
+1,COMPUTER NETWORKS,Emerging,adj,"развивающийся, начинающий существование"
+1,COMPUTER NETWORKS,Fiber optics,n,оптическое волокно
+1,COMPUTER NETWORKS,Gateway,n,шлюз
+1,COMPUTER NETWORKS,Govern,v,управлять
+1,COMPUTER NETWORKS,Hotspot,n,беспроводная точка доступа
+1,COMPUTER NETWORKS,Hub,n,концентратор
+1,COMPUTER NETWORKS,Ideation,n,способность к формированию и восприятию идей
+1,COMPUTER NETWORKS,Instant,adj,мгновенный
+1,COMPUTER NETWORKS,IP address,n,IP-адрес
+1,COMPUTER NETWORKS,Local area network (LAN),n,локальная сеть
+1,COMPUTER NETWORKS,Malware,n,вредоносное ПО
+1,COMPUTER NETWORKS,Mesh topology,n,"топология сетки, ячеистая топология, многосвязная сеть"
+1,COMPUTER NETWORKS,Metropolitan area network (MAN),n,Городская сеть
+1,COMPUTER NETWORKS,Modem,n,"модем, модулятор-демодулятор"
+1,COMPUTER NETWORKS,Network configuration,n,сетевая конфигурация
+1,COMPUTER NETWORKS,Network outage,n,отказ сети
+1,COMPUTER NETWORKS,Network topology,n,сетевая топология
+1,COMPUTER NETWORKS,Nodes,n,аппаратные узлы (компоненты сети)
+1,COMPUTER NETWORKS,Peer-to-peer network,n,одноранговая сеть
+1,COMPUTER NETWORKS,Personal area network (PAN),n,персональная сеть
+1,COMPUTER NETWORKS,Premise,n,"предпосылка; исходное положение, служащее основой вывода или аргумента"
+1,COMPUTER NETWORKS,Receiver,n,приемник
+1,COMPUTER NETWORKS,Repeater,n,ретранслятор
+1,COMPUTER NETWORKS,Ring topology,n,Кольцевая топология
+1,COMPUTER NETWORKS,Router,n,роутер
+1,COMPUTER NETWORKS,Sample,n,"образец, шаблон"
+1,COMPUTER NETWORKS,Signal interference,n,помехи сигнала
+1,COMPUTER NETWORKS,Star topology,n,топология звезда
+1,COMPUTER NETWORKS,Switch,n,сетевой коммутатор
+1,COMPUTER NETWORKS,Telecommunication,n,телекоммуникация
+1,COMPUTER NETWORKS,Transmission,n,передача
+1,COMPUTER NETWORKS,Transmitter,n,передатчик
+1,COMPUTER NETWORKS,Tree topology,n,древовидная топология
+1,COMPUTER NETWORKS,Vulnerable,adj,уязвимый
+1,COMPUTER NETWORKS,Wide area network (WAN),n,"глобальная сеть, широкомасштабная сеть"
+1,COMPUTER NETWORKS,Wireless fidelity (Wi-Fi),n,"Вай-фай, беспроводной доступ в интернет"
+1,COMPUTER NETWORKS,Wireless local area network (WLAN),n,беспроводная локальная сеть
+2,THE WORLD WIDE WEB,Address bar,n,"адресная строка,"
+2,THE WORLD WIDE WEB,Application layer,n,"протокол прикладного уровня, прикладной уровень"
+2,THE WORLD WIDE WEB,Application Programming Interface (API),n,программный интерфейс приложения
+2,THE WORLD WIDE WEB,Coin,v,"придумывать, создавать"
+2,THE WORLD WIDE WEB,Delete,v,удалять/удалить
+2,THE WORLD WIDE WEB,Domain Name System (DNS),n,система доменных имен
+2,THE WORLD WIDE WEB,Download,v,загружать
+2,THE WORLD WIDE WEB,Eliminate,v,"устранять, исключать"
+2,THE WORLD WIDE WEB,Envision,v,представлять себе/ собой; воображать
+2,THE WORLD WIDE WEB,Fetch,v,"(комп.) считывать в оперативную память, выводить, доставлять"
+2,THE WORLD WIDE WEB,Hypertext,n,"гипертекст, обобщенный текст (многоуровневый способ представления информации при помощи связей между документами)"
+2,THE WORLD WIDE WEB,Hypertext Markup Language (HTML),n,(Hypertext Markup Language) язык гипертекстовой разметки
+2,THE WORLD WIDE WEB,Hypertext Transfer Protocol (HTTP),n,Hyper Text Transfer Protocol-протокол гипертекстовой передачи
+2,THE WORLD WIDE WEB,Hypertext Transfer Protocol Secure (HTTPS),n,Защищённый протокол передачи гипертекста
+2,THE WORLD WIDE WEB,Implement,v,"выполнять, осуществлять"
+2,THE WORLD WIDE WEB,Inbound email,n,входящая электронная почта
+2,THE WORLD WIDE WEB,Interlinking,n,"перелинковка, взаимная связь, соединение"
+2,THE WORLD WIDE WEB,Internet Message Access Protocol (IMAP),n,протокол доступа к электронной почте Интернета
+2,THE WORLD WIDE WEB,Link,n,ссылка
+2,THE WORLD WIDE WEB,Mail server,n,"сервер электронной почты, удалённая почта"
+2,THE WORLD WIDE WEB,Major shift,n,"значительное(ый) изменение/сдвиг, поворот в жизни"
+2,THE WORLD WIDE WEB,Middleware,n,промежуточное программное обеспечение
+2,THE WORLD WIDE WEB,Near-ubiquity,n,почти повсеместное распространение
+2,THE WORLD WIDE WEB,Outbound email,n,исходящая электронная почта
+2,THE WORLD WIDE WEB,Oversee,v,"наблюдать, отслеживать"
+2,THE WORLD WIDE WEB,Pertain,v,"относиться, принадлежать"
+2,THE WORLD WIDE WEB,Post Office Protocol (POP),n,"почтовый протокол, протокол отделения связи"
+2,THE WORLD WIDE WEB,Proponent,n,сторонник
+2,THE WORLD WIDE WEB,Retrieve,v,"извлекать, отыскать, вернуть себе"
+2,THE WORLD WIDE WEB,Revolve (around),v,"крутиться (вокруг), быть так или иначе связанным с, иметь отношение к"
+2,THE WORLD WIDE WEB,Simple Mail Transfer Protocol (SMTP),n,простой протокол электронной почты
+2,THE WORLD WIDE WEB,Static web page,n,статическая веб-страница
+2,THE WORLD WIDE WEB,Still-to-be-realised,adj,еще предстоящий к реализации
+2,THE WORLD WIDE WEB,To model off and on,v,"брать за образец; моделировать на основе примера, внося вариации в исполнение"
+2,THE WORLD WIDE WEB,Tokenization,n,токенизация
+2,THE WORLD WIDE WEB,Uniform Resource Identifier (URI),n,унифицированный идентификатор ресурса
+2,THE WORLD WIDE WEB,Uniform Resource Locator (URL),n,Uniform Resource Locator- универсальный указатель ресурса
+2,THE WORLD WIDE WEB,W3C,n,"Консорциум мировой сети, Консорциум W3C по созданию новых стандартов"
+2,THE WORLD WIDE WEB,Webpage,n,"веб-страница, интернет-страница"
+2,THE WORLD WIDE WEB,WWW,n,World Wide Web (всемирная паутина)
+3,WEBSITES AND THE INTERNET,Agile (infrastructure),adj,гибкий
+3,WEBSITES AND THE INTERNET,Cloud deployment model,n,модель использования облака
+3,WEBSITES AND THE INTERNET,Coherent (structure),adj,"последовательный, согласованный, связный"
+3,WEBSITES AND THE INTERNET,CSS (Cascading Style Sheets),n,каскадные таблицы стилей
+3,WEBSITES AND THE INTERNET,Domain name,n,доменное имя
+3,WEBSITES AND THE INTERNET,Domain Name System (DNS),n,система доменных имен
+3,WEBSITES AND THE INTERNET,Elasticity,n,эластичность
+3,WEBSITES AND THE INTERNET,Footer,n,нижний колонтитул
+3,WEBSITES AND THE INTERNET,Header,n,верхний колонтитул
+3,WEBSITES AND THE INTERNET,IaaS (Infrastructure as a Service),n,инфраструктура как услуга
+3,WEBSITES AND THE INTERNET,Lease,v,сдавать в аренду
+3,WEBSITES AND THE INTERNET,Metering,n,измерение
+3,WEBSITES AND THE INTERNET,Multi-tenant models,adj,многопользовательский
+3,WEBSITES AND THE INTERNET,On-demand self-service,n,система самообслуживания по запросу
+3,WEBSITES AND THE INTERNET,Orphan pages,n,страницы-сироты
+3,WEBSITES AND THE INTERNET,PaaS (Platform as a Service),n,платформа как услуга
+3,WEBSITES AND THE INTERNET,Packet-switched computer systems,adj,с коммутацией пакетов
+3,WEBSITES AND THE INTERNET,Premises,n,помещение
+3,WEBSITES AND THE INTERNET,Provision,v,обеспечивать
+3,WEBSITES AND THE INTERNET,Resource pooling,n,объединение ресурсов
+3,WEBSITES AND THE INTERNET,Scalability,n,масштабируемость
+3,WEBSITES AND THE INTERNET,Shrink,v,"уменьшать, сокращать; уменьшаться"
+3,WEBSITES AND THE INTERNET,Software as a Service (SaaS),n,программное обеспечение как услуга
+4,COMPUTER MALWARE,Alter,v,"изменять, переделывать"
+4,COMPUTER MALWARE,Backdoor virus,n,вирус бэкдора
+4,COMPUTER MALWARE,Compromise,v,"(здесь) взломать,"
+4,COMPUTER MALWARE,Corrupt,v,портиться/испорченный или коррумпированный
+4,COMPUTER MALWARE,Data breach,n,утечка данных; инцидент несанкционированного доступа к конфиденциальной информации
+4,COMPUTER MALWARE,Deem,v,"считать, полагать"
+4,COMPUTER MALWARE,Denial of service attack,n,атака (системы) с целью нарушения нормального обслуживания пользователей
+4,COMPUTER MALWARE,Disguise,v,"маскировать, скрывать"
+4,COMPUTER MALWARE,Evade,v,"избегать, уклоняться"
+4,COMPUTER MALWARE,Exfiltrate,v,тайно извлекать или выводить данные из компьютерной системы
+4,COMPUTER MALWARE,Fileless malware,n,вредоносное ПО без файлов
+4,COMPUTER MALWARE,Gain,v,"получать, приобретать"
+4,COMPUTER MALWARE,Grayware,n,потенциально нежелательное ПО
+4,COMPUTER MALWARE,Intrusive,adj,"навязчивый, назойливый"
+4,COMPUTER MALWARE,Keylogger,n,"клавиатурный шпион, клавиатурный перехватчик"
+4,COMPUTER MALWARE,Keystroke,n,нажатие клавиши или кнопки
+4,COMPUTER MALWARE,Malicious,adj,"вредоносный, зловредный"
+4,COMPUTER MALWARE,Malvertising,n,вирусная реклама в интернете
+4,COMPUTER MALWARE,Malware,n,вредоносное ПО
+4,COMPUTER MALWARE,Menacing,adj,"грозный, угрожающий"
+4,COMPUTER MALWARE,Obfuscation technique,n,метод запутывания
+4,COMPUTER MALWARE,Peer-to-peer,n,"одноранговый, равный"
+4,COMPUTER MALWARE,Phishing,n,"интернет мошенничество,фишинг"
+4,COMPUTER MALWARE,Potentially unwanted program (PUP),n,потенциально нежелательная программа
+4,COMPUTER MALWARE,Ransomware,n,программа-вымогатель
+4,COMPUTER MALWARE,Replication,n,"копирование, дублирование"
+4,COMPUTER MALWARE,Rootkit,n,"вредоносное ПО, которое обеспечивает маскировку процессов и файлов, управление событиями в системе и сбор данных системы,руткит"
+4,COMPUTER MALWARE,Self-replicate,v,самовоспроизводиться
+4,COMPUTER MALWARE,Spyware,n,"программа-шпион, шпионское программное обеспечение"
+4,COMPUTER MALWARE,Toolbar,n,панель инструментов (на экране компьютера)
+4,COMPUTER MALWARE,Vulnerability,n,уязвимость
+5,DATA SECURITY,Accompany,v,сопровождать
+5,DATA SECURITY,Asset,n,актив; ценное имущество или ресурс организации
+5,DATA SECURITY,Autorun files,n,файлы автозапуска
+5,DATA SECURITY,Bait,n,заманивать
+5,DATA SECURITY,Brute force attack,n,атака полным перебором
+5,DATA SECURITY,Bypass the lockout,v,обойти блокировку
+5,DATA SECURITY,Comply,v,"соблюдать, выполнять, подчиняться"
+5,DATA SECURITY,Competitive edge,n,конкурентное преимущество
+5,DATA SECURITY,Corruption,n,коррупция; нечестное или незаконное поведение
+5,DATA SECURITY,Crack the credentials,v,взломать учетные данные
+5,DATA SECURITY,Credential theft,n,кража учетных данных
+5,DATA SECURITY,Data backup,n,Резервное копирование данных
+5,DATA SECURITY,Data breach,n,утечка данных; инцидент несанкционированного доступа к конфиденциальной информации
+5,DATA SECURITY,Data encryption,n,шифрование данных
+5,DATA SECURITY,Data erasure,n,"стирание, уничтожение данных"
+5,DATA SECURITY,Data masking,n,маскирование данных
+5,DATA SECURITY,Data security,n,"защита данных, сохранность данных, безопасность хранения данных"
+5,DATA SECURITY,Decryption,n,расшифровка
+5,DATA SECURITY,Decryption key,n,ключ дешифрования
+5,DATA SECURITY,Defraud,v,"обманывать, мошенничать"
+5,DATA SECURITY,Denial-of-service (DoS) attack,n,атака типа «отказ в обслуживании»
+5,DATA SECURITY,Derogatory,adj,"уничижительный, унизительный"
+5,DATA SECURITY,Discarded,adj,"выброшенный, выкинутый"
+5,DATA SECURITY,Distributed denial-of-service (DDoS) attack,n,распределенная атака типа «отказ в обслуживании»
+5,DATA SECURITY,Drive-by attack,n,атака с помощью скрытой загрузки
+5,DATA SECURITY,Gain access,v,получить доступ
+5,DATA SECURITY,Hassle,n,"барьер, преграда, препятствие, трудность"
+5,DATA SECURITY,High-profile,adj,"привлекающий внимание, заметный"
+5,DATA SECURITY,Illegitimate requests,n,неправомерные запросы
+5,DATA SECURITY,Imposter,n,"самозванец, обманщик"
+5,DATA SECURITY,Inflammatory,adj,подстрекательский
+5,DATA SECURITY,Intercept,v,перехватить
+5,DATA SECURITY,Legitimate,adj,"законный, легальный"
+5,DATA SECURITY,Lock-out policies,n,политика блокировки
+5,DATA SECURITY,Login credentials,n,учетные данные для входа
+5,DATA SECURITY,Liability,n,"ответственность, обязательство"
+5,DATA SECURITY,Malicious,adj,"злобный, злонамеренный"
+5,DATA SECURITY,Malicious code,n,вредоносный код
+5,DATA SECURITY,Malware-infected,adj,зараженный вредоносным ПО
+5,DATA SECURITY,Mitigate the risk,v,снижать риск
+5,DATA SECURITY,Obscure,v,"запутывать, затруднять понимание, скрывать"
+5,DATA SECURITY,Overwhelm,v,перегрузить
+5,DATA SECURITY,Pervasive,adj,"распространяющийся, проникающий, пропитывающий, заполняющий"
+5,DATA SECURITY,Phishing attack,n,фишинговая атака
+5,DATA SECURITY,Ransomware,n,программа-вымогатель
+5,DATA SECURITY,Ransomware attack,n,атака в целях вымогательства выкупа
+5,DATA SECURITY,Recipient,n,"получатель, адресат"
+5,DATA SECURITY,Restore,v,восстанавливать
+5,DATA SECURITY,Robust,adj,"крепкий, здоровый, сильный"
+5,DATA SECURITY,Safeguard,v,защищать
+5,DATA SECURITY,Scramble,v,"путать, перемешивать"
+5,DATA SECURITY,Social engineering,n,"социальная инженерия, получение личной информации из интернета незаконным образом (обманывая пользователей)"
+5,DATA SECURITY,Spoofed,adj,поддельный
+5,DATA SECURITY,Stellar,adj,выдающийся / звёздный
+5,DATA SECURITY,Stringent,adj,"строгий, жесткий"
+5,DATA SECURITY,Theft,n,кража
+5,DATA SECURITY,Tokenization,n,токенизация
+5,DATA SECURITY,Trustworthy,adj,"надежный, заслуживающий доверия"
+5,DATA SECURITY,Trickery,n,обман
+5,DATA SECURITY,Vigilant,adj,"внимательный, осмотрительный, бдительный"
+5,DATA SECURITY,Virtual private network (VPN),n,"Виртуальная частная сеть, ВПН"
+5,DATA SECURITY,Web-filtering software,n,программное обеспечение для веб-фильтрации
+6,PROGRAMMING LANGUAGES,Adhere to,v,"придерживаться (правил, стандартов)"
+6,PROGRAMMING LANGUAGES,Algorithm,n,алгоритм
+6,PROGRAMMING LANGUAGES,Assembly language,n,язык ассемблера
+6,PROGRAMMING LANGUAGES,Compiler,n,компилятор
+6,PROGRAMMING LANGUAGES,Computer program,n,компьютерная программа
+6,PROGRAMMING LANGUAGES,Conjure up,v,вызывать в воображении; создавать (идеи или образы)
+6,PROGRAMMING LANGUAGES,Deterministic,adj,детерминированный
+6,PROGRAMMING LANGUAGES,Eliminate,v,"устранять, исключать"
+6,PROGRAMMING LANGUAGES,Embed,v,"внедрять, встраивать"
+6,PROGRAMMING LANGUAGES,Frameworks,n,фреймворк (основа вашего приложения)
+6,PROGRAMMING LANGUAGES,Fluctuate,v,"колебаться, изменяться"
+6,PROGRAMMING LANGUAGES,Functional paradigm,adj,функциональная парадигма
+6,PROGRAMMING LANGUAGES,High-level language,n,язык высокого уровня
+6,PROGRAMMING LANGUAGES,Ground breaking,adj,"новаторский, прорывной (в области технологий или методов)"
+6,PROGRAMMING LANGUAGES,Immutability,n,неизменяемость
+6,PROGRAMMING LANGUAGES,Interpreter,n,интерпретатор
+6,PROGRAMMING LANGUAGES,Machine language,n,"машинный язык (двоичный код, непосредственно понятный процессору)"
+6,PROGRAMMING LANGUAGES,Legitimate,adj,"допустимый, законный"
+6,PROGRAMMING LANGUAGES,Libraries,n,библиотека (заранее определенные функции и классы)
+6,PROGRAMMING LANGUAGES,Loop,n,цикл
+6,PROGRAMMING LANGUAGES,Low-level language,n,язык низкого уровня
+6,PROGRAMMING LANGUAGES,Number-crunching tasks,adj,"задачи, связанные с интенсивными вычислениями, обработкой чисел"
+6,PROGRAMMING LANGUAGES,Object-oriented paradigm,adj,объектно-ориентированный
+6,PROGRAMMING LANGUAGES,Operator,n,оператор
+6,PROGRAMMING LANGUAGES,Paradigm,n,"парадигма, модель или подход"
+6,PROGRAMMING LANGUAGES,Procedural paradigm,adj,процедурный
+6,PROGRAMMING LANGUAGES,Syntax,n,синтаксис
+6,PROGRAMMING LANGUAGES,Tedious,adj,"утомительный, нудный"
+6,PROGRAMMING LANGUAGES,Text editor,n,текстовый редактор
+6,PROGRAMMING LANGUAGES,Variables,n,переменные
+7,JAVA,Adherence,n,"приверженность, верность,соблюдение"
+7,JAVA,Applet,n,прикладная мини-программа
+7,JAVA,Application Programming Interface (API),n,программный интерфейс приложения
+7,JAVA,Concurrent,adj,"одновременный, параллельный"
+7,JAVA,Cornerstone,n,"фундаментальный элемент, основа основ"
+7,JAVA,Evolving,adj,"развивающийся, эволюционирующий"
+7,JAVA,Fell (through),v,проваливаться; терпеть неудачу
+7,JAVA,File extension,n,расширение файла
+7,JAVA,Foster,v,способствовать
+7,JAVA,Information sharing,n,обмен информацией; информирование
+7,JAVA,Java Development Kit (JDK),n,Инструментальный набор JDKнабор для разработки Java-приложений
+7,JAVA,Java Messaging Service (JMS),n,"Служба сообщений Java, интерфейс JMS"
+7,JAVA,Java Runtime Environment (JRE),n,"исполняющая система Java,"
+7,JAVA,Java Virtual Machine (JVM),n,"Виртуальная машина Java (Java Virtual Machine) - это механизм, предоставляющий среду выполнения для управления Java-кодом или приложениями. Виртуальная машина является независимой оболочкой исполнения кода, благодаря которой возможен её запуск на любой ОС, без влияния ОС на выполняемую программу."
+7,JAVA,Just-in-Time compiler,n,"динамичный компилятор, JIT-компилятор"
+7,JAVA,Multithreading,n,"многопотоковость, многопоточность"
+7,JAVA,Object-oriented,adj,"объектно-ориентированный, целевой"
+7,JAVA,Pivotal,adj,"основной, центральный,ключевой"
+7,JAVA,Remote Method Invocation (RMI),n,программный интерфейс вызова удалённых методов
+7,JAVA,Runtime,n,время выполнения
+7,JAVA,Set-top box,n,"телевизионная приставка, телевизионный преобразователь"
+7,JAVA,Source code,n,исходный код или текст программы
+7,JAVA,Stalwart,n,"оплот,"
+7,JAVA,Stem (from),v,происходить от (чего-л.) ; являться результатом (чего-л.)
+7,JAVA,Surge,n,"всплеск, скачок, резкий подъем"
+7,JAVA,Switch Case,n,оператор ветвления
+7,JAVA,Thread management,n,управление потоками
+7,JAVA,Versatility,n,"разносторонность,многосторонность, универсальность"
+7,JAVA,Vibrant,adj,"живой, энергичный, яркий"
+7,JAVA,Witness,v,"быть временем совершения, быть местом совершения, видеть"
+8,ARTIFICIAL INTELLIGENCE,Accurate,adj,"верный, правильный, точный"
+8,ARTIFICIAL INTELLIGENCE,Actionable information,n,полезная информация
+8,ARTIFICIAL INTELLIGENCE,Array,n,"массив, множество"
+8,ARTIFICIAL INTELLIGENCE,Artificial General Intelligence (AGI),n,"Общий искусственный интеллект, общий ИИ"
+8,ARTIFICIAL INTELLIGENCE,Bet,n,"ставка, пари"
+8,ARTIFICIAL INTELLIGENCE,Conflate,v,"соединять, объединять"
+8,ARTIFICIAL INTELLIGENCE,Correlation,n,"взаимосвязь, соотношение"
+8,ARTIFICIAL INTELLIGENCE,Data set,n,"набор данных, массив данных"
+8,ARTIFICIAL INTELLIGENCE,Detail-oriented,adj,"ориентированный на детали, внимательный"
+8,ARTIFICIAL INTELLIGENCE,Eponymous,adj,"одноименный, дающий чему-л. свое имя"
+8,ARTIFICIAL INTELLIGENCE,Explicit,adj,"ясный, явный"
+8,ARTIFICIAL INTELLIGENCE,Gain,v,"получать, приобретать"
+8,ARTIFICIAL INTELLIGENCE,Immense,adj,"огромный, безмерный, необъятный"
+8,ARTIFICIAL INTELLIGENCE,Inevitable,adj,"неизбежный, неминуемый"
+8,ARTIFICIAL INTELLIGENCE,Infancy,n,"раннее детство, младенчество, ранняя стадия"
+8,ARTIFICIAL INTELLIGENCE,Ingest,v,"глотать, проглатывать"
+8,ARTIFICIAL INTELLIGENCE,Large Language Model (LLM),n,"большая языковая модель,статистическая языковая модель"
+8,ARTIFICIAL INTELLIGENCE,Lead generation,n,"привлечение потенциальных клиентов, лидогенерация"
+8,ARTIFICIAL INTELLIGENCE,Machine vision,n,"автоматический анализ видеоинформации, искусственное зрение"
+8,ARTIFICIAL INTELLIGENCE,Natural Language Processing (NLP),n,автоматическая обработка естественного языка; обработка текстов на естественных языках
+8,ARTIFICIAL INTELLIGENCE,Obstruction,n,"препятствие, помеха"
+8,ARTIFICIAL INTELLIGENCE,Outpace,v,"опережать, идти быстрее"
+8,ARTIFICIAL INTELLIGENCE,Pinnacle,n,"вершина, пик, апофеоз"
+8,ARTIFICIAL INTELLIGENCE,Plague,v,досаждать
+8,ARTIFICIAL INTELLIGENCE,Procure,v,"достигать, добывать"
+8,ARTIFICIAL INTELLIGENCE,Prominent,adj,"заметный, выступающий, выдающийся"
+8,ARTIFICIAL INTELLIGENCE,Query,n,"вопрос, запрос"
+8,ARTIFICIAL INTELLIGENCE,Reasoning,n,"рассуждение, умозаключение"
+8,ARTIFICIAL INTELLIGENCE,Reinforcement Learning,n,обучение с подкреплением
+8,ARTIFICIAL INTELLIGENCE,Robotic Process Automation (RPA),n,роботизированная автоматизация процессов
+8,ARTIFICIAL INTELLIGENCE,Rule-based system,n,"экспертная система, экспертная система на основе продукционных правил"
+8,ARTIFICIAL INTELLIGENCE,Self-correction,n,самоисправление; автоматическое исправление собственных ошибок
+8,ARTIFICIAL INTELLIGENCE,Sentient,adj,разумный
+8,ARTIFICIAL INTELLIGENCE,Society-wide,adj,в масштабах всего общества
+8,ARTIFICIAL INTELLIGENCE,Subsidiary,adj,"дочерний, вспомогательный"
+8,ARTIFICIAL INTELLIGENCE,Supervised Learning,n,контролируемое обучение
+8,ARTIFICIAL INTELLIGENCE,Tedious,adj,"нудный, скучный, утомительный"
+8,ARTIFICIAL INTELLIGENCE,Umbrella term,n,обобщающий термин/понятие
+8,ARTIFICIAL INTELLIGENCE,Underpin,v,"поддерживать, подкреплять"
+8,ARTIFICIAL INTELLIGENCE,Versatile,adj,"разносторонний, универсальный"
+8,ARTIFICIAL INTELLIGENCE,Workflow,n,"рабочий процесс, последовательность выполняемых действий"
+9,FUTURE TECHNOLOGIES,Alleviate,v,"облегчать, смягчать"
+9,FUTURE TECHNOLOGIES,Assembly line,n,сборочная линия (процесс массового производства)
+9,FUTURE TECHNOLOGIES,Dehumanization,n,дегуманизация (отделение человека от его человеческих качеств)
+9,FUTURE TECHNOLOGIES,Electromagnetic levitation,n,электромагнитная левитация
+9,FUTURE TECHNOLOGIES,Eradication,n,искоренение смерти (попытки остановить смерть с помощью технологий)
+9,FUTURE TECHNOLOGIES,Extinction,n,"вымирание, исчезновение"
+9,FUTURE TECHNOLOGIES,Feasible,adj,"осуществимый, реальный, возможный для реализации"
+9,FUTURE TECHNOLOGIES,Genetic modification,n,генетическая модификация (изменение генов)
+9,FUTURE TECHNOLOGIES,Human enhancement,n,улучшение возможностей человека
+9,FUTURE TECHNOLOGIES,Humanoid robot,n,"человекоподобный робот, робот-гуманоид"
+9,FUTURE TECHNOLOGIES,Implications,n,"последствие, результат"
+9,FUTURE TECHNOLOGIES,Keep up with,v,идти в ногу с; успевать за; быть в курсе
+9,FUTURE TECHNOLOGIES,Life expectancy,n,ожидаемая продолжительность жизни
+9,FUTURE TECHNOLOGIES,Mechanization,n,механизация (замена ручного труда машинами)
+9,FUTURE TECHNOLOGIES,Metaverse,n,метавселенная
+9,FUTURE TECHNOLOGIES,Nanotechnology,n,нанотехнология
+9,FUTURE TECHNOLOGIES,Neurotechnology,n,нейротехнология
+9,FUTURE TECHNOLOGIES,Precision,n,точность
+9,FUTURE TECHNOLOGIES,Prosthesis,n,протез
+9,FUTURE TECHNOLOGIES,Radical life extension,n,радикальное продление жизни
+9,FUTURE TECHNOLOGIES,Robotic exoskeleton,n,роботизированный экзоскелет
+9,FUTURE TECHNOLOGIES,Robots takeover,n,"захват роботов, когда роботы управляют или заменяют людей"
+9,FUTURE TECHNOLOGIES,Seamless,adj,"плавный, непрерывный; бесшовный"
+9,FUTURE TECHNOLOGIES,Springboard,n,"трамплин, стартовая площадка (метафора для новых идей или технологий)"
+9,FUTURE TECHNOLOGIES,Transhumanism,n,трансгуманизм; движение за технологическое расширение возможностей человека
+10,IT CAREERS,Advent,n,"наступление (эпохи, события), прибытие, приход"
+10,IT CAREERS,Agile,adj,"подвижный, проворный"
+10,IT CAREERS,AI engineer,n,Инженер ИИ
+10,IT CAREERS,Anticipate,v,"ожидать, предвидеть"
+10,IT CAREERS,Blockchain developer,n,Блокче́йн-разрабо́тчик
+10,IT CAREERS,Career landscape,n,карьерный ландшафт
+10,IT CAREERS,Cater for,v,удовлетворять требования
+10,IT CAREERS,Coding skills,n,навыки программирования
+10,IT CAREERS,Communication skills,n,навыки общения
+10,IT CAREERS,Competitive edge,n,конкурентное преимущество
+10,IT CAREERS,Computer operator,n,оператор ПК
+10,IT CAREERS,Contribute,v,"способствовать, вносить вклад"
+10,IT CAREERS,Critical thinking,n,аналитическое (критическое) мышление
+10,IT CAREERS,Cybersecurity specialist,n,специалист по кибербезопасности
+10,IT CAREERS,Data scientist,n,специалист по обработке и анализу данных
+10,IT CAREERS,Digestible,adj,легко усваиваемый
+10,IT CAREERS,Dive into,v,погрузиться в
+10,IT CAREERS,E-commerce,n,электронная коммерция
+10,IT CAREERS,Ever-expanding,adj,постоянно расширяющийся
+10,IT CAREERS,Expertise,n,"опыт, знания, мастерство"
+10,IT CAREERS,Exploratory data analysis (EDA),n,разведывательный анализ данных (EDA)
+10,IT CAREERS,Foster,v,способствовать
+10,IT CAREERS,Forefront,n,"первый план, авангард"
+10,IT CAREERS,Gather,v,собирать (вместе)
+10,IT CAREERS,Goal oriented,adj,ориентированный на достижение цели
+10,IT CAREERS,Hands-on experience,n,опыт практической работы
+10,IT CAREERS,Hard skills,n,профессиональные навыки
+10,IT CAREERS,Help desk technician,n,специалист службы поддержки
+10,IT CAREERS,Information and communication technology (ICT),n,информационно-коммуникационные технологии
+10,IT CAREERS,IT career path,n,Карьера в сфере ИТ
+10,IT CAREERS,IT support specialist,n,Специалист по ИТ-поддержке
+10,IT CAREERS,IT workforce,n,ИТ-персонал
+10,IT CAREERS,Leadership,n,руководство (лидерство)
+10,IT CAREERS,Logical thinking,n,логическое мышление
+10,IT CAREERS,Machine learning engineer,n,Инженер по машинному обучению
+10,IT CAREERS,Meet deadlines,v,укладываться в сроки
+10,IT CAREERS,Meetup,n,неформальная встреча
+10,IT CAREERS,Much-in-demand,adj,очень востребованный
+10,IT CAREERS,Network analyst,n,Сетевой аналитик
+10,IT CAREERS,Network architect,n,сетевой архитектор
+10,IT CAREERS,Non-tech,adj,нетехнический
+10,IT CAREERS,Oral communication,n,устное общение
+10,IT CAREERS,Penetration test,n,тест на проникновение с целью проверки системы защиты
+10,IT CAREERS,Plop down,v,"плюхнуться, шлепнуться"
+10,IT CAREERS,Problem-solving skills,n,навыки решения проблем
+10,IT CAREERS,Programmer,n,программист
+10,IT CAREERS,Project manager,n,руководитель проекта
+10,IT CAREERS,Proliferation,n,"распространение, быстрое увеличение"
+10,IT CAREERS,Pursue,v,преследовать
+10,IT CAREERS,Quality assurance (QA),n,контроль качества
+10,IT CAREERS,Remote working team,n,удаленная рабочая команда
+10,IT CAREERS,Resilient,adj,"устойчивый, стойкий"
+10,IT CAREERS,Scheduling,n,планирование
+10,IT CAREERS,Self-directed,adj,"самостоятельный, самоуправляемый"
+10,IT CAREERS,Self-motivated,adj,целеустремленный
+10,IT CAREERS,Savvy,adj,"смышлёный, толковый, сообразительный"
+10,IT CAREERS,Shifting,adj,"изменение, передвижение"
+10,IT CAREERS,Soft skills,n,навыки межличностного общения
+10,IT CAREERS,Software developer,n,разработчик программного обеспечения
+10,IT CAREERS,Spur,v,побуждать
+10,IT CAREERS,Stream,n,поток
+10,IT CAREERS,Swath,n,"ряд, полоса"
+10,IT CAREERS,System (network) administrator,n,системный (сетевой) администратор
+10,IT CAREERS,Team building,n,"командообразование, тимбилдинг"
+10,IT CAREERS,Teamwork,n,работа в команде
+10,IT CAREERS,Technical writer,n,редактор технической документации
+10,IT CAREERS,Technology know-how,n,научно-технические знания
+10,IT CAREERS,Time management,n,планирование рабочего времени
+10,IT CAREERS,UX/UI designer,n,UX/UI-дизайнер
+10,IT CAREERS,Unprecedented,adj,"беспрецедентный, небывалый"
+10,IT CAREERS,Web developer,n,Веб-разработчик
+10,IT CAREERS,Web designer (webmaster),n,веб-дизайнер (веб-мастер)
+10,IT CAREERS,Wireframe,n,"схема макета, его «скелет» без дизайна, нужен для определения расположения всех элементов макета"
+10,IT CAREERS,Workload,n,рабочая нагрузка
+10,IT CAREERS,Written communication,n,"письменное общение, переписка"
+11,MY SPECIALITY,Abstraction,n,"абстракция, обобщение"
+11,MY SPECIALITY,Academic papers,n,"научные труды, статьи"
+11,MY SPECIALITY,Admire,v,"любоваться, восхищаться"
+11,MY SPECIALITY,Apply,v,подать заявление
+11,MY SPECIALITY,Applied computer science,n,прикладная информатика
+11,MY SPECIALITY,Applied mathematics,n,прикладная математика
+11,MY SPECIALITY,Applied mathematician,n,прикладной математик
+11,MY SPECIALITY,Balance,v,балансировать
+11,MY SPECIALITY,Blend,v,смешивать
+11,MY SPECIALITY,Bullet points,n,пункты списка
+11,MY SPECIALITY,Capability,n,"способность, умение"
+11,MY SPECIALITY,Challenge,v,бросать вызов
+11,MY SPECIALITY,Clarity,n,"ясность, четкость"
+11,MY SPECIALITY,Committed,adj,"преданный, приверженный"
+11,MY SPECIALITY,Complex issues,n,сложные вопросы (проблемы)
+11,MY SPECIALITY,Complexity,n,"сложность, комплексность, запутанность"
+11,MY SPECIALITY,Computer science,n,информатика
+11,MY SPECIALITY,Computer scientist,n,"компьютерный специалист, информатик, программист"
+11,MY SPECIALITY,Concise,adj,"краткий, лаконичный"
+11,MY SPECIALITY,Concurrency,n,параллельное выполнение нескольких задач; конкурентность
+11,MY SPECIALITY,Consequences,n,"следствие, последствие, результат"
+11,MY SPECIALITY,Curriculum vitae (CV),n,"краткая биография, резюме"
+11,MY SPECIALITY,Cybersecurity,n,кибербезопасность
+11,MY SPECIALITY,Development tools,n,средства разработки
+11,MY SPECIALITY,Digital assets,n,цифровые активы
+11,MY SPECIALITY,Documentation,n,документация
+11,MY SPECIALITY,Drawn,adj,"заинтересованный, привлеченный"
+11,MY SPECIALITY,Dual-role expert,n,эксперт двойной роли
+11,MY SPECIALITY,Energy-efficient,adj,энергоэффективный
+11,MY SPECIALITY,Enroll,v,записываться
+11,MY SPECIALITY,Evaluate,v,"оценивать, вычислять"
+11,MY SPECIALITY,Fascination,n,увлечение
+11,MY SPECIALITY,Field of study,n,область изучения
+11,MY SPECIALITY,Handling,n,обработка
+11,MY SPECIALITY,Information (data) security specialist,n,специалист по информационной безопасности (безопасности данных)
+11,MY SPECIALITY,Innovator,n,новатор
+11,MY SPECIALITY,Interdisciplinary,adj,междисциплинарный
+11,MY SPECIALITY,Internals,n,"внутренности, внутреннее состояние"
+11,MY SPECIALITY,Job interview,n,собеседование на работу
+11,MY SPECIALITY,Major,n,"ведущая, профильная дисциплина"
+11,MY SPECIALITY,Meaningful,adj,значимый
+11,MY SPECIALITY,Memory-mapped registers,n,"регистры, отображенные в памяти"
+11,MY SPECIALITY,Methodology,n,"методология, методика"
+11,MY SPECIALITY,Open-source repositories,n,репозитории с открытым исходным кодом
+11,MY SPECIALITY,Parallelism,n,параллелизм
+11,MY SPECIALITY,Persistence,n,"упорство, настойчивость"
+11,MY SPECIALITY,Personal trait,n,черта личности
+11,MY SPECIALITY,Precision,n,"точность, аккуратность"
+11,MY SPECIALITY,Professional,n,профессионал
+11,MY SPECIALITY,Proficiency,n,"опытность, умение, уровень владения"
+11,MY SPECIALITY,Push boundaries,v,расширять границы
+11,MY SPECIALITY,Qualifications,n,"квалификация, диплом"
+11,MY SPECIALITY,Repository,n,хранилище
+11,MY SPECIALITY,Résumé,n,резюме
+11,MY SPECIALITY,Roadmap,n,план действий
+11,MY SPECIALITY,Scope,n,"рамки, сфера, возможности, масштаб"
+11,MY SPECIALITY,Scalable,adj,"масштабируемый, расширяемый"
+11,MY SPECIALITY,Self-study,n,самообучение
+11,MY SPECIALITY,Showcase,v,демонстрировать
+11,MY SPECIALITY,Show voice,v,показать голос
+11,MY SPECIALITY,Solid,adj,"твердый, прочный"
+11,MY SPECIALITY,Specialist,n,специалист
+11,MY SPECIALITY,Speciality,n,специальность
+11,MY SPECIALITY,Stay current,v,идти в ногу со временем
+11,MY SPECIALITY,Strengthen,v,"усиливать, укреплять"
+11,MY SPECIALITY,System analyst-programmer,n,системный аналитик-программист
+11,MY SPECIALITY,Tackle,v,"схватить, взяться"
+11,MY SPECIALITY,Targeted,adj,"нацеленный, целевой"
+11,MY SPECIALITY,Time-consuming,adj,отнимающий много времени
+11,MY SPECIALITY,Underpinning,n,основа; поддерживающая структура
+11,MY SPECIALITY,Under pressure,adv,в стрессовой ситуации
+11,MY SPECIALITY,Work experience,n,опыт работы
+11,MY SPECIALITY,CV objective,n,цель резюме
+11,MY SPECIALITY,CV template,n,шаблон резюме
+2,THE WORLD WIDE WEB,Client-Server,,клиент-серверный
+2,THE WORLD WIDE WEB,data-centric,,"ориентированный на обработку данных, информационно-центрический"
+2,THE WORLD WIDE WEB,flexible,,"гибкий, адаптирующийся"
+2,THE WORLD WIDE WEB,participatory,,"общий, объединённый, совместный"
+2,THE WORLD WIDE WEB,exponential,,"быстрорастущий, экспоненциальный"
+2,THE WORLD WIDE WEB,disruptive,,"разрушительный, неблагоприятный"
+2,THE WORLD WIDE WEB,SaaS,,ПО как сервис
+3,WEBSITES AND THE INTERNET,Uniform Resource Locator (URL),,унифицированный указатель информационного ресурса (адрес сайта в интернете)
+3,WEBSITES AND THE INTERNET,pay as you go,,оплата по мере использования
+3,WEBSITES AND THE INTERNET,evolve,,"развиваться, эволюционировать"
+3,WEBSITES AND THE INTERNET,launch a website,,запустить сайт
+3,WEBSITES AND THE INTERNET,prioritize functionality over aesthetics,,"отдавать приоритет функциональности, а не эстетике"
+3,WEBSITES AND THE INTERNET,add dynamic content,,добавить динамичный контент
+3,WEBSITES AND THE INTERNET,maintain websites,,обслуживать вебсайты
+3,WEBSITES AND THE INTERNET,be perfected to the limit,,быть усовершенствованным до предела
+4,COMPUTER MALWARE,Firewall,,"брандмауэр, межсетевой экран"
+4,COMPUTER MALWARE,fraudulent,,"мошеннический, обманный"
+4,COMPUTER MALWARE,bundled with,,В комплекте с
+4,COMPUTER MALWARE,harbor,,"скрывать, укрывать"
+4,COMPUTER MALWARE,hijack,,похищать
+4,COMPUTER MALWARE,Mitigation,,зд. решение
+4,COMPUTER MALWARE,lure,,"завлекать, приманивать"
+4,COMPUTER MALWARE,Arbitrary Code,,произвольный код
+4,COMPUTER MALWARE,Evasion Techniques,,методы уклонения
+4,COMPUTER MALWARE,credentials,,"реквизиты для входа,учетные данные, полномочия, рекомендации"
+4,COMPUTER MALWARE,prosecute,,"преследовать в судебном порядке, обвинять"
+4,COMPUTER MALWARE,Inoculation,,"прививка, вакцинация"
+4,COMPUTER MALWARE,lackluster,,"неэффективный, низкий"
+4,COMPUTER MALWARE,impersonate,,выдавать себя за другое лицо
+4,COMPUTER MALWARE,Invasive,,"назойливый,"
+4,COMPUTER MALWARE,evolve to,,"превращаться в, развиваться"
+4,COMPUTER MALWARE,abuse,,"неверно использовать, злоумышленно использовать, обманывать, подделывать"
+4,COMPUTER MALWARE,program routine,,Подпрограмма
+5,DATA SECURITY,encryption,,шифрование
+5,DATA SECURITY,fraud,,"обман, мошенничество"
+5,DATA SECURITY,exploit,,"использовать, эксплуатировать, наживаться"
+5,DATA SECURITY,evade,,"избегать, уклоняться"
+5,DATA SECURITY,fraudulent,,мошеннический
+5,DATA SECURITY,brutish,,"жестокий, зверский"
+5,DATA SECURITY,fortified,,укрепленный
+5,DATA SECURITY,deploy patches,,развертывать исправления (Patch deployment ensures that the fixes are installed on every system that uses the software in question).
+5,DATA SECURITY,drain the resources,,истощать ресурсы
+5,DATA SECURITY,domain name system (DNS) spoofing,,подмена доменной системы имен (DNS)
+6,PROGRAMMING LANGUAGES,addition,,сложение
+6,PROGRAMMING LANGUAGES,subtraction,,вычитание
+6,PROGRAMMING LANGUAGES,comparison,,сравнение
+6,PROGRAMMING LANGUAGES,onslaught,,"натиск, напор"
+6,PROGRAMMING LANGUAGES,intended,,предназначенный
+6,PROGRAMMING LANGUAGES,encompass,,"охватывать, включать в себя"
+6,PROGRAMMING LANGUAGES,carry out,,"выполнять, осуществлять"
+6,PROGRAMMING LANGUAGES,resemble,,"напоминать, быть похожим на"
+6,PROGRAMMING LANGUAGES,invent,,"изобретать, придумывать"
+6,PROGRAMMING LANGUAGES,the desired outcome,,желаемый результат
+6,PROGRAMMING LANGUAGES,in one go,,за один раз
+6,PROGRAMMING LANGUAGES,write code at a more granular level,,писать код на более детальном уровне
+6,PROGRAMMING LANGUAGES,execute powerful operations,,выполнять мощные операции
+6,PROGRAMMING LANGUAGES,to lay the foundation,,заложить основу
+6,PROGRAMMING LANGUAGES,involve real-world objects,,включать реальные объекты
+6,PROGRAMMING LANGUAGES,require detailed knowledge of,,требовать подробных знаний о
+6,PROGRAMMING LANGUAGES,pave the way to / for computer programming languages,,прокладывать путь к / для языков программирования
+9,FUTURE TECHNOLOGIES,engage with (children),,"взаимодействовать с детьми, участвовать в общении или деятельности с ними"
+9,FUTURE TECHNOLOGIES,sci-fi story,,научно-фантастический рассказ
+9,FUTURE TECHNOLOGIES,prophetic,,"пророческий, предвещающий будущее"
+9,FUTURE TECHNOLOGIES,weird,,"странный, необычный"
+9,FUTURE TECHNOLOGIES,ubiquitous,,"вездесущий, повсеместный"
+9,FUTURE TECHNOLOGIES,targeted (solutions),,целенаправленные решения (нацеленные на конкретные проблемы)
+9,FUTURE TECHNOLOGIES,diminished (mental abilities),,ослабленные умственные способности
+9,FUTURE TECHNOLOGIES,renewable (energy),,"возобновляемая энергия (солнечная, ветровая и т.п.)"
+9,FUTURE TECHNOLOGIES,wireless (earbuds),,беспроводные наушники
+9,FUTURE TECHNOLOGIES,cybernetic (implants),,кибернетические импланты (технологии внутри тела)
+9,FUTURE TECHNOLOGIES,foresee,,"предвидеть, предсказывать будущее"
+9,FUTURE TECHNOLOGIES,feature,,"изображать, характеризовать"
+9,FUTURE TECHNOLOGIES,originate from,,"происходить из, возникать из чего-то"
+9,FUTURE TECHNOLOGIES,spread,,распространяться
+9,FUTURE TECHNOLOGIES,boost (productivity),,"повышать, увеличивать производительность"
+9,FUTURE TECHNOLOGIES,perform (surgical procedures),,выполнять хирургические операции
+9,FUTURE TECHNOLOGIES,deliver (supplies) to,,доставлять поставки кому-то/чему-то
+9,FUTURE TECHNOLOGIES,navigate (environments),,ориентироваться в окружающей среде или пространстве
+9,FUTURE TECHNOLOGIES,restrict yourself to,,"ограничивать себя чем-то, не выходить за рамки чего-то"
+9,FUTURE TECHNOLOGIES,transmit (brain signals),,"передавать сигналы мозга, посылать информацию из мозга"
+9,FUTURE TECHNOLOGIES,be preferable to the uncertainty of a human relationship,,быть предпочтительнее неопределенности человеческих отношений (речь идет о роботах)
+9,FUTURE TECHNOLOGIES,retreat to technological cocoons,,"уходить в технологические коконы, укрываться за технологиями для защиты или уединения"
+9,FUTURE TECHNOLOGIES,alter human capabilities beyond their current natural limits,,изменять человеческие возможности сверх их нынешних природных границ
+9,FUTURE TECHNOLOGIES,to be on the verge of an enhancement revolution,,находиться на грани революции улучшений/усовершенствований
+9,FUTURE TECHNOLOGIES,do more harm than good,,"причинять больше вреда, чем пользы"
+9,FUTURE TECHNOLOGIES,the core values of humankind,,основные ценности человечества
+9,FUTURE TECHNOLOGIES,do a little digging into,,немного копнуть в смысл или детали чего-то
+9,FUTURE TECHNOLOGIES,to be fitted into our brains,,быть встроенным/установленным в наши мозги
+9,FUTURE TECHNOLOGIES,evolve into,,"эволюционировать, развиваться"
+9,FUTURE TECHNOLOGIES,opt for,,"выбирать, предпочитать"
+9,FUTURE TECHNOLOGIES,extinction of phones,,исчезновение телефонов
+9,FUTURE TECHNOLOGIES,overcome (limitations),,преодолевать ограничения
+10,IT CAREERS,internship,,"практика, стажировка"
+11,MY SPECIALITY,certifications,,квалификационные документы
+11,MY SPECIALITY,resonate,,находить отклик
+11,MY SPECIALITY,craft (v),,"мастерить, создавать"
+11,MY SPECIALITY,challenging,,"стимулирующий, побуждающий"
+11,MY SPECIALITY,dependable,,"надёжный, заслуживающий доверия"

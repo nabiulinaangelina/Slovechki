@@ -1,0 +1,2305 @@
+[
+  {
+    "unit": 1,
+    "cards": [
+      {
+        "term": "nodes (network devices)",
+        "translation": "аппаратные узлы (компоненты сети)"
+      },
+      {
+        "term": "hotspot",
+        "translation": "беспроводная точка доступа"
+      },
+      {
+        "term": "malware",
+        "translation": "вредоносное ПО"
+      },
+      {
+        "term": "ideation",
+        "translation": "способность к формированию и восприятию идей"
+      },
+      {
+        "term": "sample",
+        "translation": "образец, шаблон"
+      },
+      {
+        "term": "modem",
+        "translation": "модем, модулятор-демодулятор"
+      },
+      {
+        "term": "hub",
+        "translation": "концентратор"
+      },
+      {
+        "term": "switch",
+        "translation": "переключатель"
+      },
+      {
+        "term": "repeater",
+        "translation": "ретранслятор"
+      },
+      {
+        "term": "router",
+        "translation": "роутер"
+      },
+      {
+        "term": "gateway",
+        "translation": "шлюз"
+      },
+      {
+        "term": "colon",
+        "translation": "двоеточие"
+      },
+      {
+        "term": "premise",
+        "translation": "помещение"
+      },
+      {
+        "term": "receiver",
+        "translation": "приемник"
+      },
+      {
+        "term": "transmitter",
+        "translation": "передатчик"
+      },
+      {
+        "term": "transmission",
+        "translation": "передача"
+      },
+      {
+        "term": "appliance",
+        "translation": "приспособление, прибор"
+      },
+      {
+        "term": "congestion",
+        "translation": "перегруженность"
+      },
+      {
+        "term": "govern",
+        "translation": "управлять"
+      },
+      {
+        "term": "collide",
+        "translation": "сталкиваться, вступать в противоречие"
+      },
+      {
+        "term": "diffuse",
+        "translation": "рассеивать, распространять"
+      },
+      {
+        "term": "broadband",
+        "translation": "широкополосный"
+      },
+      {
+        "term": "vulnerable",
+        "translation": "уязвимый"
+      },
+      {
+        "term": "distorted",
+        "translation": "искаженный"
+      },
+      {
+        "term": "instant",
+        "translation": "мгновенный"
+      },
+      {
+        "term": "emerging",
+        "translation": "развивающийся, начинающий существование"
+      },
+      {
+        "term": "fiber optics",
+        "translation": "оптическое волокно"
+      },
+      {
+        "term": "Wireless local area network (WLAN)",
+        "translation": "беспроводная локальная сеть"
+      },
+      {
+        "term": "Wide area network (WAN)",
+        "translation": "глобальная сеть, широкомасштабная сеть"
+      },
+      {
+        "term": "Metropolitan area network (MAN)",
+        "translation": "Городская сеть"
+      },
+      {
+        "term": "personal area network (PAN)",
+        "translation": "персональная сеть"
+      },
+      {
+        "term": "Local area network (LAN)",
+        "translation": "локальная сеть"
+      },
+      {
+        "term": "network configuration",
+        "translation": "сетевая конфигурация"
+      },
+      {
+        "term": "peer-to-peer network",
+        "translation": "одноранговая сеть"
+      },
+      {
+        "term": "client/server network",
+        "translation": "Сеть клиент-сервер"
+      },
+      {
+        "term": "network topology",
+        "translation": "сетевая топология"
+      },
+      {
+        "term": "mesh topology",
+        "translation": "топология сетки, ячеистая топология, многосвязная сеть"
+      },
+      {
+        "term": "bus topology",
+        "translation": "Шинная топология"
+      },
+      {
+        "term": "ring topology",
+        "translation": "Кольцевая топология"
+      },
+      {
+        "term": "star topology",
+        "translation": "топология звезда"
+      },
+      {
+        "term": "tree topology",
+        "translation": "древовидная топология"
+      },
+      {
+        "term": "decimal (number) system",
+        "translation": "десятичная система счисления"
+      },
+      {
+        "term": "IP address",
+        "translation": "IP-адрес"
+      },
+      {
+        "term": "communication channel",
+        "translation": "канал связи"
+      },
+      {
+        "term": "telecommunication",
+        "translation": "телекоммуникация"
+      },
+      {
+        "term": "wireless fidelity (Wi-Fi)",
+        "translation": "Вай-фай, беспроводной доступ в интернет"
+      },
+      {
+        "term": "analog signals",
+        "translation": "аналоговые сигналы"
+      },
+      {
+        "term": "digital signals",
+        "translation": "цифровые сигналы"
+      },
+      {
+        "term": "network outage",
+        "translation": "отказ сети"
+      },
+      {
+        "term": "signal interference",
+        "translation": "помехи сигнала"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "cards": [
+      {
+        "term": "webpage",
+        "translation": "веб-страница, интернет-страница"
+      },
+      {
+        "term": "link",
+        "translation": "ссылка"
+      },
+      {
+        "term": "Hypertext",
+        "translation": "гипертекст, обобщенный текст (многоуровневый способ представления информации при помощи связей между документами)"
+      },
+      {
+        "term": "interlinking",
+        "translation": "перелинковка, взаимная связь, соединение"
+      },
+      {
+        "term": "near-ubiquity",
+        "translation": "почти повсеместное распространение"
+      },
+      {
+        "term": "proponent",
+        "translation": "сторонник"
+      },
+      {
+        "term": "Tokenization",
+        "translation": "токенизация"
+      },
+      {
+        "term": "Middleware",
+        "translation": "промежуточное программное обеспечение"
+      },
+      {
+        "term": "implement",
+        "translation": "выполнять, осуществлять"
+      },
+      {
+        "term": "pertain",
+        "translation": "относиться, принадлежать"
+      },
+      {
+        "term": "SMTP",
+        "translation": "простой протокол электронной почты"
+      },
+      {
+        "term": "Client-Server",
+        "translation": "клиент-серверный"
+      },
+      {
+        "term": "data-centric",
+        "translation": "ориентированный на обработку данных, информационно-центрический"
+      },
+      {
+        "term": "outbound email",
+        "translation": "исходящая электронная почта"
+      },
+      {
+        "term": "flexible",
+        "translation": "гибкий, адаптирующийся"
+      },
+      {
+        "term": "Inbound email",
+        "translation": "входящая электронная почта"
+      },
+      {
+        "term": "participatory",
+        "translation": "общий, объединённый, совместный"
+      },
+      {
+        "term": "mail server",
+        "translation": "сервер электронной почты, удалённая почта"
+      },
+      {
+        "term": "exponential",
+        "translation": "быстрорастущий, экспоненциальный"
+      },
+      {
+        "term": "DNS",
+        "translation": "система доменных имен"
+      },
+      {
+        "term": "disruptive",
+        "translation": "разрушительный, неблагоприятный"
+      },
+      {
+        "term": "IMAP",
+        "translation": "протокол доступа к электронной почте Интернета"
+      },
+      {
+        "term": "WWW",
+        "translation": "World Wide Web (всемирная паутина)"
+      },
+      {
+        "term": "download",
+        "translation": "загружать"
+      },
+      {
+        "term": "W3C",
+        "translation": "Консорциум мировой сети, Консорциум W3C по созданию новых стандартов"
+      },
+      {
+        "term": "delete",
+        "translation": "удалять/удалить"
+      },
+      {
+        "term": "still-to-be-realized",
+        "translation": "еще предстоящий к реализации"
+      },
+      {
+        "term": "Static Web Page",
+        "translation": "статическая веб-страница"
+      },
+      {
+        "term": "Address Bar",
+        "translation": "адресная строка,"
+      },
+      {
+        "term": "major shift",
+        "translation": "значительное(ый) изменение/сдвиг, поворот в жизни"
+      },
+      {
+        "term": "POP",
+        "translation": "почтовый протокол, протокол отделения связи"
+      },
+      {
+        "term": "HTML",
+        "translation": "(Hypertext Markup Language) язык гипертекстовой разметки"
+      },
+      {
+        "term": "URI (Uniform Resource Identifier)",
+        "translation": "унифицированный идентификатор ресурса"
+      },
+      {
+        "term": "HTTP",
+        "translation": "Hyper Text Transfer Protocol-протокол гипертекстовой передачи"
+      },
+      {
+        "term": "URL",
+        "translation": "Uniform Resource Locator- универсальный указатель ресурса"
+      },
+      {
+        "term": "HTTPS (Hypertext Transfer Protocol Secure)",
+        "translation": "Защищённый протокол передачи гипертекста"
+      },
+      {
+        "term": "API",
+        "translation": "программный интерфейс приложения"
+      },
+      {
+        "term": "SaaS",
+        "translation": "ПО как сервис"
+      },
+      {
+        "term": "Application Layer",
+        "translation": "протокол прикладного уровня, прикладной уровень"
+      },
+      {
+        "term": "retrieve",
+        "translation": "извлекать, отыскать, вернуть себе"
+      },
+      {
+        "term": "coin",
+        "translation": "придумывать, создавать"
+      },
+      {
+        "term": "envision",
+        "translation": "представлять себе/ собой; воображать"
+      },
+      {
+        "term": "eliminate",
+        "translation": "устранять, исключать"
+      },
+      {
+        "term": "fetch",
+        "translation": "(комп.) считывать в оперативную память, выводить, доставлять"
+      },
+      {
+        "term": "revolve around",
+        "translation": "крутиться (вокруг), быть так или иначе связанным с, иметь отношение к"
+      },
+      {
+        "term": "oversee",
+        "translation": "наблюдать, отслеживать"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "cards": [
+      {
+        "term": "domain name",
+        "translation": "доменное имя"
+      },
+      {
+        "term": "domain name system (DNS)",
+        "translation": "система доменных имен"
+      },
+      {
+        "term": "Uniform Resource Locator (URL)",
+        "translation": "унифицированный указатель информационного ресурса (адрес сайта в интернете)"
+      },
+      {
+        "term": "premises",
+        "translation": "помещение"
+      },
+      {
+        "term": "header",
+        "translation": "верхний колонтитул"
+      },
+      {
+        "term": "footer",
+        "translation": "нижний колонтитул"
+      },
+      {
+        "term": "orphan pages",
+        "translation": "страницы-сироты"
+      },
+      {
+        "term": "SaaS (software as a service)",
+        "translation": "программное обеспечение как услуга"
+      },
+      {
+        "term": "PaaS (platform as a service)",
+        "translation": "платформа как услуга"
+      },
+      {
+        "term": "IaaS (infrastructure as a service)",
+        "translation": "инфраструктура как услуга"
+      },
+      {
+        "term": "cloud deployment model",
+        "translation": "модель использования облака"
+      },
+      {
+        "term": "on-demand self-service",
+        "translation": "система самообслуживания по запросу"
+      },
+      {
+        "term": "metering",
+        "translation": "измерение"
+      },
+      {
+        "term": "resource pooling",
+        "translation": "объединение ресурсов"
+      },
+      {
+        "term": "elasticity",
+        "translation": "эластичность"
+      },
+      {
+        "term": "scalability",
+        "translation": "масштабируемость"
+      },
+      {
+        "term": "agile",
+        "translation": "гибкий"
+      },
+      {
+        "term": "multi-tenant",
+        "translation": "многопользовательский"
+      },
+      {
+        "term": "coherent",
+        "translation": "последовательный, согласованный, связный"
+      },
+      {
+        "term": "pay as you go",
+        "translation": "оплата по мере использования"
+      },
+      {
+        "term": "packet-switched",
+        "translation": "с коммутацией пакетов"
+      },
+      {
+        "term": "lease",
+        "translation": "сдавать в аренду"
+      },
+      {
+        "term": "evolve",
+        "translation": "развиваться, эволюционировать"
+      },
+      {
+        "term": "provision",
+        "translation": "обеспечивать"
+      },
+      {
+        "term": "launch a website",
+        "translation": "запустить сайт"
+      },
+      {
+        "term": "prioritize functionality over aesthetics",
+        "translation": "отдавать приоритет функциональности, а не эстетике"
+      },
+      {
+        "term": "add dynamic content",
+        "translation": "добавить динамичный контент"
+      },
+      {
+        "term": "maintain websites",
+        "translation": "обслуживать вебсайты"
+      },
+      {
+        "term": "be perfected to the limit",
+        "translation": "быть усовершенствованным до предела"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "cards": [
+      {
+        "term": "Ransomware",
+        "translation": "программа-вымогатель"
+      },
+      {
+        "term": "Phishing",
+        "translation": "интернет мошенничество,фишинг"
+      },
+      {
+        "term": "Malvertising",
+        "translation": "вирусная реклама в интернете"
+      },
+      {
+        "term": "Malware (Malicious Software)",
+        "translation": "вредоносное ПО"
+      },
+      {
+        "term": "Replication",
+        "translation": "копирование, дублирование"
+      },
+      {
+        "term": "vulnerability",
+        "translation": "уязвимость"
+      },
+      {
+        "term": "keystroke",
+        "translation": "нажатие клавиши или кнопки"
+      },
+      {
+        "term": "Spyware",
+        "translation": "программа-шпион, шпионское программное обеспечение"
+      },
+      {
+        "term": "Grayware",
+        "translation": "потенциально нежелательное ПО"
+      },
+      {
+        "term": "Rootkit",
+        "translation": "вредоносное ПО, которое обеспечивает маскировку процессов и файлов, управление событиями в системе и сбор данных системы,руткит"
+      },
+      {
+        "term": "Keylogger",
+        "translation": "клавиатурный шпион, клавиатурный перехватчик"
+      },
+      {
+        "term": "Toolbar",
+        "translation": "панель инструментов (на экране компьютера)"
+      },
+      {
+        "term": "gain",
+        "translation": "получать, приобретать"
+      },
+      {
+        "term": "self-replicate",
+        "translation": "самовоспроизводиться"
+      },
+      {
+        "term": "evade",
+        "translation": "избегать, уклоняться"
+      },
+      {
+        "term": "corrupt",
+        "translation": "портиться/испорченный или коррумпированный"
+      },
+      {
+        "term": "compromise",
+        "translation": "(здесь) взломать,"
+      },
+      {
+        "term": "alter",
+        "translation": "изменять, переделывать"
+      },
+      {
+        "term": "disguise",
+        "translation": "маскировать, скрывать"
+      },
+      {
+        "term": "Exfiltrate",
+        "translation": "просачиваться"
+      },
+      {
+        "term": "deem",
+        "translation": "считать, полагать"
+      },
+      {
+        "term": "malicious",
+        "translation": "вредоносный, зловредный"
+      },
+      {
+        "term": "menacing",
+        "translation": "грозный, угрожающий"
+      },
+      {
+        "term": "intrusive",
+        "translation": "навязчивый, назойливый"
+      },
+      {
+        "term": "Data Breach",
+        "translation": "утечка данных, уязвимость данных"
+      },
+      {
+        "term": "Backdoor Virus",
+        "translation": "вирус бэкдора"
+      },
+      {
+        "term": "denial of service attack",
+        "translation": "атака (системы) с целью нарушения нормального обслуживания пользователей"
+      },
+      {
+        "term": "Obfuscation Technique",
+        "translation": "метод запутывания"
+      },
+      {
+        "term": "Fileless Malware",
+        "translation": "вредоносное ПО без файлов"
+      },
+      {
+        "term": "peer-to-peer",
+        "translation": "одноранговый, равный"
+      },
+      {
+        "term": "potentially unwanted program (PUP)",
+        "translation": "потенциально нежелательная программа"
+      },
+      {
+        "term": "Firewall",
+        "translation": "брандмауэр, межсетевой экран"
+      },
+      {
+        "term": "fraudulent",
+        "translation": "мошеннический, обманный"
+      },
+      {
+        "term": "bundled with",
+        "translation": "В комплекте с"
+      },
+      {
+        "term": "harbor",
+        "translation": "скрывать, укрывать"
+      },
+      {
+        "term": "hijack",
+        "translation": "похищать"
+      },
+      {
+        "term": "Mitigation",
+        "translation": "зд. решение"
+      },
+      {
+        "term": "lure",
+        "translation": "завлекать, приманивать"
+      },
+      {
+        "term": "Arbitrary Code",
+        "translation": "произвольный код"
+      },
+      {
+        "term": "Evasion Techniques",
+        "translation": "методы уклонения"
+      },
+      {
+        "term": "credentials",
+        "translation": "реквизиты для входа,учетные данные, полномочия, рекомендации"
+      },
+      {
+        "term": "prosecute",
+        "translation": "преследовать в судебном порядке, обвинять"
+      },
+      {
+        "term": "Inoculation",
+        "translation": "прививка, вакцинация"
+      },
+      {
+        "term": "lackluster",
+        "translation": "неэффективный, низкий"
+      },
+      {
+        "term": "impersonate",
+        "translation": "выдавать себя за другое лицо"
+      },
+      {
+        "term": "Invasive",
+        "translation": "назойливый,"
+      },
+      {
+        "term": "evolve to",
+        "translation": "превращаться в, развиваться"
+      },
+      {
+        "term": "abuse",
+        "translation": "неверно использовать, злоумышленно использовать, обманывать, подделывать"
+      },
+      {
+        "term": "program routine",
+        "translation": "Подпрограмма"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "cards": [
+      {
+        "term": "corruption",
+        "translation": "нарушение"
+      },
+      {
+        "term": "theft",
+        "translation": "кража"
+      },
+      {
+        "term": "encryption",
+        "translation": "шифрование"
+      },
+      {
+        "term": "decryption",
+        "translation": "расшифровка"
+      },
+      {
+        "term": "recipient",
+        "translation": "получатель, адресат"
+      },
+      {
+        "term": "tokenization",
+        "translation": "токенизация"
+      },
+      {
+        "term": "liability",
+        "translation": "ответственность, обязательство"
+      },
+      {
+        "term": "ransomware",
+        "translation": "программа-вымогатель"
+      },
+      {
+        "term": "imposter",
+        "translation": "самозванец, обманщик"
+      },
+      {
+        "term": "fraud",
+        "translation": "обман, мошенничество"
+      },
+      {
+        "term": "hassle",
+        "translation": "барьер, преграда, препятствие, трудность"
+      },
+      {
+        "term": "trickery",
+        "translation": "обман"
+      },
+      {
+        "term": "asset",
+        "translation": "актив, вклад"
+      },
+      {
+        "term": "safeguard",
+        "translation": "защищать"
+      },
+      {
+        "term": "comply",
+        "translation": "соблюдать, выполнять, подчиняться"
+      },
+      {
+        "term": "accompany",
+        "translation": "сопровождать"
+      },
+      {
+        "term": "scramble",
+        "translation": "путать, перемешивать"
+      },
+      {
+        "term": "intercept",
+        "translation": "перехватить"
+      },
+      {
+        "term": "obscure",
+        "translation": "запутывать, затруднять понимание, скрывать"
+      },
+      {
+        "term": "restore",
+        "translation": "восстанавливать"
+      },
+      {
+        "term": "overwhelm",
+        "translation": "перегрузить"
+      },
+      {
+        "term": "legitimate (v)",
+        "translation": "узаконивать"
+      },
+      {
+        "term": "bait",
+        "translation": "заманивать"
+      },
+      {
+        "term": "exploit",
+        "translation": "использовать, эксплуатировать, наживаться"
+      },
+      {
+        "term": "evade",
+        "translation": "избегать, уклоняться"
+      },
+      {
+        "term": "defraud",
+        "translation": "обманывать, мошенничать"
+      },
+      {
+        "term": "robust",
+        "translation": "крепкий, здоровый, сильный"
+      },
+      {
+        "term": "high-profile",
+        "translation": "привлекающий внимание, заметный"
+      },
+      {
+        "term": "stellar",
+        "translation": "выдающийся / звёздный"
+      },
+      {
+        "term": "malware-infected",
+        "translation": "зараженный вредоносным ПО"
+      },
+      {
+        "term": "discarded",
+        "translation": "выброшенный, выкинутый"
+      },
+      {
+        "term": "malicious",
+        "translation": "злобный, злонамеренный"
+      },
+      {
+        "term": "trustworthy",
+        "translation": "надежный, заслуживающий доверия"
+      },
+      {
+        "term": "vigilant",
+        "translation": "внимательный, осмотрительный, бдительный"
+      },
+      {
+        "term": "spoofed",
+        "translation": "поддельный"
+      },
+      {
+        "term": "fraudulent",
+        "translation": "мошеннический"
+      },
+      {
+        "term": "derogatory",
+        "translation": "уничижительный, унизительный"
+      },
+      {
+        "term": "inflammatory",
+        "translation": "подстрекательский"
+      },
+      {
+        "term": "brutish",
+        "translation": "жестокий, зверский"
+      },
+      {
+        "term": "stringent",
+        "translation": "строгий, жесткий"
+      },
+      {
+        "term": "legitimate (adj)",
+        "translation": "законный, легальный"
+      },
+      {
+        "term": "fortified",
+        "translation": "укрепленный"
+      },
+      {
+        "term": "pervasive",
+        "translation": "распространяющийся, проникающий, пропитывающий, заполняющий"
+      },
+      {
+        "term": "data security",
+        "translation": "защита данных, сохранность данных, безопасность хранения данных"
+      },
+      {
+        "term": "data masking",
+        "translation": "маскирование данных"
+      },
+      {
+        "term": "data breach",
+        "translation": "утечка данных"
+      },
+      {
+        "term": "competitive edge",
+        "translation": "конкурентоспособность"
+      },
+      {
+        "term": "deploy patches",
+        "translation": "развертывать исправления (Patch deployment ensures that the fixes are installed on every system that uses the software in question)."
+      },
+      {
+        "term": "data encryption",
+        "translation": "шифрование данных"
+      },
+      {
+        "term": "decryption key",
+        "translation": "ключ дешифрования"
+      },
+      {
+        "term": "gain access",
+        "translation": "получить доступ"
+      },
+      {
+        "term": "data erasure",
+        "translation": "стирание, уничтожение данных"
+      },
+      {
+        "term": "mitigate the risk",
+        "translation": "снижать риск"
+      },
+      {
+        "term": "data backup",
+        "translation": "Резервное копирование данных"
+      },
+      {
+        "term": "ransomware attack",
+        "translation": "атака в целях вымогательства выкупа"
+      },
+      {
+        "term": "denial-of-service (DoS) attack",
+        "translation": "атака типа «отказ в обслуживании»"
+      },
+      {
+        "term": "distributed denial-of-service (DDoS) attack",
+        "translation": "распределенная атака типа «отказ в обслуживании»"
+      },
+      {
+        "term": "drain the resources",
+        "translation": "истощать ресурсы"
+      },
+      {
+        "term": "illegitimate requests",
+        "translation": "неправомерные запросы"
+      },
+      {
+        "term": "phishing attack",
+        "translation": "фишинговая атака"
+      },
+      {
+        "term": "credential theft",
+        "translation": "кража учетных данных"
+      },
+      {
+        "term": "autorun files",
+        "translation": "файлы автозапуска"
+      },
+      {
+        "term": "domain name system (DNS) spoofing",
+        "translation": "подмена доменной системы имен (DNS)"
+      },
+      {
+        "term": "brute force attack",
+        "translation": "атака полным перебором"
+      },
+      {
+        "term": "login credentials",
+        "translation": "учетные данные для входа"
+      },
+      {
+        "term": "crack the credentials",
+        "translation": "взломать учетные данные"
+      },
+      {
+        "term": "lock-out policies",
+        "translation": "политика блокировки"
+      },
+      {
+        "term": "bypass the lockout",
+        "translation": "обойти блокировку"
+      },
+      {
+        "term": "drive-by attack",
+        "translation": "атака с помощью скрытой загрузки"
+      },
+      {
+        "term": "malicious code",
+        "translation": "вредоносный код"
+      },
+      {
+        "term": "web-filtering software",
+        "translation": "программное обеспечение для веб-фильтрации"
+      },
+      {
+        "term": "social engineering",
+        "translation": "социальная инженерия, получение личной информации из интернета незаконным образом (обманывая пользователей)"
+      },
+      {
+        "term": "virtual private network (VPN)",
+        "translation": "Виртуальная частная сеть, ВПН"
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "cards": [
+      {
+        "term": "computer program",
+        "translation": "компьютерная программа"
+      },
+      {
+        "term": "machine language",
+        "translation": "язык программирования"
+      },
+      {
+        "term": "algorithm",
+        "translation": "алгоритм"
+      },
+      {
+        "term": "high-level language",
+        "translation": "язык высокого уровня"
+      },
+      {
+        "term": "low-level language",
+        "translation": "язык низкого уровня"
+      },
+      {
+        "term": "assembly language",
+        "translation": "язык ассемблера"
+      },
+      {
+        "term": "text editor",
+        "translation": "текстовый редактор"
+      },
+      {
+        "term": "compiler",
+        "translation": "компилятор"
+      },
+      {
+        "term": "interpreter",
+        "translation": "интерпретатор"
+      },
+      {
+        "term": "syntax",
+        "translation": "синтаксис"
+      },
+      {
+        "term": "variables",
+        "translation": "переменные"
+      },
+      {
+        "term": "operator",
+        "translation": "оператор"
+      },
+      {
+        "term": "addition",
+        "translation": "сложение"
+      },
+      {
+        "term": "subtraction",
+        "translation": "вычитание"
+      },
+      {
+        "term": "comparison",
+        "translation": "сравнение"
+      },
+      {
+        "term": "loop",
+        "translation": "цикл"
+      },
+      {
+        "term": "library",
+        "translation": "библиотека (заранее определенные функции и классы)"
+      },
+      {
+        "term": "framework",
+        "translation": "фреймворк (основа вашего приложения)"
+      },
+      {
+        "term": "immutability",
+        "translation": "неизменяемость"
+      },
+      {
+        "term": "onslaught",
+        "translation": "натиск, напор"
+      },
+      {
+        "term": "legitimate",
+        "translation": "допустимый, законный"
+      },
+      {
+        "term": "number-crunching (tasks)",
+        "translation": "задачи, связанные с интенсивными вычислениями, обработкой чисел"
+      },
+      {
+        "term": "deterministic",
+        "translation": "детерминированный"
+      },
+      {
+        "term": "tedious",
+        "translation": "утомительный, нудный"
+      },
+      {
+        "term": "groundbreaking",
+        "translation": "новаторский, прорывной (в области технологий или методов)"
+      },
+      {
+        "term": "procedural",
+        "translation": "процедурный"
+      },
+      {
+        "term": "object-oriented",
+        "translation": "объектно-ориентированный"
+      },
+      {
+        "term": "intended",
+        "translation": "предназначенный"
+      },
+      {
+        "term": "embed",
+        "translation": "внедрять, встраивать"
+      },
+      {
+        "term": "encompass",
+        "translation": "охватывать, включать в себя"
+      },
+      {
+        "term": "carry out",
+        "translation": "выполнять, осуществлять"
+      },
+      {
+        "term": "resemble",
+        "translation": "напоминать, быть похожим на"
+      },
+      {
+        "term": "adhere to",
+        "translation": "придерживаться (правил, стандартов)"
+      },
+      {
+        "term": "invent",
+        "translation": "изобретать, придумывать"
+      },
+      {
+        "term": "fluctuate",
+        "translation": "колебаться, изменяться"
+      },
+      {
+        "term": "eliminate",
+        "translation": "устранять, исключать"
+      },
+      {
+        "term": "conjure up",
+        "translation": "вызывать в воображении; создавать (идеи или образы)"
+      },
+      {
+        "term": "the desired outcome",
+        "translation": "желаемый результат"
+      },
+      {
+        "term": "in one go",
+        "translation": "за один раз"
+      },
+      {
+        "term": "write code at a more granular level",
+        "translation": "писать код на более детальном уровне"
+      },
+      {
+        "term": "execute powerful operations",
+        "translation": "выполнять мощные операции"
+      },
+      {
+        "term": "to lay the foundation",
+        "translation": "заложить основу"
+      },
+      {
+        "term": "involve real-world objects",
+        "translation": "включать реальные объекты"
+      },
+      {
+        "term": "require detailed knowledge of",
+        "translation": "требовать подробных знаний о"
+      },
+      {
+        "term": "pave the way to / for computer programming languages",
+        "translation": "прокладывать путь к / для языков программирования"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "cards": [
+      {
+        "term": "set-top box",
+        "translation": "телевизионная приставка, телевизионный преобразователь"
+      },
+      {
+        "term": "file extension",
+        "translation": "расширение файла"
+      },
+      {
+        "term": "Information Sharing",
+        "translation": "обмен информацией; информирование"
+      },
+      {
+        "term": "fall through",
+        "translation": "проваливаться; терпеть неудачу"
+      },
+      {
+        "term": "JVM",
+        "translation": "Виртуальная машина Java (Java Virtual Machine) - это механизм, предоставляющий среду выполнения для управления Java-кодом или приложениями. Виртуальная машина является независимой оболочкой исполнения кода, благодаря которой возможен её запуск на любой ОС, без влияния ОС на выполняемую программу."
+      },
+      {
+        "term": "Applet",
+        "translation": "прикладная мини-программа"
+      },
+      {
+        "term": "JRE",
+        "translation": "исполняющая система Java,"
+      },
+      {
+        "term": "Just-in-time (JIT) compiler",
+        "translation": "динамичный компилятор, JIT-компилятор"
+      },
+      {
+        "term": "Java Development Kit (JDK)",
+        "translation": "Инструментальный набор JDKнабор для разработки Java-приложений"
+      },
+      {
+        "term": "Switch-case",
+        "translation": "оператор ветвления"
+      },
+      {
+        "term": "object-oriented",
+        "translation": "объектно-ориентированный, целевой"
+      },
+      {
+        "term": "API",
+        "translation": "программный интерфейс приложения"
+      },
+      {
+        "term": "cornerstone",
+        "translation": "фундаментальный элемент, основа основ"
+      },
+      {
+        "term": "stem from",
+        "translation": "происходить от (чего-л.) ; являться результатом (чего-л.)"
+      },
+      {
+        "term": "foster",
+        "translation": "способствовать"
+      },
+      {
+        "term": "runtime",
+        "translation": "время выполнения"
+      },
+      {
+        "term": "Remote Method Invocation (RMI)",
+        "translation": "программный интерфейс вызова удалённых методов"
+      },
+      {
+        "term": "Java Message Service (JMS)",
+        "translation": "Служба сообщений Java, интерфейс JMS"
+      },
+      {
+        "term": "Multithreading",
+        "translation": "многопотоковость, многопоточность"
+      },
+      {
+        "term": "concurrent",
+        "translation": "одновременный, параллельный"
+      },
+      {
+        "term": "stalwart",
+        "translation": "оплот,"
+      },
+      {
+        "term": "versatility",
+        "translation": "разносторонность,многосторонность, универсальность"
+      },
+      {
+        "term": "adherence",
+        "translation": "приверженность, верность,соблюдение"
+      },
+      {
+        "term": "pivotal",
+        "translation": "основной, центральный,ключевой"
+      },
+      {
+        "term": "vibrant",
+        "translation": "живой, энергичный, яркий"
+      },
+      {
+        "term": "evolving",
+        "translation": "развивающийся, эволюционирующий"
+      },
+      {
+        "term": "Thread Management",
+        "translation": "управление потоками"
+      },
+      {
+        "term": "witness",
+        "translation": "быть временем совершения, быть местом совершения, видеть"
+      },
+      {
+        "term": "source code",
+        "translation": "исходный код или текст программы"
+      },
+      {
+        "term": "surge",
+        "translation": "всплеск, скачок, резкий подъем"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "cards": [
+      {
+        "term": "Correlation",
+        "translation": "взаимосвязь, соотношение"
+      },
+      {
+        "term": "Reasoning",
+        "translation": "рассуждение, умозаключение"
+      },
+      {
+        "term": "Self-Correction",
+        "translation": "самоисправление, самокорреляция"
+      },
+      {
+        "term": "array",
+        "translation": "массив, множество"
+      },
+      {
+        "term": "query",
+        "translation": "вопрос, запрос"
+      },
+      {
+        "term": "pinnacle",
+        "translation": "вершина, пик, апофеоз"
+      },
+      {
+        "term": "Workflow",
+        "translation": "рабочий процесс, последовательность выполняемых действий"
+      },
+      {
+        "term": "obstruction",
+        "translation": "препятствие, помеха"
+      },
+      {
+        "term": "infancy",
+        "translation": "раннее детство, младенчество, ранняя стадия"
+      },
+      {
+        "term": "bet",
+        "translation": "ставка, пари"
+      },
+      {
+        "term": "ingest",
+        "translation": "глотать, проглатывать"
+      },
+      {
+        "term": "underpin",
+        "translation": "поддерживать, подкреплять"
+      },
+      {
+        "term": "gain",
+        "translation": "получать, приобретать"
+      },
+      {
+        "term": "procure",
+        "translation": "достигать, добывать"
+      },
+      {
+        "term": "conflate",
+        "translation": "соединять, объединять"
+      },
+      {
+        "term": "plague",
+        "translation": "досаждать"
+      },
+      {
+        "term": "accurate",
+        "translation": "верный, правильный, точный"
+      },
+      {
+        "term": "detail-oriented",
+        "translation": "ориентированный на детали, внимательный"
+      },
+      {
+        "term": "outpace",
+        "translation": "опережать, идти быстрее"
+      },
+      {
+        "term": "subsidiary",
+        "translation": "дочерний, вспомогательный"
+      },
+      {
+        "term": "eponymous",
+        "translation": "одноименный, дающий чему-л. свое имя"
+      },
+      {
+        "term": "immense",
+        "translation": "огромный, безмерный, необъятный"
+      },
+      {
+        "term": "versatile",
+        "translation": "разносторонний, универсальный"
+      },
+      {
+        "term": "prominent",
+        "translation": "заметный, выступающий, выдающийся"
+      },
+      {
+        "term": "explicit",
+        "translation": "ясный, явный"
+      },
+      {
+        "term": "tedious",
+        "translation": "нудный, скучный, утомительный"
+      },
+      {
+        "term": "inevitable",
+        "translation": "неизбежный, неминуемый"
+      },
+      {
+        "term": "society-wide",
+        "translation": "в масштабах всего общества"
+      },
+      {
+        "term": "Machine Vision",
+        "translation": "автоматический анализ видеоинформации, искусственное зрение"
+      },
+      {
+        "term": "Actionable Information",
+        "translation": "полезная информация"
+      },
+      {
+        "term": "lead generation",
+        "translation": "привлечение потенциальных клиентов, лидогенерация"
+      },
+      {
+        "term": "Data Set",
+        "translation": "набор данных, массив данных"
+      },
+      {
+        "term": "umbrella term",
+        "translation": "обобщающий термин/понятие"
+      },
+      {
+        "term": "sentient",
+        "translation": "разумный"
+      },
+      {
+        "term": "rule-based system",
+        "translation": "экспертная система, экспертная система на основе продукционных правил"
+      },
+      {
+        "term": "Natural Language Processing",
+        "translation": "автоматическая обработка естественного языка; обработка текстов на естественных языках"
+      },
+      {
+        "term": "Artificial General Intelligence (AGI)",
+        "translation": "Общий искусственный интеллект, общий ИИ"
+      },
+      {
+        "term": "Robotic Process Automation (RPA)",
+        "translation": "роботизированная автоматизация процессов"
+      },
+      {
+        "term": "Supervised Learning",
+        "translation": "контролируемое обучение"
+      },
+      {
+        "term": "Reinforcement Learning",
+        "translation": "обучение с подкреплением"
+      },
+      {
+        "term": "Large Language Model (LLM)",
+        "translation": "большая языковая модель,статистическая языковая модель"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "cards": [
+      {
+        "term": "engage with (children)",
+        "translation": "взаимодействовать с детьми, участвовать в общении или деятельности с ними"
+      },
+      {
+        "term": "assembly line",
+        "translation": "сборочная линия (процесс массового производства)"
+      },
+      {
+        "term": "precision",
+        "translation": "точность"
+      },
+      {
+        "term": "implication",
+        "translation": "последствие, результат"
+      },
+      {
+        "term": "prosthesis",
+        "translation": "протез"
+      },
+      {
+        "term": "sci-fi story",
+        "translation": "научно-фантастический рассказ"
+      },
+      {
+        "term": "mechanization",
+        "translation": "механизация (замена ручного труда машинами)"
+      },
+      {
+        "term": "dehumanization",
+        "translation": "дегуманизация (отделение человека от его человеческих качеств)"
+      },
+      {
+        "term": "genetic modification",
+        "translation": "генетическая модификация (изменение генов)"
+      },
+      {
+        "term": "robots takeover",
+        "translation": "захват роботов, когда роботы управляют или заменяют людей"
+      },
+      {
+        "term": "springboard",
+        "translation": "трамплин, стартовая площадка (метафора для новых идей или технологий)"
+      },
+      {
+        "term": "eradication of death",
+        "translation": "искоренение смерти (попытки остановить смерть с помощью технологий)"
+      },
+      {
+        "term": "prophetic",
+        "translation": "пророческий, предвещающий будущее"
+      },
+      {
+        "term": "weird",
+        "translation": "странный, необычный"
+      },
+      {
+        "term": "ubiquitous",
+        "translation": "вездесущий, повсеместный"
+      },
+      {
+        "term": "targeted (solutions)",
+        "translation": "целенаправленные решения (нацеленные на конкретные проблемы)"
+      },
+      {
+        "term": "diminished (mental abilities)",
+        "translation": "ослабленные умственные способности"
+      },
+      {
+        "term": "feasible",
+        "translation": "осуществимый, реальный, возможный для реализации"
+      },
+      {
+        "term": "renewable (energy)",
+        "translation": "возобновляемая энергия (солнечная, ветровая и т.п.)"
+      },
+      {
+        "term": "wireless (earbuds)",
+        "translation": "беспроводные наушники"
+      },
+      {
+        "term": "cybernetic (implants)",
+        "translation": "кибернетические импланты (технологии внутри тела)"
+      },
+      {
+        "term": "foresee",
+        "translation": "предвидеть, предсказывать будущее"
+      },
+      {
+        "term": "feature",
+        "translation": "изображать, характеризовать"
+      },
+      {
+        "term": "originate from",
+        "translation": "происходить из, возникать из чего-то"
+      },
+      {
+        "term": "spread",
+        "translation": "распространяться"
+      },
+      {
+        "term": "boost (productivity)",
+        "translation": "повышать, увеличивать производительность"
+      },
+      {
+        "term": "perform (surgical procedures)",
+        "translation": "выполнять хирургические операции"
+      },
+      {
+        "term": "deliver (supplies) to",
+        "translation": "доставлять поставки кому-то/чему-то"
+      },
+      {
+        "term": "navigate (environments)",
+        "translation": "ориентироваться в окружающей среде или пространстве"
+      },
+      {
+        "term": "restrict yourself to",
+        "translation": "ограничивать себя чем-то, не выходить за рамки чего-то"
+      },
+      {
+        "term": "transmit (brain signals)",
+        "translation": "передавать сигналы мозга, посылать информацию из мозга"
+      },
+      {
+        "term": "be preferable to the uncertainty of a human relationship",
+        "translation": "быть предпочтительнее неопределенности человеческих отношений (речь идет о роботах)"
+      },
+      {
+        "term": "retreat to technological cocoons",
+        "translation": "уходить в технологические коконы, укрываться за технологиями для защиты или уединения"
+      },
+      {
+        "term": "alter human capabilities beyond their current natural limits",
+        "translation": "изменять человеческие возможности сверх их нынешних природных границ"
+      },
+      {
+        "term": "to be on the verge of an enhancement revolution",
+        "translation": "находиться на грани революции улучшений/усовершенствований"
+      },
+      {
+        "term": "do more harm than good",
+        "translation": "причинять больше вреда, чем пользы"
+      },
+      {
+        "term": "the core values of humankind",
+        "translation": "основные ценности человечества"
+      },
+      {
+        "term": "do a little digging into",
+        "translation": "немного копнуть в смысл или детали чего-то"
+      },
+      {
+        "term": "to be fitted into our brains",
+        "translation": "быть встроенным/установленным в наши мозги"
+      },
+      {
+        "term": "evolve into",
+        "translation": "эволюционировать, развиваться"
+      },
+      {
+        "term": "opt for",
+        "translation": "выбирать, предпочитать"
+      },
+      {
+        "term": "alleviate (problems)",
+        "translation": "облегчать, смягчать"
+      },
+      {
+        "term": "extinction of phones",
+        "translation": "исчезновение телефонов"
+      },
+      {
+        "term": "overcome (limitations)",
+        "translation": "преодолевать ограничения"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "cards": [
+      {
+        "term": "meetup",
+        "translation": "неформальная встреча"
+      },
+      {
+        "term": "internship",
+        "translation": "практика, стажировка"
+      },
+      {
+        "term": "advent",
+        "translation": "наступление (эпохи, события), прибытие, приход"
+      },
+      {
+        "term": "proliferation",
+        "translation": "распространение, быстрое увеличение"
+      },
+      {
+        "term": "programmer",
+        "translation": "программист"
+      },
+      {
+        "term": "swath",
+        "translation": "ряд, полоса"
+      },
+      {
+        "term": "expertise",
+        "translation": "опыт, знания, мастерство"
+      },
+      {
+        "term": "leadership",
+        "translation": "руководство (лидерство)"
+      },
+      {
+        "term": "workload",
+        "translation": "рабочая нагрузка"
+      },
+      {
+        "term": "scheduling",
+        "translation": "планирование"
+      },
+      {
+        "term": "shifting",
+        "translation": "изменение, передвижение"
+      },
+      {
+        "term": "stream",
+        "translation": "поток"
+      },
+      {
+        "term": "wireframe",
+        "translation": "схема макета, его «скелет» без дизайна, нужен для определения расположения всех элементов макета"
+      },
+      {
+        "term": "forefront",
+        "translation": "первый план, авангард"
+      },
+      {
+        "term": "spur",
+        "translation": "побуждать"
+      },
+      {
+        "term": "pursue",
+        "translation": "преследовать"
+      },
+      {
+        "term": "cater for",
+        "translation": "удовлетворять требования"
+      },
+      {
+        "term": "foster",
+        "translation": "способствовать"
+      },
+      {
+        "term": "gather",
+        "translation": "собирать (вместе)"
+      },
+      {
+        "term": "anticipate",
+        "translation": "ожидать, предвидеть"
+      },
+      {
+        "term": "plop down",
+        "translation": "плюхнуться, шлепнуться"
+      },
+      {
+        "term": "dive into",
+        "translation": "погрузиться в"
+      },
+      {
+        "term": "contribute",
+        "translation": "способствовать, вносить вклад"
+      },
+      {
+        "term": "agile",
+        "translation": "подвижный, проворный"
+      },
+      {
+        "term": "unprecedented",
+        "translation": "беспрецедентный, небывалый"
+      },
+      {
+        "term": "savvy",
+        "translation": "смышлёный, толковый, сообразительный"
+      },
+      {
+        "term": "digestible",
+        "translation": "легко усваиваемый"
+      },
+      {
+        "term": "self-directed",
+        "translation": "самостоятельный, самоуправляемый"
+      },
+      {
+        "term": "self-motivated",
+        "translation": "целеустремленный"
+      },
+      {
+        "term": "goal oriented",
+        "translation": "ориентированный на достижение цели"
+      },
+      {
+        "term": "much-in-demand",
+        "translation": "очень востребованный"
+      },
+      {
+        "term": "non-tech",
+        "translation": "нетехнический"
+      },
+      {
+        "term": "resilient",
+        "translation": "устойчивый, стойкий"
+      },
+      {
+        "term": "ever-expanding",
+        "translation": "постоянно расширяющийся"
+      },
+      {
+        "term": "information and communication technology (ICT)",
+        "translation": "информационно-коммуникационные технологии"
+      },
+      {
+        "term": "IT career path",
+        "translation": "Карьера в сфере ИТ"
+      },
+      {
+        "term": "competitive edge",
+        "translation": "конкурентное преимущество"
+      },
+      {
+        "term": "career landscape",
+        "translation": "карьерный ландшафт"
+      },
+      {
+        "term": "IT workforce",
+        "translation": "ИТ-персонал"
+      },
+      {
+        "term": "cybersecurity specialist",
+        "translation": "специалист по кибербезопасности"
+      },
+      {
+        "term": "data scientist",
+        "translation": "специалист по обработке и анализу данных"
+      },
+      {
+        "term": "web developer",
+        "translation": "Веб-разработчик"
+      },
+      {
+        "term": "network analyst",
+        "translation": "Сетевой аналитик"
+      },
+      {
+        "term": "web designer (webmaster)",
+        "translation": "веб-дизайнер (веб-мастер)"
+      },
+      {
+        "term": "computer operator",
+        "translation": "оператор ПК"
+      },
+      {
+        "term": "help desk technician",
+        "translation": "специалист службы поддержки"
+      },
+      {
+        "term": "technical writer",
+        "translation": "редактор технической документации"
+      },
+      {
+        "term": "quality assurance (QA)",
+        "translation": "контроль качества"
+      },
+      {
+        "term": "UX/UI designer",
+        "translation": "UX/UI-дизайнер"
+      },
+      {
+        "term": "AI engineer",
+        "translation": "Инженер ИИ"
+      },
+      {
+        "term": "software developer",
+        "translation": "разработчик программного обеспечения"
+      },
+      {
+        "term": "blockchain developer",
+        "translation": "Блокче́йн-разрабо́тчик"
+      },
+      {
+        "term": "project manager",
+        "translation": "руководитель проекта"
+      },
+      {
+        "term": "IT support specialist",
+        "translation": "Специалист по ИТ-поддержке"
+      },
+      {
+        "term": "network architect",
+        "translation": "сетевой архитектор"
+      },
+      {
+        "term": "system (network) administrator",
+        "translation": "системный (сетевой) администратор"
+      },
+      {
+        "term": "machine learning engineer",
+        "translation": "Инженер по машинному обучению"
+      },
+      {
+        "term": "e-commerce",
+        "translation": "электронная коммерция"
+      },
+      {
+        "term": "hard skills",
+        "translation": "профессиональные навыки"
+      },
+      {
+        "term": "soft skills",
+        "translation": "навыки межличностного общения"
+      },
+      {
+        "term": "problem-solving skills",
+        "translation": "навыки решения проблем"
+      },
+      {
+        "term": "team building",
+        "translation": "командообразование, тимбилдинг"
+      },
+      {
+        "term": "coding skills",
+        "translation": "навыки программирования"
+      },
+      {
+        "term": "communication skills",
+        "translation": "навыки общения"
+      },
+      {
+        "term": "teamwork",
+        "translation": "работа в команде"
+      },
+      {
+        "term": "time management",
+        "translation": "планирование рабочего времени"
+      },
+      {
+        "term": "critical thinking",
+        "translation": "аналитическое (критическое) мышление"
+      },
+      {
+        "term": "written communication",
+        "translation": "письменное общение, переписка"
+      },
+      {
+        "term": "oral communication",
+        "translation": "устное общение"
+      },
+      {
+        "term": "logical thinking",
+        "translation": "логическое мышление"
+      },
+      {
+        "term": "meet deadlines",
+        "translation": "укладываться в сроки"
+      },
+      {
+        "term": "technology know-how",
+        "translation": "научно-технические знания"
+      },
+      {
+        "term": "hands-on experience",
+        "translation": "опыт практической работы"
+      },
+      {
+        "term": "penetration test",
+        "translation": "тест на проникновение с целью проверки системы защиты"
+      },
+      {
+        "term": "Exploratory Data Analysis (EDA)",
+        "translation": "разведывательный анализ данных (EDA)"
+      },
+      {
+        "term": "remote working team",
+        "translation": "удаленная рабочая команда"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "cards": [
+      {
+        "term": "speciality",
+        "translation": "специальность"
+      },
+      {
+        "term": "major",
+        "translation": "ведущая, профильная дисциплина"
+      },
+      {
+        "term": "qualifications",
+        "translation": "квалификация, диплом"
+      },
+      {
+        "term": "professional",
+        "translation": "профессионал"
+      },
+      {
+        "term": "specialist",
+        "translation": "специалист"
+      },
+      {
+        "term": "capability",
+        "translation": "способность, умение"
+      },
+      {
+        "term": "certifications",
+        "translation": "квалификационные документы"
+      },
+      {
+        "term": "roadmap",
+        "translation": "план действий"
+      },
+      {
+        "term": "abstraction",
+        "translation": "абстракция, обобщение"
+      },
+      {
+        "term": "complexity",
+        "translation": "сложность, комплексность, запутанность"
+      },
+      {
+        "term": "precision",
+        "translation": "точность, аккуратность"
+      },
+      {
+        "term": "underpinning",
+        "translation": "подкрепление, объяснение"
+      },
+      {
+        "term": "documentation",
+        "translation": "документация"
+      },
+      {
+        "term": "repository",
+        "translation": "хранилище"
+      },
+      {
+        "term": "internals",
+        "translation": "внутренности, внутреннее состояние"
+      },
+      {
+        "term": "proficiency",
+        "translation": "опытность, умение, уровень владения"
+      },
+      {
+        "term": "concurrency",
+        "translation": "совпадение, согласованность"
+      },
+      {
+        "term": "parallelism",
+        "translation": "параллелизм"
+      },
+      {
+        "term": "handling",
+        "translation": "обработка"
+      },
+      {
+        "term": "persistence",
+        "translation": "упорство, настойчивость"
+      },
+      {
+        "term": "consequences",
+        "translation": "следствие, последствие, результат"
+      },
+      {
+        "term": "self-study",
+        "translation": "самообучение"
+      },
+      {
+        "term": "clarity",
+        "translation": "ясность, четкость"
+      },
+      {
+        "term": "fascination",
+        "translation": "увлечение"
+      },
+      {
+        "term": "methodology",
+        "translation": "методология, методика"
+      },
+      {
+        "term": "scope",
+        "translation": "рамки, сфера, возможности, масштаб"
+      },
+      {
+        "term": "innovator",
+        "translation": "новатор"
+      },
+      {
+        "term": "résumé",
+        "translation": "резюме"
+      },
+      {
+        "term": "evaluate",
+        "translation": "оценивать, вычислять"
+      },
+      {
+        "term": "enroll",
+        "translation": "записываться"
+      },
+      {
+        "term": "apply",
+        "translation": "подать заявление"
+      },
+      {
+        "term": "resonate",
+        "translation": "находить отклик"
+      },
+      {
+        "term": "admire",
+        "translation": "любоваться, восхищаться"
+      },
+      {
+        "term": "challenge (v)",
+        "translation": "бросать вызов"
+      },
+      {
+        "term": "balance (v)",
+        "translation": "балансировать"
+      },
+      {
+        "term": "strengthen",
+        "translation": "усиливать, укреплять"
+      },
+      {
+        "term": "craft (v)",
+        "translation": "мастерить, создавать"
+      },
+      {
+        "term": "tackle",
+        "translation": "схватить, взяться"
+      },
+      {
+        "term": "blend",
+        "translation": "смешивать"
+      },
+      {
+        "term": "showcase",
+        "translation": "демонстрировать"
+      },
+      {
+        "term": "targeted",
+        "translation": "нацеленный, целевой"
+      },
+      {
+        "term": "challenging",
+        "translation": "стимулирующий, побуждающий"
+      },
+      {
+        "term": "meaningful",
+        "translation": "значимый"
+      },
+      {
+        "term": "interdisciplinary",
+        "translation": "междисциплинарный"
+      },
+      {
+        "term": "solid",
+        "translation": "твердый, прочный"
+      },
+      {
+        "term": "time-consuming",
+        "translation": "отнимающий много времени"
+      },
+      {
+        "term": "drawn",
+        "translation": "заинтересованный, привлеченный"
+      },
+      {
+        "term": "scalable",
+        "translation": "масштабируемый, расширяемый"
+      },
+      {
+        "term": "committed",
+        "translation": "преданный, приверженный"
+      },
+      {
+        "term": "dependable",
+        "translation": "надёжный, заслуживающий доверия"
+      },
+      {
+        "term": "energy-efficient",
+        "translation": "энергоэффективный"
+      },
+      {
+        "term": "concise",
+        "translation": "краткий, лаконичный"
+      },
+      {
+        "term": "field of study",
+        "translation": "область изучения"
+      },
+      {
+        "term": "job interview",
+        "translation": "собеседование на работу"
+      },
+      {
+        "term": "curriculum vitae (CV)",
+        "translation": "краткая биография, резюме"
+      },
+      {
+        "term": "computer science",
+        "translation": "информатика"
+      },
+      {
+        "term": "applied mathematics",
+        "translation": "прикладная математика"
+      },
+      {
+        "term": "cybersecurity",
+        "translation": "кибербезопасность"
+      },
+      {
+        "term": "applied computer science",
+        "translation": "прикладная информатика"
+      },
+      {
+        "term": "information (data) security specialist",
+        "translation": "специалист по информационной безопасности (безопасности данных)"
+      },
+      {
+        "term": "computer scientist",
+        "translation": "компьютерный специалист, информатик, программист"
+      },
+      {
+        "term": "system analyst-programmer",
+        "translation": "системный аналитик-программист"
+      },
+      {
+        "term": "applied mathematician",
+        "translation": "прикладной математик"
+      },
+      {
+        "term": "academic papers",
+        "translation": "научные труды, статьи"
+      },
+      {
+        "term": "open-source repositories",
+        "translation": "репозитории с открытым исходным кодом"
+      },
+      {
+        "term": "development tools",
+        "translation": "средства разработки"
+      },
+      {
+        "term": "stay current",
+        "translation": "идти в ногу со временем"
+      },
+      {
+        "term": "under pressure",
+        "translation": "в стрессовой ситуации"
+      },
+      {
+        "term": "memory-mapped registers",
+        "translation": "регистры, отображенные в памяти"
+      },
+      {
+        "term": "dual-role expert",
+        "translation": "эксперт двойной роли"
+      },
+      {
+        "term": "digital assets",
+        "translation": "цифровые активы"
+      },
+      {
+        "term": "push boundaries",
+        "translation": "расширять границы"
+      },
+      {
+        "term": "complex issues",
+        "translation": "сложные вопросы (проблемы)"
+      },
+      {
+        "term": "show voice",
+        "translation": "показать голос"
+      },
+      {
+        "term": "personal trait",
+        "translation": "черта личности"
+      },
+      {
+        "term": "bullet points",
+        "translation": "пункты списка"
+      },
+      {
+        "term": "CV template",
+        "translation": "шаблон резюме"
+      },
+      {
+        "term": "work experience",
+        "translation": "опыт работы"
+      },
+      {
+        "term": "CV objective",
+        "translation": "цель резюме"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4126 @@
+{
+  "version": 1,
+  "units": [
+    {
+      "id": 1,
+      "title": "COMPUTER NETWORKS",
+      "sourceUrl": "https://quizlet.com/820231498/computer-networks-flash-cards/",
+      "count": 50
+    },
+    {
+      "id": 2,
+      "title": "THE WORLD WIDE WEB",
+      "sourceUrl": "https://quizlet.com/1047050796/the-world-wide-web-flash-cards/",
+      "count": 47
+    },
+    {
+      "id": 3,
+      "title": "WEBSITES AND THE INTERNET",
+      "sourceUrl": "https://quizlet.com/1057811602/websites-cloud-computing-flash-cards/",
+      "count": 31
+    },
+    {
+      "id": 4,
+      "title": "COMPUTER MALWARE",
+      "sourceUrl": "https://quizlet.com/1049941332/computer-malwares-flash-cards/",
+      "count": 49
+    },
+    {
+      "id": 5,
+      "title": "DATA SECURITY",
+      "sourceUrl": "https://quizlet.com/1052691491/unit-5-data-security-flash-cards/",
+      "count": 72
+    },
+    {
+      "id": 6,
+      "title": "PROGRAMMING LANGUAGES",
+      "sourceUrl": "https://quizlet.com/1052023992/unit-6-programming-languages-flash-cards/",
+      "count": 47
+    },
+    {
+      "id": 7,
+      "title": "JAVA",
+      "sourceUrl": "https://quizlet.com/1051355218/java-flash-cards/",
+      "count": 30
+    },
+    {
+      "id": 8,
+      "title": "ARTIFICIAL INTELLIGENCE",
+      "sourceUrl": "https://quizlet.com/1053385789/ai-flash-cards/",
+      "count": 41
+    },
+    {
+      "id": 9,
+      "title": "FUTURE TECHNOLOGIES",
+      "sourceUrl": "https://quizlet.com/1056143329/unit-9-future-technologies-flash-cards/",
+      "count": 57
+    },
+    {
+      "id": 10,
+      "title": "IT CAREERS",
+      "sourceUrl": "https://quizlet.com/1056183842/unit-10-it-careers-flash-cards/",
+      "count": 76
+    },
+    {
+      "id": 11,
+      "title": "MY SPECIALITY",
+      "sourceUrl": "https://quizlet.com/1056853637/unit-11-my-speciality-flash-cards/",
+      "count": 79
+    }
+  ],
+  "words": [
+    {
+      "id": "u01-001",
+      "unit": 1,
+      "term": "Analog signals",
+      "partOfSpeech": "n",
+      "translation": "аналоговые сигналы"
+    },
+    {
+      "id": "u01-002",
+      "unit": 1,
+      "term": "Appliance",
+      "partOfSpeech": "n",
+      "translation": "приспособление, прибор"
+    },
+    {
+      "id": "u01-003",
+      "unit": 1,
+      "term": "Broadband",
+      "partOfSpeech": "n",
+      "translation": "широкополосный"
+    },
+    {
+      "id": "u01-004",
+      "unit": 1,
+      "term": "Bus topology",
+      "partOfSpeech": "n",
+      "translation": "Шинная топология"
+    },
+    {
+      "id": "u01-005",
+      "unit": 1,
+      "term": "Client/server network",
+      "partOfSpeech": "n",
+      "translation": "Сеть клиент-сервер"
+    },
+    {
+      "id": "u01-006",
+      "unit": 1,
+      "term": "Collide",
+      "partOfSpeech": "v",
+      "translation": "сталкиваться, вступать в противоречие"
+    },
+    {
+      "id": "u01-007",
+      "unit": 1,
+      "term": "Colon",
+      "partOfSpeech": "n",
+      "translation": "двоеточие"
+    },
+    {
+      "id": "u01-008",
+      "unit": 1,
+      "term": "Communication channel",
+      "partOfSpeech": "n",
+      "translation": "канал связи"
+    },
+    {
+      "id": "u01-009",
+      "unit": 1,
+      "term": "Congestion",
+      "partOfSpeech": "n",
+      "translation": "перегруженность"
+    },
+    {
+      "id": "u01-010",
+      "unit": 1,
+      "term": "Decimal (number) system",
+      "partOfSpeech": "n",
+      "translation": "десятичная система счисления"
+    },
+    {
+      "id": "u01-011",
+      "unit": 1,
+      "term": "Digital signals",
+      "partOfSpeech": "n",
+      "translation": "цифровые сигналы"
+    },
+    {
+      "id": "u01-012",
+      "unit": 1,
+      "term": "Diffuse",
+      "partOfSpeech": "v",
+      "translation": "рассеивать, распространять"
+    },
+    {
+      "id": "u01-013",
+      "unit": 1,
+      "term": "Distorted",
+      "partOfSpeech": "adj",
+      "translation": "искаженный"
+    },
+    {
+      "id": "u01-014",
+      "unit": 1,
+      "term": "Emerging",
+      "partOfSpeech": "adj",
+      "translation": "развивающийся, начинающий существование"
+    },
+    {
+      "id": "u01-015",
+      "unit": 1,
+      "term": "Fiber optics",
+      "partOfSpeech": "n",
+      "translation": "оптическое волокно"
+    },
+    {
+      "id": "u01-016",
+      "unit": 1,
+      "term": "Gateway",
+      "partOfSpeech": "n",
+      "translation": "шлюз"
+    },
+    {
+      "id": "u01-017",
+      "unit": 1,
+      "term": "Govern",
+      "partOfSpeech": "v",
+      "translation": "управлять"
+    },
+    {
+      "id": "u01-018",
+      "unit": 1,
+      "term": "Hotspot",
+      "partOfSpeech": "n",
+      "translation": "беспроводная точка доступа"
+    },
+    {
+      "id": "u01-019",
+      "unit": 1,
+      "term": "Hub",
+      "partOfSpeech": "n",
+      "translation": "концентратор"
+    },
+    {
+      "id": "u01-020",
+      "unit": 1,
+      "term": "Ideation",
+      "partOfSpeech": "n",
+      "translation": "способность к формированию и восприятию идей"
+    },
+    {
+      "id": "u01-021",
+      "unit": 1,
+      "term": "Instant",
+      "partOfSpeech": "adj",
+      "translation": "мгновенный"
+    },
+    {
+      "id": "u01-022",
+      "unit": 1,
+      "term": "IP address",
+      "partOfSpeech": "n",
+      "translation": "IP-адрес"
+    },
+    {
+      "id": "u01-023",
+      "unit": 1,
+      "term": "Local area network (LAN)",
+      "partOfSpeech": "n",
+      "translation": "локальная сеть"
+    },
+    {
+      "id": "u01-024",
+      "unit": 1,
+      "term": "Malware",
+      "partOfSpeech": "n",
+      "translation": "вредоносное ПО"
+    },
+    {
+      "id": "u01-025",
+      "unit": 1,
+      "term": "Mesh topology",
+      "partOfSpeech": "n",
+      "translation": "топология сетки, ячеистая топология, многосвязная сеть"
+    },
+    {
+      "id": "u01-026",
+      "unit": 1,
+      "term": "Metropolitan area network (MAN)",
+      "partOfSpeech": "n",
+      "translation": "Городская сеть"
+    },
+    {
+      "id": "u01-027",
+      "unit": 1,
+      "term": "Modem",
+      "partOfSpeech": "n",
+      "translation": "модем, модулятор-демодулятор"
+    },
+    {
+      "id": "u01-028",
+      "unit": 1,
+      "term": "Network configuration",
+      "partOfSpeech": "n",
+      "translation": "сетевая конфигурация"
+    },
+    {
+      "id": "u01-029",
+      "unit": 1,
+      "term": "Network outage",
+      "partOfSpeech": "n",
+      "translation": "отказ сети"
+    },
+    {
+      "id": "u01-030",
+      "unit": 1,
+      "term": "Network topology",
+      "partOfSpeech": "n",
+      "translation": "сетевая топология"
+    },
+    {
+      "id": "u01-031",
+      "unit": 1,
+      "term": "Nodes",
+      "partOfSpeech": "n",
+      "translation": "аппаратные узлы (компоненты сети)"
+    },
+    {
+      "id": "u01-032",
+      "unit": 1,
+      "term": "Peer-to-peer network",
+      "partOfSpeech": "n",
+      "translation": "одноранговая сеть"
+    },
+    {
+      "id": "u01-033",
+      "unit": 1,
+      "term": "Personal area network (PAN)",
+      "partOfSpeech": "n",
+      "translation": "персональная сеть"
+    },
+    {
+      "id": "u01-034",
+      "unit": 1,
+      "term": "Premise",
+      "partOfSpeech": "n",
+      "translation": "предпосылка; исходное положение, служащее основой вывода или аргумента"
+    },
+    {
+      "id": "u01-035",
+      "unit": 1,
+      "term": "Receiver",
+      "partOfSpeech": "n",
+      "translation": "приемник"
+    },
+    {
+      "id": "u01-036",
+      "unit": 1,
+      "term": "Repeater",
+      "partOfSpeech": "n",
+      "translation": "ретранслятор"
+    },
+    {
+      "id": "u01-037",
+      "unit": 1,
+      "term": "Ring topology",
+      "partOfSpeech": "n",
+      "translation": "Кольцевая топология"
+    },
+    {
+      "id": "u01-038",
+      "unit": 1,
+      "term": "Router",
+      "partOfSpeech": "n",
+      "translation": "роутер"
+    },
+    {
+      "id": "u01-039",
+      "unit": 1,
+      "term": "Sample",
+      "partOfSpeech": "n",
+      "translation": "образец, шаблон"
+    },
+    {
+      "id": "u01-040",
+      "unit": 1,
+      "term": "Signal interference",
+      "partOfSpeech": "n",
+      "translation": "помехи сигнала"
+    },
+    {
+      "id": "u01-041",
+      "unit": 1,
+      "term": "Star topology",
+      "partOfSpeech": "n",
+      "translation": "топология звезда"
+    },
+    {
+      "id": "u01-042",
+      "unit": 1,
+      "term": "Switch",
+      "partOfSpeech": "n",
+      "translation": "сетевой коммутатор"
+    },
+    {
+      "id": "u01-043",
+      "unit": 1,
+      "term": "Telecommunication",
+      "partOfSpeech": "n",
+      "translation": "телекоммуникация"
+    },
+    {
+      "id": "u01-044",
+      "unit": 1,
+      "term": "Transmission",
+      "partOfSpeech": "n",
+      "translation": "передача"
+    },
+    {
+      "id": "u01-045",
+      "unit": 1,
+      "term": "Transmitter",
+      "partOfSpeech": "n",
+      "translation": "передатчик"
+    },
+    {
+      "id": "u01-046",
+      "unit": 1,
+      "term": "Tree topology",
+      "partOfSpeech": "n",
+      "translation": "древовидная топология"
+    },
+    {
+      "id": "u01-047",
+      "unit": 1,
+      "term": "Vulnerable",
+      "partOfSpeech": "adj",
+      "translation": "уязвимый"
+    },
+    {
+      "id": "u01-048",
+      "unit": 1,
+      "term": "Wide area network (WAN)",
+      "partOfSpeech": "n",
+      "translation": "глобальная сеть, широкомасштабная сеть"
+    },
+    {
+      "id": "u01-049",
+      "unit": 1,
+      "term": "Wireless fidelity (Wi-Fi)",
+      "partOfSpeech": "n",
+      "translation": "Вай-фай, беспроводной доступ в интернет"
+    },
+    {
+      "id": "u01-050",
+      "unit": 1,
+      "term": "Wireless local area network (WLAN)",
+      "partOfSpeech": "n",
+      "translation": "беспроводная локальная сеть"
+    },
+    {
+      "id": "u02-001",
+      "unit": 2,
+      "term": "Address bar",
+      "partOfSpeech": "n",
+      "translation": "адресная строка,"
+    },
+    {
+      "id": "u02-002",
+      "unit": 2,
+      "term": "Application layer",
+      "partOfSpeech": "n",
+      "translation": "протокол прикладного уровня, прикладной уровень"
+    },
+    {
+      "id": "u02-003",
+      "unit": 2,
+      "term": "Application Programming Interface (API)",
+      "partOfSpeech": "n",
+      "translation": "программный интерфейс приложения"
+    },
+    {
+      "id": "u02-004",
+      "unit": 2,
+      "term": "Coin",
+      "partOfSpeech": "v",
+      "translation": "придумывать, создавать"
+    },
+    {
+      "id": "u02-005",
+      "unit": 2,
+      "term": "Delete",
+      "partOfSpeech": "v",
+      "translation": "удалять/удалить"
+    },
+    {
+      "id": "u02-006",
+      "unit": 2,
+      "term": "Domain Name System (DNS)",
+      "partOfSpeech": "n",
+      "translation": "система доменных имен"
+    },
+    {
+      "id": "u02-007",
+      "unit": 2,
+      "term": "Download",
+      "partOfSpeech": "v",
+      "translation": "загружать"
+    },
+    {
+      "id": "u02-008",
+      "unit": 2,
+      "term": "Eliminate",
+      "partOfSpeech": "v",
+      "translation": "устранять, исключать"
+    },
+    {
+      "id": "u02-009",
+      "unit": 2,
+      "term": "Envision",
+      "partOfSpeech": "v",
+      "translation": "представлять себе/ собой; воображать"
+    },
+    {
+      "id": "u02-010",
+      "unit": 2,
+      "term": "Fetch",
+      "partOfSpeech": "v",
+      "translation": "(комп.) считывать в оперативную память, выводить, доставлять"
+    },
+    {
+      "id": "u02-011",
+      "unit": 2,
+      "term": "Hypertext",
+      "partOfSpeech": "n",
+      "translation": "гипертекст, обобщенный текст (многоуровневый способ представления информации при помощи связей между документами)"
+    },
+    {
+      "id": "u02-012",
+      "unit": 2,
+      "term": "Hypertext Markup Language (HTML)",
+      "partOfSpeech": "n",
+      "translation": "(Hypertext Markup Language) язык гипертекстовой разметки"
+    },
+    {
+      "id": "u02-013",
+      "unit": 2,
+      "term": "Hypertext Transfer Protocol (HTTP)",
+      "partOfSpeech": "n",
+      "translation": "Hyper Text Transfer Protocol-протокол гипертекстовой передачи"
+    },
+    {
+      "id": "u02-014",
+      "unit": 2,
+      "term": "Hypertext Transfer Protocol Secure (HTTPS)",
+      "partOfSpeech": "n",
+      "translation": "Защищённый протокол передачи гипертекста"
+    },
+    {
+      "id": "u02-015",
+      "unit": 2,
+      "term": "Implement",
+      "partOfSpeech": "v",
+      "translation": "выполнять, осуществлять"
+    },
+    {
+      "id": "u02-016",
+      "unit": 2,
+      "term": "Inbound email",
+      "partOfSpeech": "n",
+      "translation": "входящая электронная почта"
+    },
+    {
+      "id": "u02-017",
+      "unit": 2,
+      "term": "Interlinking",
+      "partOfSpeech": "n",
+      "translation": "перелинковка, взаимная связь, соединение"
+    },
+    {
+      "id": "u02-018",
+      "unit": 2,
+      "term": "Internet Message Access Protocol (IMAP)",
+      "partOfSpeech": "n",
+      "translation": "протокол доступа к электронной почте Интернета"
+    },
+    {
+      "id": "u02-019",
+      "unit": 2,
+      "term": "Link",
+      "partOfSpeech": "n",
+      "translation": "ссылка"
+    },
+    {
+      "id": "u02-020",
+      "unit": 2,
+      "term": "Mail server",
+      "partOfSpeech": "n",
+      "translation": "сервер электронной почты, удалённая почта"
+    },
+    {
+      "id": "u02-021",
+      "unit": 2,
+      "term": "Major shift",
+      "partOfSpeech": "n",
+      "translation": "значительное(ый) изменение/сдвиг, поворот в жизни"
+    },
+    {
+      "id": "u02-022",
+      "unit": 2,
+      "term": "Middleware",
+      "partOfSpeech": "n",
+      "translation": "промежуточное программное обеспечение"
+    },
+    {
+      "id": "u02-023",
+      "unit": 2,
+      "term": "Near-ubiquity",
+      "partOfSpeech": "n",
+      "translation": "почти повсеместное распространение"
+    },
+    {
+      "id": "u02-024",
+      "unit": 2,
+      "term": "Outbound email",
+      "partOfSpeech": "n",
+      "translation": "исходящая электронная почта"
+    },
+    {
+      "id": "u02-025",
+      "unit": 2,
+      "term": "Oversee",
+      "partOfSpeech": "v",
+      "translation": "наблюдать, отслеживать"
+    },
+    {
+      "id": "u02-026",
+      "unit": 2,
+      "term": "Pertain",
+      "partOfSpeech": "v",
+      "translation": "относиться, принадлежать"
+    },
+    {
+      "id": "u02-027",
+      "unit": 2,
+      "term": "Post Office Protocol (POP)",
+      "partOfSpeech": "n",
+      "translation": "почтовый протокол, протокол отделения связи"
+    },
+    {
+      "id": "u02-028",
+      "unit": 2,
+      "term": "Proponent",
+      "partOfSpeech": "n",
+      "translation": "сторонник"
+    },
+    {
+      "id": "u02-029",
+      "unit": 2,
+      "term": "Retrieve",
+      "partOfSpeech": "v",
+      "translation": "извлекать, отыскать, вернуть себе"
+    },
+    {
+      "id": "u02-030",
+      "unit": 2,
+      "term": "Revolve (around)",
+      "partOfSpeech": "v",
+      "translation": "крутиться (вокруг), быть так или иначе связанным с, иметь отношение к"
+    },
+    {
+      "id": "u02-031",
+      "unit": 2,
+      "term": "Simple Mail Transfer Protocol (SMTP)",
+      "partOfSpeech": "n",
+      "translation": "простой протокол электронной почты"
+    },
+    {
+      "id": "u02-032",
+      "unit": 2,
+      "term": "Static web page",
+      "partOfSpeech": "n",
+      "translation": "статическая веб-страница"
+    },
+    {
+      "id": "u02-033",
+      "unit": 2,
+      "term": "Still-to-be-realised",
+      "partOfSpeech": "adj",
+      "translation": "еще предстоящий к реализации"
+    },
+    {
+      "id": "u02-034",
+      "unit": 2,
+      "term": "To model off and on",
+      "partOfSpeech": "v",
+      "translation": "брать за образец; моделировать на основе примера, внося вариации в исполнение"
+    },
+    {
+      "id": "u02-035",
+      "unit": 2,
+      "term": "Tokenization",
+      "partOfSpeech": "n",
+      "translation": "токенизация"
+    },
+    {
+      "id": "u02-036",
+      "unit": 2,
+      "term": "Uniform Resource Identifier (URI)",
+      "partOfSpeech": "n",
+      "translation": "унифицированный идентификатор ресурса"
+    },
+    {
+      "id": "u02-037",
+      "unit": 2,
+      "term": "Uniform Resource Locator (URL)",
+      "partOfSpeech": "n",
+      "translation": "Uniform Resource Locator- универсальный указатель ресурса"
+    },
+    {
+      "id": "u02-038",
+      "unit": 2,
+      "term": "W3C",
+      "partOfSpeech": "n",
+      "translation": "Консорциум мировой сети, Консорциум W3C по созданию новых стандартов"
+    },
+    {
+      "id": "u02-039",
+      "unit": 2,
+      "term": "Webpage",
+      "partOfSpeech": "n",
+      "translation": "веб-страница, интернет-страница"
+    },
+    {
+      "id": "u02-040",
+      "unit": 2,
+      "term": "WWW",
+      "partOfSpeech": "n",
+      "translation": "World Wide Web (всемирная паутина)"
+    },
+    {
+      "id": "u03-001",
+      "unit": 3,
+      "term": "Agile (infrastructure)",
+      "partOfSpeech": "adj",
+      "translation": "гибкий"
+    },
+    {
+      "id": "u03-002",
+      "unit": 3,
+      "term": "Cloud deployment model",
+      "partOfSpeech": "n",
+      "translation": "модель использования облака"
+    },
+    {
+      "id": "u03-003",
+      "unit": 3,
+      "term": "Coherent (structure)",
+      "partOfSpeech": "adj",
+      "translation": "последовательный, согласованный, связный"
+    },
+    {
+      "id": "u03-004",
+      "unit": 3,
+      "term": "CSS (Cascading Style Sheets)",
+      "partOfSpeech": "n",
+      "translation": "каскадные таблицы стилей"
+    },
+    {
+      "id": "u03-005",
+      "unit": 3,
+      "term": "Domain name",
+      "partOfSpeech": "n",
+      "translation": "доменное имя"
+    },
+    {
+      "id": "u03-006",
+      "unit": 3,
+      "term": "Domain Name System (DNS)",
+      "partOfSpeech": "n",
+      "translation": "система доменных имен"
+    },
+    {
+      "id": "u03-007",
+      "unit": 3,
+      "term": "Elasticity",
+      "partOfSpeech": "n",
+      "translation": "эластичность"
+    },
+    {
+      "id": "u03-008",
+      "unit": 3,
+      "term": "Footer",
+      "partOfSpeech": "n",
+      "translation": "нижний колонтитул"
+    },
+    {
+      "id": "u03-009",
+      "unit": 3,
+      "term": "Header",
+      "partOfSpeech": "n",
+      "translation": "верхний колонтитул"
+    },
+    {
+      "id": "u03-010",
+      "unit": 3,
+      "term": "IaaS (Infrastructure as a Service)",
+      "partOfSpeech": "n",
+      "translation": "инфраструктура как услуга"
+    },
+    {
+      "id": "u03-011",
+      "unit": 3,
+      "term": "Lease",
+      "partOfSpeech": "v",
+      "translation": "сдавать в аренду"
+    },
+    {
+      "id": "u03-012",
+      "unit": 3,
+      "term": "Metering",
+      "partOfSpeech": "n",
+      "translation": "измерение"
+    },
+    {
+      "id": "u03-013",
+      "unit": 3,
+      "term": "Multi-tenant models",
+      "partOfSpeech": "adj",
+      "translation": "многопользовательский"
+    },
+    {
+      "id": "u03-014",
+      "unit": 3,
+      "term": "On-demand self-service",
+      "partOfSpeech": "n",
+      "translation": "система самообслуживания по запросу"
+    },
+    {
+      "id": "u03-015",
+      "unit": 3,
+      "term": "Orphan pages",
+      "partOfSpeech": "n",
+      "translation": "страницы-сироты"
+    },
+    {
+      "id": "u03-016",
+      "unit": 3,
+      "term": "PaaS (Platform as a Service)",
+      "partOfSpeech": "n",
+      "translation": "платформа как услуга"
+    },
+    {
+      "id": "u03-017",
+      "unit": 3,
+      "term": "Packet-switched computer systems",
+      "partOfSpeech": "adj",
+      "translation": "с коммутацией пакетов"
+    },
+    {
+      "id": "u03-018",
+      "unit": 3,
+      "term": "Premises",
+      "partOfSpeech": "n",
+      "translation": "помещение"
+    },
+    {
+      "id": "u03-019",
+      "unit": 3,
+      "term": "Provision",
+      "partOfSpeech": "v",
+      "translation": "обеспечивать"
+    },
+    {
+      "id": "u03-020",
+      "unit": 3,
+      "term": "Resource pooling",
+      "partOfSpeech": "n",
+      "translation": "объединение ресурсов"
+    },
+    {
+      "id": "u03-021",
+      "unit": 3,
+      "term": "Scalability",
+      "partOfSpeech": "n",
+      "translation": "масштабируемость"
+    },
+    {
+      "id": "u03-022",
+      "unit": 3,
+      "term": "Shrink",
+      "partOfSpeech": "v",
+      "translation": "уменьшать, сокращать; уменьшаться"
+    },
+    {
+      "id": "u03-023",
+      "unit": 3,
+      "term": "Software as a Service (SaaS)",
+      "partOfSpeech": "n",
+      "translation": "программное обеспечение как услуга"
+    },
+    {
+      "id": "u04-001",
+      "unit": 4,
+      "term": "Alter",
+      "partOfSpeech": "v",
+      "translation": "изменять, переделывать"
+    },
+    {
+      "id": "u04-002",
+      "unit": 4,
+      "term": "Backdoor virus",
+      "partOfSpeech": "n",
+      "translation": "вирус бэкдора"
+    },
+    {
+      "id": "u04-003",
+      "unit": 4,
+      "term": "Compromise",
+      "partOfSpeech": "v",
+      "translation": "(здесь) взломать,"
+    },
+    {
+      "id": "u04-004",
+      "unit": 4,
+      "term": "Corrupt",
+      "partOfSpeech": "v",
+      "translation": "портиться/испорченный или коррумпированный"
+    },
+    {
+      "id": "u04-005",
+      "unit": 4,
+      "term": "Data breach",
+      "partOfSpeech": "n",
+      "translation": "утечка данных; инцидент несанкционированного доступа к конфиденциальной информации"
+    },
+    {
+      "id": "u04-006",
+      "unit": 4,
+      "term": "Deem",
+      "partOfSpeech": "v",
+      "translation": "считать, полагать"
+    },
+    {
+      "id": "u04-007",
+      "unit": 4,
+      "term": "Denial of service attack",
+      "partOfSpeech": "n",
+      "translation": "атака (системы) с целью нарушения нормального обслуживания пользователей"
+    },
+    {
+      "id": "u04-008",
+      "unit": 4,
+      "term": "Disguise",
+      "partOfSpeech": "v",
+      "translation": "маскировать, скрывать"
+    },
+    {
+      "id": "u04-009",
+      "unit": 4,
+      "term": "Evade",
+      "partOfSpeech": "v",
+      "translation": "избегать, уклоняться"
+    },
+    {
+      "id": "u04-010",
+      "unit": 4,
+      "term": "Exfiltrate",
+      "partOfSpeech": "v",
+      "translation": "тайно извлекать или выводить данные из компьютерной системы"
+    },
+    {
+      "id": "u04-011",
+      "unit": 4,
+      "term": "Fileless malware",
+      "partOfSpeech": "n",
+      "translation": "вредоносное ПО без файлов"
+    },
+    {
+      "id": "u04-012",
+      "unit": 4,
+      "term": "Gain",
+      "partOfSpeech": "v",
+      "translation": "получать, приобретать"
+    },
+    {
+      "id": "u04-013",
+      "unit": 4,
+      "term": "Grayware",
+      "partOfSpeech": "n",
+      "translation": "потенциально нежелательное ПО"
+    },
+    {
+      "id": "u04-014",
+      "unit": 4,
+      "term": "Intrusive",
+      "partOfSpeech": "adj",
+      "translation": "навязчивый, назойливый"
+    },
+    {
+      "id": "u04-015",
+      "unit": 4,
+      "term": "Keylogger",
+      "partOfSpeech": "n",
+      "translation": "клавиатурный шпион, клавиатурный перехватчик"
+    },
+    {
+      "id": "u04-016",
+      "unit": 4,
+      "term": "Keystroke",
+      "partOfSpeech": "n",
+      "translation": "нажатие клавиши или кнопки"
+    },
+    {
+      "id": "u04-017",
+      "unit": 4,
+      "term": "Malicious",
+      "partOfSpeech": "adj",
+      "translation": "вредоносный, зловредный"
+    },
+    {
+      "id": "u04-018",
+      "unit": 4,
+      "term": "Malvertising",
+      "partOfSpeech": "n",
+      "translation": "вирусная реклама в интернете"
+    },
+    {
+      "id": "u04-019",
+      "unit": 4,
+      "term": "Malware",
+      "partOfSpeech": "n",
+      "translation": "вредоносное ПО"
+    },
+    {
+      "id": "u04-020",
+      "unit": 4,
+      "term": "Menacing",
+      "partOfSpeech": "adj",
+      "translation": "грозный, угрожающий"
+    },
+    {
+      "id": "u04-021",
+      "unit": 4,
+      "term": "Obfuscation technique",
+      "partOfSpeech": "n",
+      "translation": "метод запутывания"
+    },
+    {
+      "id": "u04-022",
+      "unit": 4,
+      "term": "Peer-to-peer",
+      "partOfSpeech": "n",
+      "translation": "одноранговый, равный"
+    },
+    {
+      "id": "u04-023",
+      "unit": 4,
+      "term": "Phishing",
+      "partOfSpeech": "n",
+      "translation": "интернет мошенничество,фишинг"
+    },
+    {
+      "id": "u04-024",
+      "unit": 4,
+      "term": "Potentially unwanted program (PUP)",
+      "partOfSpeech": "n",
+      "translation": "потенциально нежелательная программа"
+    },
+    {
+      "id": "u04-025",
+      "unit": 4,
+      "term": "Ransomware",
+      "partOfSpeech": "n",
+      "translation": "программа-вымогатель"
+    },
+    {
+      "id": "u04-026",
+      "unit": 4,
+      "term": "Replication",
+      "partOfSpeech": "n",
+      "translation": "копирование, дублирование"
+    },
+    {
+      "id": "u04-027",
+      "unit": 4,
+      "term": "Rootkit",
+      "partOfSpeech": "n",
+      "translation": "вредоносное ПО, которое обеспечивает маскировку процессов и файлов, управление событиями в системе и сбор данных системы,руткит"
+    },
+    {
+      "id": "u04-028",
+      "unit": 4,
+      "term": "Self-replicate",
+      "partOfSpeech": "v",
+      "translation": "самовоспроизводиться"
+    },
+    {
+      "id": "u04-029",
+      "unit": 4,
+      "term": "Spyware",
+      "partOfSpeech": "n",
+      "translation": "программа-шпион, шпионское программное обеспечение"
+    },
+    {
+      "id": "u04-030",
+      "unit": 4,
+      "term": "Toolbar",
+      "partOfSpeech": "n",
+      "translation": "панель инструментов (на экране компьютера)"
+    },
+    {
+      "id": "u04-031",
+      "unit": 4,
+      "term": "Vulnerability",
+      "partOfSpeech": "n",
+      "translation": "уязвимость"
+    },
+    {
+      "id": "u05-001",
+      "unit": 5,
+      "term": "Accompany",
+      "partOfSpeech": "v",
+      "translation": "сопровождать"
+    },
+    {
+      "id": "u05-002",
+      "unit": 5,
+      "term": "Asset",
+      "partOfSpeech": "n",
+      "translation": "актив; ценное имущество или ресурс организации"
+    },
+    {
+      "id": "u05-003",
+      "unit": 5,
+      "term": "Autorun files",
+      "partOfSpeech": "n",
+      "translation": "файлы автозапуска"
+    },
+    {
+      "id": "u05-004",
+      "unit": 5,
+      "term": "Bait",
+      "partOfSpeech": "n",
+      "translation": "заманивать"
+    },
+    {
+      "id": "u05-005",
+      "unit": 5,
+      "term": "Brute force attack",
+      "partOfSpeech": "n",
+      "translation": "атака полным перебором"
+    },
+    {
+      "id": "u05-006",
+      "unit": 5,
+      "term": "Bypass the lockout",
+      "partOfSpeech": "v",
+      "translation": "обойти блокировку"
+    },
+    {
+      "id": "u05-007",
+      "unit": 5,
+      "term": "Comply",
+      "partOfSpeech": "v",
+      "translation": "соблюдать, выполнять, подчиняться"
+    },
+    {
+      "id": "u05-008",
+      "unit": 5,
+      "term": "Competitive edge",
+      "partOfSpeech": "n",
+      "translation": "конкурентное преимущество"
+    },
+    {
+      "id": "u05-009",
+      "unit": 5,
+      "term": "Corruption",
+      "partOfSpeech": "n",
+      "translation": "коррупция; нечестное или незаконное поведение"
+    },
+    {
+      "id": "u05-010",
+      "unit": 5,
+      "term": "Crack the credentials",
+      "partOfSpeech": "v",
+      "translation": "взломать учетные данные"
+    },
+    {
+      "id": "u05-011",
+      "unit": 5,
+      "term": "Credential theft",
+      "partOfSpeech": "n",
+      "translation": "кража учетных данных"
+    },
+    {
+      "id": "u05-012",
+      "unit": 5,
+      "term": "Data backup",
+      "partOfSpeech": "n",
+      "translation": "Резервное копирование данных"
+    },
+    {
+      "id": "u05-013",
+      "unit": 5,
+      "term": "Data breach",
+      "partOfSpeech": "n",
+      "translation": "утечка данных; инцидент несанкционированного доступа к конфиденциальной информации"
+    },
+    {
+      "id": "u05-014",
+      "unit": 5,
+      "term": "Data encryption",
+      "partOfSpeech": "n",
+      "translation": "шифрование данных"
+    },
+    {
+      "id": "u05-015",
+      "unit": 5,
+      "term": "Data erasure",
+      "partOfSpeech": "n",
+      "translation": "стирание, уничтожение данных"
+    },
+    {
+      "id": "u05-016",
+      "unit": 5,
+      "term": "Data masking",
+      "partOfSpeech": "n",
+      "translation": "маскирование данных"
+    },
+    {
+      "id": "u05-017",
+      "unit": 5,
+      "term": "Data security",
+      "partOfSpeech": "n",
+      "translation": "защита данных, сохранность данных, безопасность хранения данных"
+    },
+    {
+      "id": "u05-018",
+      "unit": 5,
+      "term": "Decryption",
+      "partOfSpeech": "n",
+      "translation": "расшифровка"
+    },
+    {
+      "id": "u05-019",
+      "unit": 5,
+      "term": "Decryption key",
+      "partOfSpeech": "n",
+      "translation": "ключ дешифрования"
+    },
+    {
+      "id": "u05-020",
+      "unit": 5,
+      "term": "Defraud",
+      "partOfSpeech": "v",
+      "translation": "обманывать, мошенничать"
+    },
+    {
+      "id": "u05-021",
+      "unit": 5,
+      "term": "Denial-of-service (DoS) attack",
+      "partOfSpeech": "n",
+      "translation": "атака типа «отказ в обслуживании»"
+    },
+    {
+      "id": "u05-022",
+      "unit": 5,
+      "term": "Derogatory",
+      "partOfSpeech": "adj",
+      "translation": "уничижительный, унизительный"
+    },
+    {
+      "id": "u05-023",
+      "unit": 5,
+      "term": "Discarded",
+      "partOfSpeech": "adj",
+      "translation": "выброшенный, выкинутый"
+    },
+    {
+      "id": "u05-024",
+      "unit": 5,
+      "term": "Distributed denial-of-service (DDoS) attack",
+      "partOfSpeech": "n",
+      "translation": "распределенная атака типа «отказ в обслуживании»"
+    },
+    {
+      "id": "u05-025",
+      "unit": 5,
+      "term": "Drive-by attack",
+      "partOfSpeech": "n",
+      "translation": "атака с помощью скрытой загрузки"
+    },
+    {
+      "id": "u05-026",
+      "unit": 5,
+      "term": "Gain access",
+      "partOfSpeech": "v",
+      "translation": "получить доступ"
+    },
+    {
+      "id": "u05-027",
+      "unit": 5,
+      "term": "Hassle",
+      "partOfSpeech": "n",
+      "translation": "барьер, преграда, препятствие, трудность"
+    },
+    {
+      "id": "u05-028",
+      "unit": 5,
+      "term": "High-profile",
+      "partOfSpeech": "adj",
+      "translation": "привлекающий внимание, заметный"
+    },
+    {
+      "id": "u05-029",
+      "unit": 5,
+      "term": "Illegitimate requests",
+      "partOfSpeech": "n",
+      "translation": "неправомерные запросы"
+    },
+    {
+      "id": "u05-030",
+      "unit": 5,
+      "term": "Imposter",
+      "partOfSpeech": "n",
+      "translation": "самозванец, обманщик"
+    },
+    {
+      "id": "u05-031",
+      "unit": 5,
+      "term": "Inflammatory",
+      "partOfSpeech": "adj",
+      "translation": "подстрекательский"
+    },
+    {
+      "id": "u05-032",
+      "unit": 5,
+      "term": "Intercept",
+      "partOfSpeech": "v",
+      "translation": "перехватить"
+    },
+    {
+      "id": "u05-033",
+      "unit": 5,
+      "term": "Legitimate",
+      "partOfSpeech": "adj",
+      "translation": "законный, легальный"
+    },
+    {
+      "id": "u05-034",
+      "unit": 5,
+      "term": "Lock-out policies",
+      "partOfSpeech": "n",
+      "translation": "политика блокировки"
+    },
+    {
+      "id": "u05-035",
+      "unit": 5,
+      "term": "Login credentials",
+      "partOfSpeech": "n",
+      "translation": "учетные данные для входа"
+    },
+    {
+      "id": "u05-036",
+      "unit": 5,
+      "term": "Liability",
+      "partOfSpeech": "n",
+      "translation": "ответственность, обязательство"
+    },
+    {
+      "id": "u05-037",
+      "unit": 5,
+      "term": "Malicious",
+      "partOfSpeech": "adj",
+      "translation": "злобный, злонамеренный"
+    },
+    {
+      "id": "u05-038",
+      "unit": 5,
+      "term": "Malicious code",
+      "partOfSpeech": "n",
+      "translation": "вредоносный код"
+    },
+    {
+      "id": "u05-039",
+      "unit": 5,
+      "term": "Malware-infected",
+      "partOfSpeech": "adj",
+      "translation": "зараженный вредоносным ПО"
+    },
+    {
+      "id": "u05-040",
+      "unit": 5,
+      "term": "Mitigate the risk",
+      "partOfSpeech": "v",
+      "translation": "снижать риск"
+    },
+    {
+      "id": "u05-041",
+      "unit": 5,
+      "term": "Obscure",
+      "partOfSpeech": "v",
+      "translation": "запутывать, затруднять понимание, скрывать"
+    },
+    {
+      "id": "u05-042",
+      "unit": 5,
+      "term": "Overwhelm",
+      "partOfSpeech": "v",
+      "translation": "перегрузить"
+    },
+    {
+      "id": "u05-043",
+      "unit": 5,
+      "term": "Pervasive",
+      "partOfSpeech": "adj",
+      "translation": "распространяющийся, проникающий, пропитывающий, заполняющий"
+    },
+    {
+      "id": "u05-044",
+      "unit": 5,
+      "term": "Phishing attack",
+      "partOfSpeech": "n",
+      "translation": "фишинговая атака"
+    },
+    {
+      "id": "u05-045",
+      "unit": 5,
+      "term": "Ransomware",
+      "partOfSpeech": "n",
+      "translation": "программа-вымогатель"
+    },
+    {
+      "id": "u05-046",
+      "unit": 5,
+      "term": "Ransomware attack",
+      "partOfSpeech": "n",
+      "translation": "атака в целях вымогательства выкупа"
+    },
+    {
+      "id": "u05-047",
+      "unit": 5,
+      "term": "Recipient",
+      "partOfSpeech": "n",
+      "translation": "получатель, адресат"
+    },
+    {
+      "id": "u05-048",
+      "unit": 5,
+      "term": "Restore",
+      "partOfSpeech": "v",
+      "translation": "восстанавливать"
+    },
+    {
+      "id": "u05-049",
+      "unit": 5,
+      "term": "Robust",
+      "partOfSpeech": "adj",
+      "translation": "крепкий, здоровый, сильный"
+    },
+    {
+      "id": "u05-050",
+      "unit": 5,
+      "term": "Safeguard",
+      "partOfSpeech": "v",
+      "translation": "защищать"
+    },
+    {
+      "id": "u05-051",
+      "unit": 5,
+      "term": "Scramble",
+      "partOfSpeech": "v",
+      "translation": "путать, перемешивать"
+    },
+    {
+      "id": "u05-052",
+      "unit": 5,
+      "term": "Social engineering",
+      "partOfSpeech": "n",
+      "translation": "социальная инженерия, получение личной информации из интернета незаконным образом (обманывая пользователей)"
+    },
+    {
+      "id": "u05-053",
+      "unit": 5,
+      "term": "Spoofed",
+      "partOfSpeech": "adj",
+      "translation": "поддельный"
+    },
+    {
+      "id": "u05-054",
+      "unit": 5,
+      "term": "Stellar",
+      "partOfSpeech": "adj",
+      "translation": "выдающийся / звёздный"
+    },
+    {
+      "id": "u05-055",
+      "unit": 5,
+      "term": "Stringent",
+      "partOfSpeech": "adj",
+      "translation": "строгий, жесткий"
+    },
+    {
+      "id": "u05-056",
+      "unit": 5,
+      "term": "Theft",
+      "partOfSpeech": "n",
+      "translation": "кража"
+    },
+    {
+      "id": "u05-057",
+      "unit": 5,
+      "term": "Tokenization",
+      "partOfSpeech": "n",
+      "translation": "токенизация"
+    },
+    {
+      "id": "u05-058",
+      "unit": 5,
+      "term": "Trustworthy",
+      "partOfSpeech": "adj",
+      "translation": "надежный, заслуживающий доверия"
+    },
+    {
+      "id": "u05-059",
+      "unit": 5,
+      "term": "Trickery",
+      "partOfSpeech": "n",
+      "translation": "обман"
+    },
+    {
+      "id": "u05-060",
+      "unit": 5,
+      "term": "Vigilant",
+      "partOfSpeech": "adj",
+      "translation": "внимательный, осмотрительный, бдительный"
+    },
+    {
+      "id": "u05-061",
+      "unit": 5,
+      "term": "Virtual private network (VPN)",
+      "partOfSpeech": "n",
+      "translation": "Виртуальная частная сеть, ВПН"
+    },
+    {
+      "id": "u05-062",
+      "unit": 5,
+      "term": "Web-filtering software",
+      "partOfSpeech": "n",
+      "translation": "программное обеспечение для веб-фильтрации"
+    },
+    {
+      "id": "u06-001",
+      "unit": 6,
+      "term": "Adhere to",
+      "partOfSpeech": "v",
+      "translation": "придерживаться (правил, стандартов)"
+    },
+    {
+      "id": "u06-002",
+      "unit": 6,
+      "term": "Algorithm",
+      "partOfSpeech": "n",
+      "translation": "алгоритм"
+    },
+    {
+      "id": "u06-003",
+      "unit": 6,
+      "term": "Assembly language",
+      "partOfSpeech": "n",
+      "translation": "язык ассемблера"
+    },
+    {
+      "id": "u06-004",
+      "unit": 6,
+      "term": "Compiler",
+      "partOfSpeech": "n",
+      "translation": "компилятор"
+    },
+    {
+      "id": "u06-005",
+      "unit": 6,
+      "term": "Computer program",
+      "partOfSpeech": "n",
+      "translation": "компьютерная программа"
+    },
+    {
+      "id": "u06-006",
+      "unit": 6,
+      "term": "Conjure up",
+      "partOfSpeech": "v",
+      "translation": "вызывать в воображении; создавать (идеи или образы)"
+    },
+    {
+      "id": "u06-007",
+      "unit": 6,
+      "term": "Deterministic",
+      "partOfSpeech": "adj",
+      "translation": "детерминированный"
+    },
+    {
+      "id": "u06-008",
+      "unit": 6,
+      "term": "Eliminate",
+      "partOfSpeech": "v",
+      "translation": "устранять, исключать"
+    },
+    {
+      "id": "u06-009",
+      "unit": 6,
+      "term": "Embed",
+      "partOfSpeech": "v",
+      "translation": "внедрять, встраивать"
+    },
+    {
+      "id": "u06-010",
+      "unit": 6,
+      "term": "Frameworks",
+      "partOfSpeech": "n",
+      "translation": "фреймворк (основа вашего приложения)"
+    },
+    {
+      "id": "u06-011",
+      "unit": 6,
+      "term": "Fluctuate",
+      "partOfSpeech": "v",
+      "translation": "колебаться, изменяться"
+    },
+    {
+      "id": "u06-012",
+      "unit": 6,
+      "term": "Functional paradigm",
+      "partOfSpeech": "adj",
+      "translation": "функциональная парадигма"
+    },
+    {
+      "id": "u06-013",
+      "unit": 6,
+      "term": "High-level language",
+      "partOfSpeech": "n",
+      "translation": "язык высокого уровня"
+    },
+    {
+      "id": "u06-014",
+      "unit": 6,
+      "term": "Ground breaking",
+      "partOfSpeech": "adj",
+      "translation": "новаторский, прорывной (в области технологий или методов)"
+    },
+    {
+      "id": "u06-015",
+      "unit": 6,
+      "term": "Immutability",
+      "partOfSpeech": "n",
+      "translation": "неизменяемость"
+    },
+    {
+      "id": "u06-016",
+      "unit": 6,
+      "term": "Interpreter",
+      "partOfSpeech": "n",
+      "translation": "интерпретатор"
+    },
+    {
+      "id": "u06-017",
+      "unit": 6,
+      "term": "Machine language",
+      "partOfSpeech": "n",
+      "translation": "машинный язык (двоичный код, непосредственно понятный процессору)"
+    },
+    {
+      "id": "u06-018",
+      "unit": 6,
+      "term": "Legitimate",
+      "partOfSpeech": "adj",
+      "translation": "допустимый, законный"
+    },
+    {
+      "id": "u06-019",
+      "unit": 6,
+      "term": "Libraries",
+      "partOfSpeech": "n",
+      "translation": "библиотека (заранее определенные функции и классы)"
+    },
+    {
+      "id": "u06-020",
+      "unit": 6,
+      "term": "Loop",
+      "partOfSpeech": "n",
+      "translation": "цикл"
+    },
+    {
+      "id": "u06-021",
+      "unit": 6,
+      "term": "Low-level language",
+      "partOfSpeech": "n",
+      "translation": "язык низкого уровня"
+    },
+    {
+      "id": "u06-022",
+      "unit": 6,
+      "term": "Number-crunching tasks",
+      "partOfSpeech": "adj",
+      "translation": "задачи, связанные с интенсивными вычислениями, обработкой чисел"
+    },
+    {
+      "id": "u06-023",
+      "unit": 6,
+      "term": "Object-oriented paradigm",
+      "partOfSpeech": "adj",
+      "translation": "объектно-ориентированный"
+    },
+    {
+      "id": "u06-024",
+      "unit": 6,
+      "term": "Operator",
+      "partOfSpeech": "n",
+      "translation": "оператор"
+    },
+    {
+      "id": "u06-025",
+      "unit": 6,
+      "term": "Paradigm",
+      "partOfSpeech": "n",
+      "translation": "парадигма, модель или подход"
+    },
+    {
+      "id": "u06-026",
+      "unit": 6,
+      "term": "Procedural paradigm",
+      "partOfSpeech": "adj",
+      "translation": "процедурный"
+    },
+    {
+      "id": "u06-027",
+      "unit": 6,
+      "term": "Syntax",
+      "partOfSpeech": "n",
+      "translation": "синтаксис"
+    },
+    {
+      "id": "u06-028",
+      "unit": 6,
+      "term": "Tedious",
+      "partOfSpeech": "adj",
+      "translation": "утомительный, нудный"
+    },
+    {
+      "id": "u06-029",
+      "unit": 6,
+      "term": "Text editor",
+      "partOfSpeech": "n",
+      "translation": "текстовый редактор"
+    },
+    {
+      "id": "u06-030",
+      "unit": 6,
+      "term": "Variables",
+      "partOfSpeech": "n",
+      "translation": "переменные"
+    },
+    {
+      "id": "u07-001",
+      "unit": 7,
+      "term": "Adherence",
+      "partOfSpeech": "n",
+      "translation": "приверженность, верность,соблюдение"
+    },
+    {
+      "id": "u07-002",
+      "unit": 7,
+      "term": "Applet",
+      "partOfSpeech": "n",
+      "translation": "прикладная мини-программа"
+    },
+    {
+      "id": "u07-003",
+      "unit": 7,
+      "term": "Application Programming Interface (API)",
+      "partOfSpeech": "n",
+      "translation": "программный интерфейс приложения"
+    },
+    {
+      "id": "u07-004",
+      "unit": 7,
+      "term": "Concurrent",
+      "partOfSpeech": "adj",
+      "translation": "одновременный, параллельный"
+    },
+    {
+      "id": "u07-005",
+      "unit": 7,
+      "term": "Cornerstone",
+      "partOfSpeech": "n",
+      "translation": "фундаментальный элемент, основа основ"
+    },
+    {
+      "id": "u07-006",
+      "unit": 7,
+      "term": "Evolving",
+      "partOfSpeech": "adj",
+      "translation": "развивающийся, эволюционирующий"
+    },
+    {
+      "id": "u07-007",
+      "unit": 7,
+      "term": "Fell (through)",
+      "partOfSpeech": "v",
+      "translation": "проваливаться; терпеть неудачу"
+    },
+    {
+      "id": "u07-008",
+      "unit": 7,
+      "term": "File extension",
+      "partOfSpeech": "n",
+      "translation": "расширение файла"
+    },
+    {
+      "id": "u07-009",
+      "unit": 7,
+      "term": "Foster",
+      "partOfSpeech": "v",
+      "translation": "способствовать"
+    },
+    {
+      "id": "u07-010",
+      "unit": 7,
+      "term": "Information sharing",
+      "partOfSpeech": "n",
+      "translation": "обмен информацией; информирование"
+    },
+    {
+      "id": "u07-011",
+      "unit": 7,
+      "term": "Java Development Kit (JDK)",
+      "partOfSpeech": "n",
+      "translation": "Инструментальный набор JDKнабор для разработки Java-приложений"
+    },
+    {
+      "id": "u07-012",
+      "unit": 7,
+      "term": "Java Messaging Service (JMS)",
+      "partOfSpeech": "n",
+      "translation": "Служба сообщений Java, интерфейс JMS"
+    },
+    {
+      "id": "u07-013",
+      "unit": 7,
+      "term": "Java Runtime Environment (JRE)",
+      "partOfSpeech": "n",
+      "translation": "исполняющая система Java,"
+    },
+    {
+      "id": "u07-014",
+      "unit": 7,
+      "term": "Java Virtual Machine (JVM)",
+      "partOfSpeech": "n",
+      "translation": "Виртуальная машина Java (Java Virtual Machine) - это механизм, предоставляющий среду выполнения для управления Java-кодом или приложениями. Виртуальная машина является независимой оболочкой исполнения кода, благодаря которой возможен её запуск на любой ОС, без влияния ОС на выполняемую программу."
+    },
+    {
+      "id": "u07-015",
+      "unit": 7,
+      "term": "Just-in-Time compiler",
+      "partOfSpeech": "n",
+      "translation": "динамичный компилятор, JIT-компилятор"
+    },
+    {
+      "id": "u07-016",
+      "unit": 7,
+      "term": "Multithreading",
+      "partOfSpeech": "n",
+      "translation": "многопотоковость, многопоточность"
+    },
+    {
+      "id": "u07-017",
+      "unit": 7,
+      "term": "Object-oriented",
+      "partOfSpeech": "adj",
+      "translation": "объектно-ориентированный, целевой"
+    },
+    {
+      "id": "u07-018",
+      "unit": 7,
+      "term": "Pivotal",
+      "partOfSpeech": "adj",
+      "translation": "основной, центральный,ключевой"
+    },
+    {
+      "id": "u07-019",
+      "unit": 7,
+      "term": "Remote Method Invocation (RMI)",
+      "partOfSpeech": "n",
+      "translation": "программный интерфейс вызова удалённых методов"
+    },
+    {
+      "id": "u07-020",
+      "unit": 7,
+      "term": "Runtime",
+      "partOfSpeech": "n",
+      "translation": "время выполнения"
+    },
+    {
+      "id": "u07-021",
+      "unit": 7,
+      "term": "Set-top box",
+      "partOfSpeech": "n",
+      "translation": "телевизионная приставка, телевизионный преобразователь"
+    },
+    {
+      "id": "u07-022",
+      "unit": 7,
+      "term": "Source code",
+      "partOfSpeech": "n",
+      "translation": "исходный код или текст программы"
+    },
+    {
+      "id": "u07-023",
+      "unit": 7,
+      "term": "Stalwart",
+      "partOfSpeech": "n",
+      "translation": "оплот,"
+    },
+    {
+      "id": "u07-024",
+      "unit": 7,
+      "term": "Stem (from)",
+      "partOfSpeech": "v",
+      "translation": "происходить от (чего-л.) ; являться результатом (чего-л.)"
+    },
+    {
+      "id": "u07-025",
+      "unit": 7,
+      "term": "Surge",
+      "partOfSpeech": "n",
+      "translation": "всплеск, скачок, резкий подъем"
+    },
+    {
+      "id": "u07-026",
+      "unit": 7,
+      "term": "Switch Case",
+      "partOfSpeech": "n",
+      "translation": "оператор ветвления"
+    },
+    {
+      "id": "u07-027",
+      "unit": 7,
+      "term": "Thread management",
+      "partOfSpeech": "n",
+      "translation": "управление потоками"
+    },
+    {
+      "id": "u07-028",
+      "unit": 7,
+      "term": "Versatility",
+      "partOfSpeech": "n",
+      "translation": "разносторонность,многосторонность, универсальность"
+    },
+    {
+      "id": "u07-029",
+      "unit": 7,
+      "term": "Vibrant",
+      "partOfSpeech": "adj",
+      "translation": "живой, энергичный, яркий"
+    },
+    {
+      "id": "u07-030",
+      "unit": 7,
+      "term": "Witness",
+      "partOfSpeech": "v",
+      "translation": "быть временем совершения, быть местом совершения, видеть"
+    },
+    {
+      "id": "u08-001",
+      "unit": 8,
+      "term": "Accurate",
+      "partOfSpeech": "adj",
+      "translation": "верный, правильный, точный"
+    },
+    {
+      "id": "u08-002",
+      "unit": 8,
+      "term": "Actionable information",
+      "partOfSpeech": "n",
+      "translation": "полезная информация"
+    },
+    {
+      "id": "u08-003",
+      "unit": 8,
+      "term": "Array",
+      "partOfSpeech": "n",
+      "translation": "массив, множество"
+    },
+    {
+      "id": "u08-004",
+      "unit": 8,
+      "term": "Artificial General Intelligence (AGI)",
+      "partOfSpeech": "n",
+      "translation": "Общий искусственный интеллект, общий ИИ"
+    },
+    {
+      "id": "u08-005",
+      "unit": 8,
+      "term": "Bet",
+      "partOfSpeech": "n",
+      "translation": "ставка, пари"
+    },
+    {
+      "id": "u08-006",
+      "unit": 8,
+      "term": "Conflate",
+      "partOfSpeech": "v",
+      "translation": "соединять, объединять"
+    },
+    {
+      "id": "u08-007",
+      "unit": 8,
+      "term": "Correlation",
+      "partOfSpeech": "n",
+      "translation": "взаимосвязь, соотношение"
+    },
+    {
+      "id": "u08-008",
+      "unit": 8,
+      "term": "Data set",
+      "partOfSpeech": "n",
+      "translation": "набор данных, массив данных"
+    },
+    {
+      "id": "u08-009",
+      "unit": 8,
+      "term": "Detail-oriented",
+      "partOfSpeech": "adj",
+      "translation": "ориентированный на детали, внимательный"
+    },
+    {
+      "id": "u08-010",
+      "unit": 8,
+      "term": "Eponymous",
+      "partOfSpeech": "adj",
+      "translation": "одноименный, дающий чему-л. свое имя"
+    },
+    {
+      "id": "u08-011",
+      "unit": 8,
+      "term": "Explicit",
+      "partOfSpeech": "adj",
+      "translation": "ясный, явный"
+    },
+    {
+      "id": "u08-012",
+      "unit": 8,
+      "term": "Gain",
+      "partOfSpeech": "v",
+      "translation": "получать, приобретать"
+    },
+    {
+      "id": "u08-013",
+      "unit": 8,
+      "term": "Immense",
+      "partOfSpeech": "adj",
+      "translation": "огромный, безмерный, необъятный"
+    },
+    {
+      "id": "u08-014",
+      "unit": 8,
+      "term": "Inevitable",
+      "partOfSpeech": "adj",
+      "translation": "неизбежный, неминуемый"
+    },
+    {
+      "id": "u08-015",
+      "unit": 8,
+      "term": "Infancy",
+      "partOfSpeech": "n",
+      "translation": "раннее детство, младенчество, ранняя стадия"
+    },
+    {
+      "id": "u08-016",
+      "unit": 8,
+      "term": "Ingest",
+      "partOfSpeech": "v",
+      "translation": "глотать, проглатывать"
+    },
+    {
+      "id": "u08-017",
+      "unit": 8,
+      "term": "Large Language Model (LLM)",
+      "partOfSpeech": "n",
+      "translation": "большая языковая модель,статистическая языковая модель"
+    },
+    {
+      "id": "u08-018",
+      "unit": 8,
+      "term": "Lead generation",
+      "partOfSpeech": "n",
+      "translation": "привлечение потенциальных клиентов, лидогенерация"
+    },
+    {
+      "id": "u08-019",
+      "unit": 8,
+      "term": "Machine vision",
+      "partOfSpeech": "n",
+      "translation": "автоматический анализ видеоинформации, искусственное зрение"
+    },
+    {
+      "id": "u08-020",
+      "unit": 8,
+      "term": "Natural Language Processing (NLP)",
+      "partOfSpeech": "n",
+      "translation": "автоматическая обработка естественного языка; обработка текстов на естественных языках"
+    },
+    {
+      "id": "u08-021",
+      "unit": 8,
+      "term": "Obstruction",
+      "partOfSpeech": "n",
+      "translation": "препятствие, помеха"
+    },
+    {
+      "id": "u08-022",
+      "unit": 8,
+      "term": "Outpace",
+      "partOfSpeech": "v",
+      "translation": "опережать, идти быстрее"
+    },
+    {
+      "id": "u08-023",
+      "unit": 8,
+      "term": "Pinnacle",
+      "partOfSpeech": "n",
+      "translation": "вершина, пик, апофеоз"
+    },
+    {
+      "id": "u08-024",
+      "unit": 8,
+      "term": "Plague",
+      "partOfSpeech": "v",
+      "translation": "досаждать"
+    },
+    {
+      "id": "u08-025",
+      "unit": 8,
+      "term": "Procure",
+      "partOfSpeech": "v",
+      "translation": "достигать, добывать"
+    },
+    {
+      "id": "u08-026",
+      "unit": 8,
+      "term": "Prominent",
+      "partOfSpeech": "adj",
+      "translation": "заметный, выступающий, выдающийся"
+    },
+    {
+      "id": "u08-027",
+      "unit": 8,
+      "term": "Query",
+      "partOfSpeech": "n",
+      "translation": "вопрос, запрос"
+    },
+    {
+      "id": "u08-028",
+      "unit": 8,
+      "term": "Reasoning",
+      "partOfSpeech": "n",
+      "translation": "рассуждение, умозаключение"
+    },
+    {
+      "id": "u08-029",
+      "unit": 8,
+      "term": "Reinforcement Learning",
+      "partOfSpeech": "n",
+      "translation": "обучение с подкреплением"
+    },
+    {
+      "id": "u08-030",
+      "unit": 8,
+      "term": "Robotic Process Automation (RPA)",
+      "partOfSpeech": "n",
+      "translation": "роботизированная автоматизация процессов"
+    },
+    {
+      "id": "u08-031",
+      "unit": 8,
+      "term": "Rule-based system",
+      "partOfSpeech": "n",
+      "translation": "экспертная система, экспертная система на основе продукционных правил"
+    },
+    {
+      "id": "u08-032",
+      "unit": 8,
+      "term": "Self-correction",
+      "partOfSpeech": "n",
+      "translation": "самоисправление; автоматическое исправление собственных ошибок"
+    },
+    {
+      "id": "u08-033",
+      "unit": 8,
+      "term": "Sentient",
+      "partOfSpeech": "adj",
+      "translation": "разумный"
+    },
+    {
+      "id": "u08-034",
+      "unit": 8,
+      "term": "Society-wide",
+      "partOfSpeech": "adj",
+      "translation": "в масштабах всего общества"
+    },
+    {
+      "id": "u08-035",
+      "unit": 8,
+      "term": "Subsidiary",
+      "partOfSpeech": "adj",
+      "translation": "дочерний, вспомогательный"
+    },
+    {
+      "id": "u08-036",
+      "unit": 8,
+      "term": "Supervised Learning",
+      "partOfSpeech": "n",
+      "translation": "контролируемое обучение"
+    },
+    {
+      "id": "u08-037",
+      "unit": 8,
+      "term": "Tedious",
+      "partOfSpeech": "adj",
+      "translation": "нудный, скучный, утомительный"
+    },
+    {
+      "id": "u08-038",
+      "unit": 8,
+      "term": "Umbrella term",
+      "partOfSpeech": "n",
+      "translation": "обобщающий термин/понятие"
+    },
+    {
+      "id": "u08-039",
+      "unit": 8,
+      "term": "Underpin",
+      "partOfSpeech": "v",
+      "translation": "поддерживать, подкреплять"
+    },
+    {
+      "id": "u08-040",
+      "unit": 8,
+      "term": "Versatile",
+      "partOfSpeech": "adj",
+      "translation": "разносторонний, универсальный"
+    },
+    {
+      "id": "u08-041",
+      "unit": 8,
+      "term": "Workflow",
+      "partOfSpeech": "n",
+      "translation": "рабочий процесс, последовательность выполняемых действий"
+    },
+    {
+      "id": "u09-001",
+      "unit": 9,
+      "term": "Alleviate",
+      "partOfSpeech": "v",
+      "translation": "облегчать, смягчать"
+    },
+    {
+      "id": "u09-002",
+      "unit": 9,
+      "term": "Assembly line",
+      "partOfSpeech": "n",
+      "translation": "сборочная линия (процесс массового производства)"
+    },
+    {
+      "id": "u09-003",
+      "unit": 9,
+      "term": "Dehumanization",
+      "partOfSpeech": "n",
+      "translation": "дегуманизация (отделение человека от его человеческих качеств)"
+    },
+    {
+      "id": "u09-004",
+      "unit": 9,
+      "term": "Electromagnetic levitation",
+      "partOfSpeech": "n",
+      "translation": "электромагнитная левитация"
+    },
+    {
+      "id": "u09-005",
+      "unit": 9,
+      "term": "Eradication",
+      "partOfSpeech": "n",
+      "translation": "искоренение смерти (попытки остановить смерть с помощью технологий)"
+    },
+    {
+      "id": "u09-006",
+      "unit": 9,
+      "term": "Extinction",
+      "partOfSpeech": "n",
+      "translation": "вымирание, исчезновение"
+    },
+    {
+      "id": "u09-007",
+      "unit": 9,
+      "term": "Feasible",
+      "partOfSpeech": "adj",
+      "translation": "осуществимый, реальный, возможный для реализации"
+    },
+    {
+      "id": "u09-008",
+      "unit": 9,
+      "term": "Genetic modification",
+      "partOfSpeech": "n",
+      "translation": "генетическая модификация (изменение генов)"
+    },
+    {
+      "id": "u09-009",
+      "unit": 9,
+      "term": "Human enhancement",
+      "partOfSpeech": "n",
+      "translation": "улучшение возможностей человека"
+    },
+    {
+      "id": "u09-010",
+      "unit": 9,
+      "term": "Humanoid robot",
+      "partOfSpeech": "n",
+      "translation": "человекоподобный робот, робот-гуманоид"
+    },
+    {
+      "id": "u09-011",
+      "unit": 9,
+      "term": "Implications",
+      "partOfSpeech": "n",
+      "translation": "последствие, результат"
+    },
+    {
+      "id": "u09-012",
+      "unit": 9,
+      "term": "Keep up with",
+      "partOfSpeech": "v",
+      "translation": "идти в ногу с; успевать за; быть в курсе"
+    },
+    {
+      "id": "u09-013",
+      "unit": 9,
+      "term": "Life expectancy",
+      "partOfSpeech": "n",
+      "translation": "ожидаемая продолжительность жизни"
+    },
+    {
+      "id": "u09-014",
+      "unit": 9,
+      "term": "Mechanization",
+      "partOfSpeech": "n",
+      "translation": "механизация (замена ручного труда машинами)"
+    },
+    {
+      "id": "u09-015",
+      "unit": 9,
+      "term": "Metaverse",
+      "partOfSpeech": "n",
+      "translation": "метавселенная"
+    },
+    {
+      "id": "u09-016",
+      "unit": 9,
+      "term": "Nanotechnology",
+      "partOfSpeech": "n",
+      "translation": "нанотехнология"
+    },
+    {
+      "id": "u09-017",
+      "unit": 9,
+      "term": "Neurotechnology",
+      "partOfSpeech": "n",
+      "translation": "нейротехнология"
+    },
+    {
+      "id": "u09-018",
+      "unit": 9,
+      "term": "Precision",
+      "partOfSpeech": "n",
+      "translation": "точность"
+    },
+    {
+      "id": "u09-019",
+      "unit": 9,
+      "term": "Prosthesis",
+      "partOfSpeech": "n",
+      "translation": "протез"
+    },
+    {
+      "id": "u09-020",
+      "unit": 9,
+      "term": "Radical life extension",
+      "partOfSpeech": "n",
+      "translation": "радикальное продление жизни"
+    },
+    {
+      "id": "u09-021",
+      "unit": 9,
+      "term": "Robotic exoskeleton",
+      "partOfSpeech": "n",
+      "translation": "роботизированный экзоскелет"
+    },
+    {
+      "id": "u09-022",
+      "unit": 9,
+      "term": "Robots takeover",
+      "partOfSpeech": "n",
+      "translation": "захват роботов, когда роботы управляют или заменяют людей"
+    },
+    {
+      "id": "u09-023",
+      "unit": 9,
+      "term": "Seamless",
+      "partOfSpeech": "adj",
+      "translation": "плавный, непрерывный; бесшовный"
+    },
+    {
+      "id": "u09-024",
+      "unit": 9,
+      "term": "Springboard",
+      "partOfSpeech": "n",
+      "translation": "трамплин, стартовая площадка (метафора для новых идей или технологий)"
+    },
+    {
+      "id": "u09-025",
+      "unit": 9,
+      "term": "Transhumanism",
+      "partOfSpeech": "n",
+      "translation": "трансгуманизм; движение за технологическое расширение возможностей человека"
+    },
+    {
+      "id": "u10-001",
+      "unit": 10,
+      "term": "Advent",
+      "partOfSpeech": "n",
+      "translation": "наступление (эпохи, события), прибытие, приход"
+    },
+    {
+      "id": "u10-002",
+      "unit": 10,
+      "term": "Agile",
+      "partOfSpeech": "adj",
+      "translation": "подвижный, проворный"
+    },
+    {
+      "id": "u10-003",
+      "unit": 10,
+      "term": "AI engineer",
+      "partOfSpeech": "n",
+      "translation": "Инженер ИИ"
+    },
+    {
+      "id": "u10-004",
+      "unit": 10,
+      "term": "Anticipate",
+      "partOfSpeech": "v",
+      "translation": "ожидать, предвидеть"
+    },
+    {
+      "id": "u10-005",
+      "unit": 10,
+      "term": "Blockchain developer",
+      "partOfSpeech": "n",
+      "translation": "Блокче́йн-разрабо́тчик"
+    },
+    {
+      "id": "u10-006",
+      "unit": 10,
+      "term": "Career landscape",
+      "partOfSpeech": "n",
+      "translation": "карьерный ландшафт"
+    },
+    {
+      "id": "u10-007",
+      "unit": 10,
+      "term": "Cater for",
+      "partOfSpeech": "v",
+      "translation": "удовлетворять требования"
+    },
+    {
+      "id": "u10-008",
+      "unit": 10,
+      "term": "Coding skills",
+      "partOfSpeech": "n",
+      "translation": "навыки программирования"
+    },
+    {
+      "id": "u10-009",
+      "unit": 10,
+      "term": "Communication skills",
+      "partOfSpeech": "n",
+      "translation": "навыки общения"
+    },
+    {
+      "id": "u10-010",
+      "unit": 10,
+      "term": "Competitive edge",
+      "partOfSpeech": "n",
+      "translation": "конкурентное преимущество"
+    },
+    {
+      "id": "u10-011",
+      "unit": 10,
+      "term": "Computer operator",
+      "partOfSpeech": "n",
+      "translation": "оператор ПК"
+    },
+    {
+      "id": "u10-012",
+      "unit": 10,
+      "term": "Contribute",
+      "partOfSpeech": "v",
+      "translation": "способствовать, вносить вклад"
+    },
+    {
+      "id": "u10-013",
+      "unit": 10,
+      "term": "Critical thinking",
+      "partOfSpeech": "n",
+      "translation": "аналитическое (критическое) мышление"
+    },
+    {
+      "id": "u10-014",
+      "unit": 10,
+      "term": "Cybersecurity specialist",
+      "partOfSpeech": "n",
+      "translation": "специалист по кибербезопасности"
+    },
+    {
+      "id": "u10-015",
+      "unit": 10,
+      "term": "Data scientist",
+      "partOfSpeech": "n",
+      "translation": "специалист по обработке и анализу данных"
+    },
+    {
+      "id": "u10-016",
+      "unit": 10,
+      "term": "Digestible",
+      "partOfSpeech": "adj",
+      "translation": "легко усваиваемый"
+    },
+    {
+      "id": "u10-017",
+      "unit": 10,
+      "term": "Dive into",
+      "partOfSpeech": "v",
+      "translation": "погрузиться в"
+    },
+    {
+      "id": "u10-018",
+      "unit": 10,
+      "term": "E-commerce",
+      "partOfSpeech": "n",
+      "translation": "электронная коммерция"
+    },
+    {
+      "id": "u10-019",
+      "unit": 10,
+      "term": "Ever-expanding",
+      "partOfSpeech": "adj",
+      "translation": "постоянно расширяющийся"
+    },
+    {
+      "id": "u10-020",
+      "unit": 10,
+      "term": "Expertise",
+      "partOfSpeech": "n",
+      "translation": "опыт, знания, мастерство"
+    },
+    {
+      "id": "u10-021",
+      "unit": 10,
+      "term": "Exploratory data analysis (EDA)",
+      "partOfSpeech": "n",
+      "translation": "разведывательный анализ данных (EDA)"
+    },
+    {
+      "id": "u10-022",
+      "unit": 10,
+      "term": "Foster",
+      "partOfSpeech": "v",
+      "translation": "способствовать"
+    },
+    {
+      "id": "u10-023",
+      "unit": 10,
+      "term": "Forefront",
+      "partOfSpeech": "n",
+      "translation": "первый план, авангард"
+    },
+    {
+      "id": "u10-024",
+      "unit": 10,
+      "term": "Gather",
+      "partOfSpeech": "v",
+      "translation": "собирать (вместе)"
+    },
+    {
+      "id": "u10-025",
+      "unit": 10,
+      "term": "Goal oriented",
+      "partOfSpeech": "adj",
+      "translation": "ориентированный на достижение цели"
+    },
+    {
+      "id": "u10-026",
+      "unit": 10,
+      "term": "Hands-on experience",
+      "partOfSpeech": "n",
+      "translation": "опыт практической работы"
+    },
+    {
+      "id": "u10-027",
+      "unit": 10,
+      "term": "Hard skills",
+      "partOfSpeech": "n",
+      "translation": "профессиональные навыки"
+    },
+    {
+      "id": "u10-028",
+      "unit": 10,
+      "term": "Help desk technician",
+      "partOfSpeech": "n",
+      "translation": "специалист службы поддержки"
+    },
+    {
+      "id": "u10-029",
+      "unit": 10,
+      "term": "Information and communication technology (ICT)",
+      "partOfSpeech": "n",
+      "translation": "информационно-коммуникационные технологии"
+    },
+    {
+      "id": "u10-030",
+      "unit": 10,
+      "term": "IT career path",
+      "partOfSpeech": "n",
+      "translation": "Карьера в сфере ИТ"
+    },
+    {
+      "id": "u10-031",
+      "unit": 10,
+      "term": "IT support specialist",
+      "partOfSpeech": "n",
+      "translation": "Специалист по ИТ-поддержке"
+    },
+    {
+      "id": "u10-032",
+      "unit": 10,
+      "term": "IT workforce",
+      "partOfSpeech": "n",
+      "translation": "ИТ-персонал"
+    },
+    {
+      "id": "u10-033",
+      "unit": 10,
+      "term": "Leadership",
+      "partOfSpeech": "n",
+      "translation": "руководство (лидерство)"
+    },
+    {
+      "id": "u10-034",
+      "unit": 10,
+      "term": "Logical thinking",
+      "partOfSpeech": "n",
+      "translation": "логическое мышление"
+    },
+    {
+      "id": "u10-035",
+      "unit": 10,
+      "term": "Machine learning engineer",
+      "partOfSpeech": "n",
+      "translation": "Инженер по машинному обучению"
+    },
+    {
+      "id": "u10-036",
+      "unit": 10,
+      "term": "Meet deadlines",
+      "partOfSpeech": "v",
+      "translation": "укладываться в сроки"
+    },
+    {
+      "id": "u10-037",
+      "unit": 10,
+      "term": "Meetup",
+      "partOfSpeech": "n",
+      "translation": "неформальная встреча"
+    },
+    {
+      "id": "u10-038",
+      "unit": 10,
+      "term": "Much-in-demand",
+      "partOfSpeech": "adj",
+      "translation": "очень востребованный"
+    },
+    {
+      "id": "u10-039",
+      "unit": 10,
+      "term": "Network analyst",
+      "partOfSpeech": "n",
+      "translation": "Сетевой аналитик"
+    },
+    {
+      "id": "u10-040",
+      "unit": 10,
+      "term": "Network architect",
+      "partOfSpeech": "n",
+      "translation": "сетевой архитектор"
+    },
+    {
+      "id": "u10-041",
+      "unit": 10,
+      "term": "Non-tech",
+      "partOfSpeech": "adj",
+      "translation": "нетехнический"
+    },
+    {
+      "id": "u10-042",
+      "unit": 10,
+      "term": "Oral communication",
+      "partOfSpeech": "n",
+      "translation": "устное общение"
+    },
+    {
+      "id": "u10-043",
+      "unit": 10,
+      "term": "Penetration test",
+      "partOfSpeech": "n",
+      "translation": "тест на проникновение с целью проверки системы защиты"
+    },
+    {
+      "id": "u10-044",
+      "unit": 10,
+      "term": "Plop down",
+      "partOfSpeech": "v",
+      "translation": "плюхнуться, шлепнуться"
+    },
+    {
+      "id": "u10-045",
+      "unit": 10,
+      "term": "Problem-solving skills",
+      "partOfSpeech": "n",
+      "translation": "навыки решения проблем"
+    },
+    {
+      "id": "u10-046",
+      "unit": 10,
+      "term": "Programmer",
+      "partOfSpeech": "n",
+      "translation": "программист"
+    },
+    {
+      "id": "u10-047",
+      "unit": 10,
+      "term": "Project manager",
+      "partOfSpeech": "n",
+      "translation": "руководитель проекта"
+    },
+    {
+      "id": "u10-048",
+      "unit": 10,
+      "term": "Proliferation",
+      "partOfSpeech": "n",
+      "translation": "распространение, быстрое увеличение"
+    },
+    {
+      "id": "u10-049",
+      "unit": 10,
+      "term": "Pursue",
+      "partOfSpeech": "v",
+      "translation": "преследовать"
+    },
+    {
+      "id": "u10-050",
+      "unit": 10,
+      "term": "Quality assurance (QA)",
+      "partOfSpeech": "n",
+      "translation": "контроль качества"
+    },
+    {
+      "id": "u10-051",
+      "unit": 10,
+      "term": "Remote working team",
+      "partOfSpeech": "n",
+      "translation": "удаленная рабочая команда"
+    },
+    {
+      "id": "u10-052",
+      "unit": 10,
+      "term": "Resilient",
+      "partOfSpeech": "adj",
+      "translation": "устойчивый, стойкий"
+    },
+    {
+      "id": "u10-053",
+      "unit": 10,
+      "term": "Scheduling",
+      "partOfSpeech": "n",
+      "translation": "планирование"
+    },
+    {
+      "id": "u10-054",
+      "unit": 10,
+      "term": "Self-directed",
+      "partOfSpeech": "adj",
+      "translation": "самостоятельный, самоуправляемый"
+    },
+    {
+      "id": "u10-055",
+      "unit": 10,
+      "term": "Self-motivated",
+      "partOfSpeech": "adj",
+      "translation": "целеустремленный"
+    },
+    {
+      "id": "u10-056",
+      "unit": 10,
+      "term": "Savvy",
+      "partOfSpeech": "adj",
+      "translation": "смышлёный, толковый, сообразительный"
+    },
+    {
+      "id": "u10-057",
+      "unit": 10,
+      "term": "Shifting",
+      "partOfSpeech": "adj",
+      "translation": "изменение, передвижение"
+    },
+    {
+      "id": "u10-058",
+      "unit": 10,
+      "term": "Soft skills",
+      "partOfSpeech": "n",
+      "translation": "навыки межличностного общения"
+    },
+    {
+      "id": "u10-059",
+      "unit": 10,
+      "term": "Software developer",
+      "partOfSpeech": "n",
+      "translation": "разработчик программного обеспечения"
+    },
+    {
+      "id": "u10-060",
+      "unit": 10,
+      "term": "Spur",
+      "partOfSpeech": "v",
+      "translation": "побуждать"
+    },
+    {
+      "id": "u10-061",
+      "unit": 10,
+      "term": "Stream",
+      "partOfSpeech": "n",
+      "translation": "поток"
+    },
+    {
+      "id": "u10-062",
+      "unit": 10,
+      "term": "Swath",
+      "partOfSpeech": "n",
+      "translation": "ряд, полоса"
+    },
+    {
+      "id": "u10-063",
+      "unit": 10,
+      "term": "System (network) administrator",
+      "partOfSpeech": "n",
+      "translation": "системный (сетевой) администратор"
+    },
+    {
+      "id": "u10-064",
+      "unit": 10,
+      "term": "Team building",
+      "partOfSpeech": "n",
+      "translation": "командообразование, тимбилдинг"
+    },
+    {
+      "id": "u10-065",
+      "unit": 10,
+      "term": "Teamwork",
+      "partOfSpeech": "n",
+      "translation": "работа в команде"
+    },
+    {
+      "id": "u10-066",
+      "unit": 10,
+      "term": "Technical writer",
+      "partOfSpeech": "n",
+      "translation": "редактор технической документации"
+    },
+    {
+      "id": "u10-067",
+      "unit": 10,
+      "term": "Technology know-how",
+      "partOfSpeech": "n",
+      "translation": "научно-технические знания"
+    },
+    {
+      "id": "u10-068",
+      "unit": 10,
+      "term": "Time management",
+      "partOfSpeech": "n",
+      "translation": "планирование рабочего времени"
+    },
+    {
+      "id": "u10-069",
+      "unit": 10,
+      "term": "UX/UI designer",
+      "partOfSpeech": "n",
+      "translation": "UX/UI-дизайнер"
+    },
+    {
+      "id": "u10-070",
+      "unit": 10,
+      "term": "Unprecedented",
+      "partOfSpeech": "adj",
+      "translation": "беспрецедентный, небывалый"
+    },
+    {
+      "id": "u10-071",
+      "unit": 10,
+      "term": "Web developer",
+      "partOfSpeech": "n",
+      "translation": "Веб-разработчик"
+    },
+    {
+      "id": "u10-072",
+      "unit": 10,
+      "term": "Web designer (webmaster)",
+      "partOfSpeech": "n",
+      "translation": "веб-дизайнер (веб-мастер)"
+    },
+    {
+      "id": "u10-073",
+      "unit": 10,
+      "term": "Wireframe",
+      "partOfSpeech": "n",
+      "translation": "схема макета, его «скелет» без дизайна, нужен для определения расположения всех элементов макета"
+    },
+    {
+      "id": "u10-074",
+      "unit": 10,
+      "term": "Workload",
+      "partOfSpeech": "n",
+      "translation": "рабочая нагрузка"
+    },
+    {
+      "id": "u10-075",
+      "unit": 10,
+      "term": "Written communication",
+      "partOfSpeech": "n",
+      "translation": "письменное общение, переписка"
+    },
+    {
+      "id": "u11-001",
+      "unit": 11,
+      "term": "Abstraction",
+      "partOfSpeech": "n",
+      "translation": "абстракция, обобщение"
+    },
+    {
+      "id": "u11-002",
+      "unit": 11,
+      "term": "Academic papers",
+      "partOfSpeech": "n",
+      "translation": "научные труды, статьи"
+    },
+    {
+      "id": "u11-003",
+      "unit": 11,
+      "term": "Admire",
+      "partOfSpeech": "v",
+      "translation": "любоваться, восхищаться"
+    },
+    {
+      "id": "u11-004",
+      "unit": 11,
+      "term": "Apply",
+      "partOfSpeech": "v",
+      "translation": "подать заявление"
+    },
+    {
+      "id": "u11-005",
+      "unit": 11,
+      "term": "Applied computer science",
+      "partOfSpeech": "n",
+      "translation": "прикладная информатика"
+    },
+    {
+      "id": "u11-006",
+      "unit": 11,
+      "term": "Applied mathematics",
+      "partOfSpeech": "n",
+      "translation": "прикладная математика"
+    },
+    {
+      "id": "u11-007",
+      "unit": 11,
+      "term": "Applied mathematician",
+      "partOfSpeech": "n",
+      "translation": "прикладной математик"
+    },
+    {
+      "id": "u11-008",
+      "unit": 11,
+      "term": "Balance",
+      "partOfSpeech": "v",
+      "translation": "балансировать"
+    },
+    {
+      "id": "u11-009",
+      "unit": 11,
+      "term": "Blend",
+      "partOfSpeech": "v",
+      "translation": "смешивать"
+    },
+    {
+      "id": "u11-010",
+      "unit": 11,
+      "term": "Bullet points",
+      "partOfSpeech": "n",
+      "translation": "пункты списка"
+    },
+    {
+      "id": "u11-011",
+      "unit": 11,
+      "term": "Capability",
+      "partOfSpeech": "n",
+      "translation": "способность, умение"
+    },
+    {
+      "id": "u11-012",
+      "unit": 11,
+      "term": "Challenge",
+      "partOfSpeech": "v",
+      "translation": "бросать вызов"
+    },
+    {
+      "id": "u11-013",
+      "unit": 11,
+      "term": "Clarity",
+      "partOfSpeech": "n",
+      "translation": "ясность, четкость"
+    },
+    {
+      "id": "u11-014",
+      "unit": 11,
+      "term": "Committed",
+      "partOfSpeech": "adj",
+      "translation": "преданный, приверженный"
+    },
+    {
+      "id": "u11-015",
+      "unit": 11,
+      "term": "Complex issues",
+      "partOfSpeech": "n",
+      "translation": "сложные вопросы (проблемы)"
+    },
+    {
+      "id": "u11-016",
+      "unit": 11,
+      "term": "Complexity",
+      "partOfSpeech": "n",
+      "translation": "сложность, комплексность, запутанность"
+    },
+    {
+      "id": "u11-017",
+      "unit": 11,
+      "term": "Computer science",
+      "partOfSpeech": "n",
+      "translation": "информатика"
+    },
+    {
+      "id": "u11-018",
+      "unit": 11,
+      "term": "Computer scientist",
+      "partOfSpeech": "n",
+      "translation": "компьютерный специалист, информатик, программист"
+    },
+    {
+      "id": "u11-019",
+      "unit": 11,
+      "term": "Concise",
+      "partOfSpeech": "adj",
+      "translation": "краткий, лаконичный"
+    },
+    {
+      "id": "u11-020",
+      "unit": 11,
+      "term": "Concurrency",
+      "partOfSpeech": "n",
+      "translation": "параллельное выполнение нескольких задач; конкурентность"
+    },
+    {
+      "id": "u11-021",
+      "unit": 11,
+      "term": "Consequences",
+      "partOfSpeech": "n",
+      "translation": "следствие, последствие, результат"
+    },
+    {
+      "id": "u11-022",
+      "unit": 11,
+      "term": "Curriculum vitae (CV)",
+      "partOfSpeech": "n",
+      "translation": "краткая биография, резюме"
+    },
+    {
+      "id": "u11-023",
+      "unit": 11,
+      "term": "Cybersecurity",
+      "partOfSpeech": "n",
+      "translation": "кибербезопасность"
+    },
+    {
+      "id": "u11-024",
+      "unit": 11,
+      "term": "Development tools",
+      "partOfSpeech": "n",
+      "translation": "средства разработки"
+    },
+    {
+      "id": "u11-025",
+      "unit": 11,
+      "term": "Digital assets",
+      "partOfSpeech": "n",
+      "translation": "цифровые активы"
+    },
+    {
+      "id": "u11-026",
+      "unit": 11,
+      "term": "Documentation",
+      "partOfSpeech": "n",
+      "translation": "документация"
+    },
+    {
+      "id": "u11-027",
+      "unit": 11,
+      "term": "Drawn",
+      "partOfSpeech": "adj",
+      "translation": "заинтересованный, привлеченный"
+    },
+    {
+      "id": "u11-028",
+      "unit": 11,
+      "term": "Dual-role expert",
+      "partOfSpeech": "n",
+      "translation": "эксперт двойной роли"
+    },
+    {
+      "id": "u11-029",
+      "unit": 11,
+      "term": "Energy-efficient",
+      "partOfSpeech": "adj",
+      "translation": "энергоэффективный"
+    },
+    {
+      "id": "u11-030",
+      "unit": 11,
+      "term": "Enroll",
+      "partOfSpeech": "v",
+      "translation": "записываться"
+    },
+    {
+      "id": "u11-031",
+      "unit": 11,
+      "term": "Evaluate",
+      "partOfSpeech": "v",
+      "translation": "оценивать, вычислять"
+    },
+    {
+      "id": "u11-032",
+      "unit": 11,
+      "term": "Fascination",
+      "partOfSpeech": "n",
+      "translation": "увлечение"
+    },
+    {
+      "id": "u11-033",
+      "unit": 11,
+      "term": "Field of study",
+      "partOfSpeech": "n",
+      "translation": "область изучения"
+    },
+    {
+      "id": "u11-034",
+      "unit": 11,
+      "term": "Handling",
+      "partOfSpeech": "n",
+      "translation": "обработка"
+    },
+    {
+      "id": "u11-035",
+      "unit": 11,
+      "term": "Information (data) security specialist",
+      "partOfSpeech": "n",
+      "translation": "специалист по информационной безопасности (безопасности данных)"
+    },
+    {
+      "id": "u11-036",
+      "unit": 11,
+      "term": "Innovator",
+      "partOfSpeech": "n",
+      "translation": "новатор"
+    },
+    {
+      "id": "u11-037",
+      "unit": 11,
+      "term": "Interdisciplinary",
+      "partOfSpeech": "adj",
+      "translation": "междисциплинарный"
+    },
+    {
+      "id": "u11-038",
+      "unit": 11,
+      "term": "Internals",
+      "partOfSpeech": "n",
+      "translation": "внутренности, внутреннее состояние"
+    },
+    {
+      "id": "u11-039",
+      "unit": 11,
+      "term": "Job interview",
+      "partOfSpeech": "n",
+      "translation": "собеседование на работу"
+    },
+    {
+      "id": "u11-040",
+      "unit": 11,
+      "term": "Major",
+      "partOfSpeech": "n",
+      "translation": "ведущая, профильная дисциплина"
+    },
+    {
+      "id": "u11-041",
+      "unit": 11,
+      "term": "Meaningful",
+      "partOfSpeech": "adj",
+      "translation": "значимый"
+    },
+    {
+      "id": "u11-042",
+      "unit": 11,
+      "term": "Memory-mapped registers",
+      "partOfSpeech": "n",
+      "translation": "регистры, отображенные в памяти"
+    },
+    {
+      "id": "u11-043",
+      "unit": 11,
+      "term": "Methodology",
+      "partOfSpeech": "n",
+      "translation": "методология, методика"
+    },
+    {
+      "id": "u11-044",
+      "unit": 11,
+      "term": "Open-source repositories",
+      "partOfSpeech": "n",
+      "translation": "репозитории с открытым исходным кодом"
+    },
+    {
+      "id": "u11-045",
+      "unit": 11,
+      "term": "Parallelism",
+      "partOfSpeech": "n",
+      "translation": "параллелизм"
+    },
+    {
+      "id": "u11-046",
+      "unit": 11,
+      "term": "Persistence",
+      "partOfSpeech": "n",
+      "translation": "упорство, настойчивость"
+    },
+    {
+      "id": "u11-047",
+      "unit": 11,
+      "term": "Personal trait",
+      "partOfSpeech": "n",
+      "translation": "черта личности"
+    },
+    {
+      "id": "u11-048",
+      "unit": 11,
+      "term": "Precision",
+      "partOfSpeech": "n",
+      "translation": "точность, аккуратность"
+    },
+    {
+      "id": "u11-049",
+      "unit": 11,
+      "term": "Professional",
+      "partOfSpeech": "n",
+      "translation": "профессионал"
+    },
+    {
+      "id": "u11-050",
+      "unit": 11,
+      "term": "Proficiency",
+      "partOfSpeech": "n",
+      "translation": "опытность, умение, уровень владения"
+    },
+    {
+      "id": "u11-051",
+      "unit": 11,
+      "term": "Push boundaries",
+      "partOfSpeech": "v",
+      "translation": "расширять границы"
+    },
+    {
+      "id": "u11-052",
+      "unit": 11,
+      "term": "Qualifications",
+      "partOfSpeech": "n",
+      "translation": "квалификация, диплом"
+    },
+    {
+      "id": "u11-053",
+      "unit": 11,
+      "term": "Repository",
+      "partOfSpeech": "n",
+      "translation": "хранилище"
+    },
+    {
+      "id": "u11-054",
+      "unit": 11,
+      "term": "Résumé",
+      "partOfSpeech": "n",
+      "translation": "резюме"
+    },
+    {
+      "id": "u11-055",
+      "unit": 11,
+      "term": "Roadmap",
+      "partOfSpeech": "n",
+      "translation": "план действий"
+    },
+    {
+      "id": "u11-056",
+      "unit": 11,
+      "term": "Scope",
+      "partOfSpeech": "n",
+      "translation": "рамки, сфера, возможности, масштаб"
+    },
+    {
+      "id": "u11-057",
+      "unit": 11,
+      "term": "Scalable",
+      "partOfSpeech": "adj",
+      "translation": "масштабируемый, расширяемый"
+    },
+    {
+      "id": "u11-058",
+      "unit": 11,
+      "term": "Self-study",
+      "partOfSpeech": "n",
+      "translation": "самообучение"
+    },
+    {
+      "id": "u11-059",
+      "unit": 11,
+      "term": "Showcase",
+      "partOfSpeech": "v",
+      "translation": "демонстрировать"
+    },
+    {
+      "id": "u11-060",
+      "unit": 11,
+      "term": "Show voice",
+      "partOfSpeech": "v",
+      "translation": "показать голос"
+    },
+    {
+      "id": "u11-061",
+      "unit": 11,
+      "term": "Solid",
+      "partOfSpeech": "adj",
+      "translation": "твердый, прочный"
+    },
+    {
+      "id": "u11-062",
+      "unit": 11,
+      "term": "Specialist",
+      "partOfSpeech": "n",
+      "translation": "специалист"
+    },
+    {
+      "id": "u11-063",
+      "unit": 11,
+      "term": "Speciality",
+      "partOfSpeech": "n",
+      "translation": "специальность"
+    },
+    {
+      "id": "u11-064",
+      "unit": 11,
+      "term": "Stay current",
+      "partOfSpeech": "v",
+      "translation": "идти в ногу со временем"
+    },
+    {
+      "id": "u11-065",
+      "unit": 11,
+      "term": "Strengthen",
+      "partOfSpeech": "v",
+      "translation": "усиливать, укреплять"
+    },
+    {
+      "id": "u11-066",
+      "unit": 11,
+      "term": "System analyst-programmer",
+      "partOfSpeech": "n",
+      "translation": "системный аналитик-программист"
+    },
+    {
+      "id": "u11-067",
+      "unit": 11,
+      "term": "Tackle",
+      "partOfSpeech": "v",
+      "translation": "схватить, взяться"
+    },
+    {
+      "id": "u11-068",
+      "unit": 11,
+      "term": "Targeted",
+      "partOfSpeech": "adj",
+      "translation": "нацеленный, целевой"
+    },
+    {
+      "id": "u11-069",
+      "unit": 11,
+      "term": "Time-consuming",
+      "partOfSpeech": "adj",
+      "translation": "отнимающий много времени"
+    },
+    {
+      "id": "u11-070",
+      "unit": 11,
+      "term": "Underpinning",
+      "partOfSpeech": "n",
+      "translation": "основа; поддерживающая структура"
+    },
+    {
+      "id": "u11-071",
+      "unit": 11,
+      "term": "Under pressure",
+      "partOfSpeech": "adv",
+      "translation": "в стрессовой ситуации"
+    },
+    {
+      "id": "u11-072",
+      "unit": 11,
+      "term": "Work experience",
+      "partOfSpeech": "n",
+      "translation": "опыт работы"
+    },
+    {
+      "id": "u11-073",
+      "unit": 11,
+      "term": "CV objective",
+      "partOfSpeech": "n",
+      "translation": "цель резюме"
+    },
+    {
+      "id": "u11-074",
+      "unit": 11,
+      "term": "CV template",
+      "partOfSpeech": "n",
+      "translation": "шаблон резюме"
+    },
+    {
+      "id": "u02-extra-001",
+      "unit": 2,
+      "term": "Client-Server",
+      "partOfSpeech": "",
+      "translation": "клиент-серверный"
+    },
+    {
+      "id": "u02-extra-002",
+      "unit": 2,
+      "term": "data-centric",
+      "partOfSpeech": "",
+      "translation": "ориентированный на обработку данных, информационно-центрический"
+    },
+    {
+      "id": "u02-extra-003",
+      "unit": 2,
+      "term": "flexible",
+      "partOfSpeech": "",
+      "translation": "гибкий, адаптирующийся"
+    },
+    {
+      "id": "u02-extra-004",
+      "unit": 2,
+      "term": "participatory",
+      "partOfSpeech": "",
+      "translation": "общий, объединённый, совместный"
+    },
+    {
+      "id": "u02-extra-005",
+      "unit": 2,
+      "term": "exponential",
+      "partOfSpeech": "",
+      "translation": "быстрорастущий, экспоненциальный"
+    },
+    {
+      "id": "u02-extra-006",
+      "unit": 2,
+      "term": "disruptive",
+      "partOfSpeech": "",
+      "translation": "разрушительный, неблагоприятный"
+    },
+    {
+      "id": "u02-extra-007",
+      "unit": 2,
+      "term": "SaaS",
+      "partOfSpeech": "",
+      "translation": "ПО как сервис"
+    },
+    {
+      "id": "u03-extra-001",
+      "unit": 3,
+      "term": "Uniform Resource Locator (URL)",
+      "partOfSpeech": "",
+      "translation": "унифицированный указатель информационного ресурса (адрес сайта в интернете)"
+    },
+    {
+      "id": "u03-extra-002",
+      "unit": 3,
+      "term": "pay as you go",
+      "partOfSpeech": "",
+      "translation": "оплата по мере использования"
+    },
+    {
+      "id": "u03-extra-003",
+      "unit": 3,
+      "term": "evolve",
+      "partOfSpeech": "",
+      "translation": "развиваться, эволюционировать"
+    },
+    {
+      "id": "u03-extra-004",
+      "unit": 3,
+      "term": "launch a website",
+      "partOfSpeech": "",
+      "translation": "запустить сайт"
+    },
+    {
+      "id": "u03-extra-005",
+      "unit": 3,
+      "term": "prioritize functionality over aesthetics",
+      "partOfSpeech": "",
+      "translation": "отдавать приоритет функциональности, а не эстетике"
+    },
+    {
+      "id": "u03-extra-006",
+      "unit": 3,
+      "term": "add dynamic content",
+      "partOfSpeech": "",
+      "translation": "добавить динамичный контент"
+    },
+    {
+      "id": "u03-extra-007",
+      "unit": 3,
+      "term": "maintain websites",
+      "partOfSpeech": "",
+      "translation": "обслуживать вебсайты"
+    },
+    {
+      "id": "u03-extra-008",
+      "unit": 3,
+      "term": "be perfected to the limit",
+      "partOfSpeech": "",
+      "translation": "быть усовершенствованным до предела"
+    },
+    {
+      "id": "u04-extra-001",
+      "unit": 4,
+      "term": "Firewall",
+      "partOfSpeech": "",
+      "translation": "брандмауэр, межсетевой экран"
+    },
+    {
+      "id": "u04-extra-002",
+      "unit": 4,
+      "term": "fraudulent",
+      "partOfSpeech": "",
+      "translation": "мошеннический, обманный"
+    },
+    {
+      "id": "u04-extra-003",
+      "unit": 4,
+      "term": "bundled with",
+      "partOfSpeech": "",
+      "translation": "В комплекте с"
+    },
+    {
+      "id": "u04-extra-004",
+      "unit": 4,
+      "term": "harbor",
+      "partOfSpeech": "",
+      "translation": "скрывать, укрывать"
+    },
+    {
+      "id": "u04-extra-005",
+      "unit": 4,
+      "term": "hijack",
+      "partOfSpeech": "",
+      "translation": "похищать"
+    },
+    {
+      "id": "u04-extra-006",
+      "unit": 4,
+      "term": "Mitigation",
+      "partOfSpeech": "",
+      "translation": "зд. решение"
+    },
+    {
+      "id": "u04-extra-007",
+      "unit": 4,
+      "term": "lure",
+      "partOfSpeech": "",
+      "translation": "завлекать, приманивать"
+    },
+    {
+      "id": "u04-extra-008",
+      "unit": 4,
+      "term": "Arbitrary Code",
+      "partOfSpeech": "",
+      "translation": "произвольный код"
+    },
+    {
+      "id": "u04-extra-009",
+      "unit": 4,
+      "term": "Evasion Techniques",
+      "partOfSpeech": "",
+      "translation": "методы уклонения"
+    },
+    {
+      "id": "u04-extra-010",
+      "unit": 4,
+      "term": "credentials",
+      "partOfSpeech": "",
+      "translation": "реквизиты для входа,учетные данные, полномочия, рекомендации"
+    },
+    {
+      "id": "u04-extra-011",
+      "unit": 4,
+      "term": "prosecute",
+      "partOfSpeech": "",
+      "translation": "преследовать в судебном порядке, обвинять"
+    },
+    {
+      "id": "u04-extra-012",
+      "unit": 4,
+      "term": "Inoculation",
+      "partOfSpeech": "",
+      "translation": "прививка, вакцинация"
+    },
+    {
+      "id": "u04-extra-013",
+      "unit": 4,
+      "term": "lackluster",
+      "partOfSpeech": "",
+      "translation": "неэффективный, низкий"
+    },
+    {
+      "id": "u04-extra-014",
+      "unit": 4,
+      "term": "impersonate",
+      "partOfSpeech": "",
+      "translation": "выдавать себя за другое лицо"
+    },
+    {
+      "id": "u04-extra-015",
+      "unit": 4,
+      "term": "Invasive",
+      "partOfSpeech": "",
+      "translation": "назойливый,"
+    },
+    {
+      "id": "u04-extra-016",
+      "unit": 4,
+      "term": "evolve to",
+      "partOfSpeech": "",
+      "translation": "превращаться в, развиваться"
+    },
+    {
+      "id": "u04-extra-017",
+      "unit": 4,
+      "term": "abuse",
+      "partOfSpeech": "",
+      "translation": "неверно использовать, злоумышленно использовать, обманывать, подделывать"
+    },
+    {
+      "id": "u04-extra-018",
+      "unit": 4,
+      "term": "program routine",
+      "partOfSpeech": "",
+      "translation": "Подпрограмма"
+    },
+    {
+      "id": "u05-extra-001",
+      "unit": 5,
+      "term": "encryption",
+      "partOfSpeech": "",
+      "translation": "шифрование"
+    },
+    {
+      "id": "u05-extra-002",
+      "unit": 5,
+      "term": "fraud",
+      "partOfSpeech": "",
+      "translation": "обман, мошенничество"
+    },
+    {
+      "id": "u05-extra-003",
+      "unit": 5,
+      "term": "exploit",
+      "partOfSpeech": "",
+      "translation": "использовать, эксплуатировать, наживаться"
+    },
+    {
+      "id": "u05-extra-004",
+      "unit": 5,
+      "term": "evade",
+      "partOfSpeech": "",
+      "translation": "избегать, уклоняться"
+    },
+    {
+      "id": "u05-extra-005",
+      "unit": 5,
+      "term": "fraudulent",
+      "partOfSpeech": "",
+      "translation": "мошеннический"
+    },
+    {
+      "id": "u05-extra-006",
+      "unit": 5,
+      "term": "brutish",
+      "partOfSpeech": "",
+      "translation": "жестокий, зверский"
+    },
+    {
+      "id": "u05-extra-007",
+      "unit": 5,
+      "term": "fortified",
+      "partOfSpeech": "",
+      "translation": "укрепленный"
+    },
+    {
+      "id": "u05-extra-008",
+      "unit": 5,
+      "term": "deploy patches",
+      "partOfSpeech": "",
+      "translation": "развертывать исправления (Patch deployment ensures that the fixes are installed on every system that uses the software in question)."
+    },
+    {
+      "id": "u05-extra-009",
+      "unit": 5,
+      "term": "drain the resources",
+      "partOfSpeech": "",
+      "translation": "истощать ресурсы"
+    },
+    {
+      "id": "u05-extra-010",
+      "unit": 5,
+      "term": "domain name system (DNS) spoofing",
+      "partOfSpeech": "",
+      "translation": "подмена доменной системы имен (DNS)"
+    },
+    {
+      "id": "u06-extra-001",
+      "unit": 6,
+      "term": "addition",
+      "partOfSpeech": "",
+      "translation": "сложение"
+    },
+    {
+      "id": "u06-extra-002",
+      "unit": 6,
+      "term": "subtraction",
+      "partOfSpeech": "",
+      "translation": "вычитание"
+    },
+    {
+      "id": "u06-extra-003",
+      "unit": 6,
+      "term": "comparison",
+      "partOfSpeech": "",
+      "translation": "сравнение"
+    },
+    {
+      "id": "u06-extra-004",
+      "unit": 6,
+      "term": "onslaught",
+      "partOfSpeech": "",
+      "translation": "натиск, напор"
+    },
+    {
+      "id": "u06-extra-005",
+      "unit": 6,
+      "term": "intended",
+      "partOfSpeech": "",
+      "translation": "предназначенный"
+    },
+    {
+      "id": "u06-extra-006",
+      "unit": 6,
+      "term": "encompass",
+      "partOfSpeech": "",
+      "translation": "охватывать, включать в себя"
+    },
+    {
+      "id": "u06-extra-007",
+      "unit": 6,
+      "term": "carry out",
+      "partOfSpeech": "",
+      "translation": "выполнять, осуществлять"
+    },
+    {
+      "id": "u06-extra-008",
+      "unit": 6,
+      "term": "resemble",
+      "partOfSpeech": "",
+      "translation": "напоминать, быть похожим на"
+    },
+    {
+      "id": "u06-extra-009",
+      "unit": 6,
+      "term": "invent",
+      "partOfSpeech": "",
+      "translation": "изобретать, придумывать"
+    },
+    {
+      "id": "u06-extra-010",
+      "unit": 6,
+      "term": "the desired outcome",
+      "partOfSpeech": "",
+      "translation": "желаемый результат"
+    },
+    {
+      "id": "u06-extra-011",
+      "unit": 6,
+      "term": "in one go",
+      "partOfSpeech": "",
+      "translation": "за один раз"
+    },
+    {
+      "id": "u06-extra-012",
+      "unit": 6,
+      "term": "write code at a more granular level",
+      "partOfSpeech": "",
+      "translation": "писать код на более детальном уровне"
+    },
+    {
+      "id": "u06-extra-013",
+      "unit": 6,
+      "term": "execute powerful operations",
+      "partOfSpeech": "",
+      "translation": "выполнять мощные операции"
+    },
+    {
+      "id": "u06-extra-014",
+      "unit": 6,
+      "term": "to lay the foundation",
+      "partOfSpeech": "",
+      "translation": "заложить основу"
+    },
+    {
+      "id": "u06-extra-015",
+      "unit": 6,
+      "term": "involve real-world objects",
+      "partOfSpeech": "",
+      "translation": "включать реальные объекты"
+    },
+    {
+      "id": "u06-extra-016",
+      "unit": 6,
+      "term": "require detailed knowledge of",
+      "partOfSpeech": "",
+      "translation": "требовать подробных знаний о"
+    },
+    {
+      "id": "u06-extra-017",
+      "unit": 6,
+      "term": "pave the way to / for computer programming languages",
+      "partOfSpeech": "",
+      "translation": "прокладывать путь к / для языков программирования"
+    },
+    {
+      "id": "u09-extra-001",
+      "unit": 9,
+      "term": "engage with (children)",
+      "partOfSpeech": "",
+      "translation": "взаимодействовать с детьми, участвовать в общении или деятельности с ними"
+    },
+    {
+      "id": "u09-extra-002",
+      "unit": 9,
+      "term": "sci-fi story",
+      "partOfSpeech": "",
+      "translation": "научно-фантастический рассказ"
+    },
+    {
+      "id": "u09-extra-003",
+      "unit": 9,
+      "term": "prophetic",
+      "partOfSpeech": "",
+      "translation": "пророческий, предвещающий будущее"
+    },
+    {
+      "id": "u09-extra-004",
+      "unit": 9,
+      "term": "weird",
+      "partOfSpeech": "",
+      "translation": "странный, необычный"
+    },
+    {
+      "id": "u09-extra-005",
+      "unit": 9,
+      "term": "ubiquitous",
+      "partOfSpeech": "",
+      "translation": "вездесущий, повсеместный"
+    },
+    {
+      "id": "u09-extra-006",
+      "unit": 9,
+      "term": "targeted (solutions)",
+      "partOfSpeech": "",
+      "translation": "целенаправленные решения (нацеленные на конкретные проблемы)"
+    },
+    {
+      "id": "u09-extra-007",
+      "unit": 9,
+      "term": "diminished (mental abilities)",
+      "partOfSpeech": "",
+      "translation": "ослабленные умственные способности"
+    },
+    {
+      "id": "u09-extra-008",
+      "unit": 9,
+      "term": "renewable (energy)",
+      "partOfSpeech": "",
+      "translation": "возобновляемая энергия (солнечная, ветровая и т.п.)"
+    },
+    {
+      "id": "u09-extra-009",
+      "unit": 9,
+      "term": "wireless (earbuds)",
+      "partOfSpeech": "",
+      "translation": "беспроводные наушники"
+    },
+    {
+      "id": "u09-extra-010",
+      "unit": 9,
+      "term": "cybernetic (implants)",
+      "partOfSpeech": "",
+      "translation": "кибернетические импланты (технологии внутри тела)"
+    },
+    {
+      "id": "u09-extra-011",
+      "unit": 9,
+      "term": "foresee",
+      "partOfSpeech": "",
+      "translation": "предвидеть, предсказывать будущее"
+    },
+    {
+      "id": "u09-extra-012",
+      "unit": 9,
+      "term": "feature",
+      "partOfSpeech": "",
+      "translation": "изображать, характеризовать"
+    },
+    {
+      "id": "u09-extra-013",
+      "unit": 9,
+      "term": "originate from",
+      "partOfSpeech": "",
+      "translation": "происходить из, возникать из чего-то"
+    },
+    {
+      "id": "u09-extra-014",
+      "unit": 9,
+      "term": "spread",
+      "partOfSpeech": "",
+      "translation": "распространяться"
+    },
+    {
+      "id": "u09-extra-015",
+      "unit": 9,
+      "term": "boost (productivity)",
+      "partOfSpeech": "",
+      "translation": "повышать, увеличивать производительность"
+    },
+    {
+      "id": "u09-extra-016",
+      "unit": 9,
+      "term": "perform (surgical procedures)",
+      "partOfSpeech": "",
+      "translation": "выполнять хирургические операции"
+    },
+    {
+      "id": "u09-extra-017",
+      "unit": 9,
+      "term": "deliver (supplies) to",
+      "partOfSpeech": "",
+      "translation": "доставлять поставки кому-то/чему-то"
+    },
+    {
+      "id": "u09-extra-018",
+      "unit": 9,
+      "term": "navigate (environments)",
+      "partOfSpeech": "",
+      "translation": "ориентироваться в окружающей среде или пространстве"
+    },
+    {
+      "id": "u09-extra-019",
+      "unit": 9,
+      "term": "restrict yourself to",
+      "partOfSpeech": "",
+      "translation": "ограничивать себя чем-то, не выходить за рамки чего-то"
+    },
+    {
+      "id": "u09-extra-020",
+      "unit": 9,
+      "term": "transmit (brain signals)",
+      "partOfSpeech": "",
+      "translation": "передавать сигналы мозга, посылать информацию из мозга"
+    },
+    {
+      "id": "u09-extra-021",
+      "unit": 9,
+      "term": "be preferable to the uncertainty of a human relationship",
+      "partOfSpeech": "",
+      "translation": "быть предпочтительнее неопределенности человеческих отношений (речь идет о роботах)"
+    },
+    {
+      "id": "u09-extra-022",
+      "unit": 9,
+      "term": "retreat to technological cocoons",
+      "partOfSpeech": "",
+      "translation": "уходить в технологические коконы, укрываться за технологиями для защиты или уединения"
+    },
+    {
+      "id": "u09-extra-023",
+      "unit": 9,
+      "term": "alter human capabilities beyond their current natural limits",
+      "partOfSpeech": "",
+      "translation": "изменять человеческие возможности сверх их нынешних природных границ"
+    },
+    {
+      "id": "u09-extra-024",
+      "unit": 9,
+      "term": "to be on the verge of an enhancement revolution",
+      "partOfSpeech": "",
+      "translation": "находиться на грани революции улучшений/усовершенствований"
+    },
+    {
+      "id": "u09-extra-025",
+      "unit": 9,
+      "term": "do more harm than good",
+      "partOfSpeech": "",
+      "translation": "причинять больше вреда, чем пользы"
+    },
+    {
+      "id": "u09-extra-026",
+      "unit": 9,
+      "term": "the core values of humankind",
+      "partOfSpeech": "",
+      "translation": "основные ценности человечества"
+    },
+    {
+      "id": "u09-extra-027",
+      "unit": 9,
+      "term": "do a little digging into",
+      "partOfSpeech": "",
+      "translation": "немного копнуть в смысл или детали чего-то"
+    },
+    {
+      "id": "u09-extra-028",
+      "unit": 9,
+      "term": "to be fitted into our brains",
+      "partOfSpeech": "",
+      "translation": "быть встроенным/установленным в наши мозги"
+    },
+    {
+      "id": "u09-extra-029",
+      "unit": 9,
+      "term": "evolve into",
+      "partOfSpeech": "",
+      "translation": "эволюционировать, развиваться"
+    },
+    {
+      "id": "u09-extra-030",
+      "unit": 9,
+      "term": "opt for",
+      "partOfSpeech": "",
+      "translation": "выбирать, предпочитать"
+    },
+    {
+      "id": "u09-extra-031",
+      "unit": 9,
+      "term": "extinction of phones",
+      "partOfSpeech": "",
+      "translation": "исчезновение телефонов"
+    },
+    {
+      "id": "u09-extra-032",
+      "unit": 9,
+      "term": "overcome (limitations)",
+      "partOfSpeech": "",
+      "translation": "преодолевать ограничения"
+    },
+    {
+      "id": "u10-extra-001",
+      "unit": 10,
+      "term": "internship",
+      "partOfSpeech": "",
+      "translation": "практика, стажировка"
+    },
+    {
+      "id": "u11-extra-001",
+      "unit": 11,
+      "term": "certifications",
+      "partOfSpeech": "",
+      "translation": "квалификационные документы"
+    },
+    {
+      "id": "u11-extra-002",
+      "unit": 11,
+      "term": "resonate",
+      "partOfSpeech": "",
+      "translation": "находить отклик"
+    },
+    {
+      "id": "u11-extra-003",
+      "unit": 11,
+      "term": "craft (v)",
+      "partOfSpeech": "",
+      "translation": "мастерить, создавать"
+    },
+    {
+      "id": "u11-extra-004",
+      "unit": 11,
+      "term": "challenging",
+      "partOfSpeech": "",
+      "translation": "стимулирующий, побуждающий"
+    },
+    {
+      "id": "u11-extra-005",
+      "unit": 11,
+      "term": "dependable",
+      "partOfSpeech": "",
+      "translation": "надёжный, заслуживающий доверия"
+    }
+  ]
+}
