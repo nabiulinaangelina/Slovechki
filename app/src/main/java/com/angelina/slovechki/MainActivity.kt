@@ -8,10 +8,12 @@ import androidx.activity.compose.setContent
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.WindowInsets
+import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
@@ -36,8 +38,10 @@ import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf
+import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
@@ -50,6 +54,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import kotlinx.coroutines.delay
 import org.json.JSONObject
 
 private val Pine = Color(0xFF1E493C)
@@ -133,12 +138,23 @@ private fun SlovechkiApp(vocabulary: Vocabulary, preferences: android.content.Sh
     var answered by remember { mutableIntStateOf(preferences.getInt("answered", 0)) }
     var correct by remember { mutableIntStateOf(preferences.getInt("correct", 0)) }
     var studying by remember { mutableStateOf(false) }
+    var matching by remember { mutableStateOf(false) }
 
     val selectedWords = remember(vocabulary.words, selectedUnits) {
         vocabulary.words.filter { it.unit in selectedUnits && it.translation.isNotBlank() }
     }
 
-    if (studying && selectedWords.isNotEmpty()) {
+    if (matching && selectedWords.size >= 5) {
+        MatchPairsScreen(
+            words = selectedWords,
+            onBack = { matching = false },
+            onAnswer = { wasCorrect ->
+                answered += 1
+                if (wasCorrect) correct += 1
+                preferences.edit().putInt("answered", answered).putInt("correct", correct).apply()
+            },
+        )
+    } else if (studying && selectedWords.isNotEmpty()) {
         StudyScreen(
             words = selectedWords,
             onBack = { studying = false },
@@ -167,6 +183,7 @@ private fun SlovechkiApp(vocabulary: Vocabulary, preferences: android.content.Sh
                 preferences.edit().putStringSet("selected_units", mutableSetOf()).apply()
             },
             onStart = { if (selectedWords.isNotEmpty()) studying = true },
+            onStartMatching = { if (selectedWords.size >= 5) matching = true },
         )
     }
 }
@@ -181,6 +198,7 @@ private fun HomeScreen(
     onSelectAll: () -> Unit,
     onClear: () -> Unit,
     onStart: () -> Unit,
+    onStartMatching: () -> Unit,
 ) {
     val translatedTotal = vocabulary.words.count { it.translation.isNotBlank() }
     val available = vocabulary.words.count { it.unit in selectedUnits && it.translation.isNotBlank() }
@@ -271,9 +289,18 @@ private fun HomeScreen(
             shape = RoundedCornerShape(18.dp),
             colors = ButtonDefaults.buttonColors(containerColor = Pine, disabledContainerColor = Color(0xFFB8C3BC)),
         ) {
-            Text(if (available > 0) "Начать повторение" else "Жду переводы", fontSize = 16.sp, fontWeight = FontWeight.Bold)
+            Text(if (available > 0) "Тест: выбери перевод" else "Жду переводы", fontSize = 16.sp, fontWeight = FontWeight.Bold)
         }
-        Text("Повторять можно сколько угодно: после последнего слова круг начнётся снова.", color = Muted, fontSize = 12.sp, lineHeight = 18.sp, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth())
+        Button(
+            onClick = onStartMatching,
+            enabled = available >= 5,
+            modifier = Modifier.fillMaxWidth().height(58.dp),
+            shape = RoundedCornerShape(18.dp),
+            colors = ButtonDefaults.buttonColors(containerColor = Coral, disabledContainerColor = Color(0xFFB8C3BC)),
+        ) {
+            Text("Сопоставить 5 пар", fontSize = 16.sp, fontWeight = FontWeight.Bold)
+        }
+        Text("В режиме пар найди пять совпадений, затем нажми «Дальше» для следующей пятёрки.", color = Muted, fontSize = 12.sp, lineHeight = 18.sp, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth())
     }
 }
 
@@ -394,5 +421,163 @@ private fun StudyScreen(words: List<VocabWord>, onBack: () -> Unit, onAnswer: (B
             ) { Text("Следующее слово", fontSize = 16.sp, fontWeight = FontWeight.Bold) }
         }
         Spacer(modifier = Modifier.height(2.dp))
+    }
+}
+
+@Composable
+private fun MatchPairsScreen(words: List<VocabWord>, onBack: () -> Unit, onAnswer: (Boolean) -> Unit) {
+    var roundIndex by remember(words) { mutableIntStateOf(0) }
+    var previousBatchIds by remember(words) { mutableStateOf(emptySet<String>()) }
+    val batch = remember(words, roundIndex, previousBatchIds) {
+        val unseen = words.filterNot { it.id in previousBatchIds }
+        val pool = if (unseen.size >= 5) unseen else words
+        val uniqueTranslations = pool.shuffled().distinctBy { it.translation.trim().lowercase() }
+        (if (uniqueTranslations.size >= 5) uniqueTranslations else pool.shuffled()).take(5)
+    }
+    val translations = remember(batch) { batch.shuffled() }
+    val matchedIds = remember(batch) { mutableStateListOf<String>() }
+    var selectedLeft by remember(batch) { mutableStateOf<String?>(null) }
+    var selectedRight by remember(batch) { mutableStateOf<String?>(null) }
+    var wrongPair by remember(batch) { mutableStateOf<Pair<String, String>?>(null) }
+
+    LaunchedEffect(wrongPair) {
+        if (wrongPair != null) {
+            delay(650)
+            selectedLeft = null
+            selectedRight = null
+            wrongPair = null
+        }
+    }
+
+    fun resolveSelection(leftId: String?, rightId: String?) {
+        if (leftId == null || rightId == null) return
+        val isCorrect = leftId == rightId
+        if (isCorrect) {
+            matchedIds.add(leftId)
+            selectedLeft = null
+            selectedRight = null
+        } else {
+            wrongPair = leftId to rightId
+        }
+        onAnswer(isCorrect)
+    }
+
+    Column(
+        modifier = Modifier.fillMaxSize().windowInsetsPadding(WindowInsets.safeDrawing).verticalScroll(rememberScrollState()).padding(horizontal = 16.dp, vertical = 18.dp),
+        verticalArrangement = Arrangement.spacedBy(14.dp),
+    ) {
+        Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+            Surface(
+                modifier = Modifier.size(44.dp).clickable(onClick = onBack),
+                color = Color.White,
+                shape = RoundedCornerShape(14.dp),
+            ) {
+                Box(contentAlignment = Alignment.Center) {
+                    androidx.compose.material3.Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Назад", tint = Pine)
+                }
+            }
+            Column(modifier = Modifier.weight(1f)) {
+                Text("СОПОСТАВЛЕНИЕ", color = Pine, fontSize = 11.sp, fontWeight = FontWeight.Bold, letterSpacing = 1.5.sp)
+                Text("Раунд ${roundIndex + 1} · ${matchedIds.size} из ${batch.size} пар", color = Muted, fontSize = 13.sp)
+            }
+        }
+
+        LinearProgressIndicator(
+            progress = { matchedIds.size.toFloat() / batch.size.coerceAtLeast(1) },
+            modifier = Modifier.fillMaxWidth().height(6.dp),
+            color = Coral,
+            trackColor = Color(0xFFE6E2D9),
+        )
+
+        Text("Нажми на английское слово, затем на его перевод.", color = Muted, fontSize = 14.sp, lineHeight = 20.sp)
+
+        Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+            Text("ENGLISH", modifier = Modifier.weight(1f), color = Muted, fontSize = 11.sp, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center)
+            Text("РУССКИЙ", modifier = Modifier.weight(1f), color = Muted, fontSize = 11.sp, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center)
+        }
+
+        batch.forEachIndexed { rowIndex, word ->
+            Row(horizontalArrangement = Arrangement.spacedBy(10.dp), verticalAlignment = Alignment.CenterVertically) {
+                MatchOption(
+                    text = word.term,
+                    selected = selectedLeft == word.id,
+                    matched = word.id in matchedIds,
+                    incorrect = wrongPair?.first == word.id,
+                    enabled = wrongPair == null && word.id !in matchedIds,
+                    modifier = Modifier.weight(1f),
+                    onClick = {
+                        val nextSelection = if (selectedLeft == word.id) null else word.id
+                        selectedLeft = nextSelection
+                        resolveSelection(nextSelection, selectedRight)
+                    },
+                )
+                val translationWord = translations[rowIndex]
+                MatchOption(
+                    text = translationWord.translation,
+                    selected = selectedRight == translationWord.id,
+                    matched = translationWord.id in matchedIds,
+                    incorrect = wrongPair?.second == translationWord.id,
+                    enabled = wrongPair == null && translationWord.id !in matchedIds,
+                    modifier = Modifier.weight(1f),
+                    onClick = {
+                        val nextSelection = if (selectedRight == translationWord.id) null else translationWord.id
+                        selectedRight = nextSelection
+                        resolveSelection(selectedLeft, nextSelection)
+                    },
+                )
+            }
+        }
+
+        if (matchedIds.size == batch.size) {
+            Text("Все пары найдены!", color = Correct, fontSize = 16.sp, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth())
+            Button(
+                onClick = {
+                    previousBatchIds = batch.map { it.id }.toSet()
+                    roundIndex += 1
+                },
+                modifier = Modifier.fillMaxWidth().height(56.dp),
+                shape = RoundedCornerShape(18.dp),
+                colors = ButtonDefaults.buttonColors(containerColor = Pine),
+            ) {
+                Text("Дальше", fontSize = 16.sp, fontWeight = FontWeight.Bold)
+            }
+        }
+    }
+}
+
+@Composable
+private fun MatchOption(
+    text: String,
+    selected: Boolean,
+    matched: Boolean,
+    incorrect: Boolean,
+    enabled: Boolean,
+    modifier: Modifier = Modifier,
+    onClick: () -> Unit,
+) {
+    val background = when {
+        matched -> PineSoft
+        incorrect -> Color(0xFFF8E6E3)
+        selected -> Color(0xFFEAF0FB)
+        else -> Color.White
+    }
+    val borderColor = when {
+        matched -> Correct
+        incorrect -> Incorrect
+        selected -> Pine
+        else -> Color(0xFFE1E3E5)
+    }
+    Surface(
+        modifier = modifier.heightIn(min = 70.dp).clickable(enabled = enabled, onClick = onClick),
+        color = background,
+        shape = RoundedCornerShape(18.dp),
+        border = BorderStroke(1.5.dp, borderColor),
+    ) {
+        Box(
+            modifier = Modifier.fillMaxWidth().heightIn(min = 70.dp).padding(horizontal = 8.dp, vertical = 8.dp),
+            contentAlignment = Alignment.Center,
+        ) {
+            Text(text, color = Ink, fontSize = 14.sp, lineHeight = 18.sp, textAlign = TextAlign.Center)
+        }
     }
 }
