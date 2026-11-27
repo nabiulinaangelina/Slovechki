@@ -139,7 +139,6 @@ private fun readVocabulary(context: Context): Vocabulary {
         VocabWord(
             id = word.getString("id"),
             unit = word.getInt("unit"),
-            term = word.getString("term"),
             term = term,
             partOfSpeech = word.optString("partOfSpeech", ""),
             translation = word.optString("translation", "").trim(),
@@ -165,7 +164,6 @@ private fun SlovechkiApp(vocabulary: Vocabulary, preferences: android.content.Sh
         mutableStateOf(WordFilter.values().firstOrNull { it.name == saved } ?: WordFilter.ALL)
     }
 
-    val selectedWords = remember(vocabulary.words, selectedUnits) {
     val unitWords = remember(vocabulary.words, selectedUnits) {
         vocabulary.words.filter { it.unit in selectedUnits && it.translation.isNotBlank() }
     }
@@ -237,7 +235,6 @@ private fun HomeScreen(
     onStartMatching: () -> Unit,
 ) {
     val translatedTotal = vocabulary.words.count { it.translation.isNotBlank() }
-    val available = vocabulary.words.count { it.unit in selectedUnits && it.translation.isNotBlank() }
     val available = vocabulary.words.count { it.unit in selectedUnits && it.translation.isNotBlank() && wordFilter.includes(it) }
 
     Column(
@@ -307,7 +304,6 @@ private fun HomeScreen(
         Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
             vocabulary.units.forEach { unit ->
                 val selected = unit.id in selectedUnits
-                val translated = vocabulary.words.count { it.unit == unit.id && it.translation.isNotBlank() }
                 val translated = vocabulary.words.count {
                     it.unit == unit.id && it.translation.isNotBlank() && wordFilter.includes(it)
                 }
@@ -321,7 +317,6 @@ private fun HomeScreen(
                     Checkbox(checked = selected, onCheckedChange = null)
                     Column(modifier = Modifier.weight(1f).padding(start = 8.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
                         Text("Unit ${unit.id}: ${unit.title.lowercase().replaceFirstChar { it.uppercase() }}", color = Ink, fontSize = 15.sp, fontWeight = FontWeight.SemiBold)
-                        Text("$translated из ${unit.count} с переводом", color = Muted, fontSize = 12.sp)
                         Text(
                             if (wordFilter == WordFilter.ALL) "$translated из ${unit.count} с переводом" else "$translated карточек этого типа",
                             color = Muted,
@@ -339,7 +334,6 @@ private fun HomeScreen(
 
         Card(colors = CardDefaults.cardColors(containerColor = Color.White), shape = RoundedCornerShape(18.dp)) {
             Text(
-                text = if (available == 0) "В выбранных юнитах пока нет слов с переводом. Когда переводы будут добавлены, тренировка станет доступна." else "В тренировке: $available слов из выбранных юнитов.",
                 text = when {
                     available > 0 -> "В тренировке: $available карточек из выбранных юнитов."
                     wordFilter == WordFilter.ALL -> "В выбранных юнитах пока нет карточек с переводом."
