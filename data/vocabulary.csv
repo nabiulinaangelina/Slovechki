@@ -1,4 +1,4 @@
-﻿unit,unitTitle,term,partOfSpeech,translation
+unit,unitTitle,term,partOfSpeech,translation
 1,COMPUTER NETWORKS,Analog signals,n,аналоговые сигналы
 1,COMPUTER NETWORKS,Appliance,n,"приспособление, прибор"
 1,COMPUTER NETWORKS,Broadband,n,широкополосный
@@ -257,7 +257,7 @@
 7,JAVA,Runtime,n,время выполнения
 7,JAVA,Set-top box,n,"телевизионная приставка, телевизионный преобразователь"
 7,JAVA,Source code,n,исходный код или текст программы
-7,JAVA,Stalwart,n,"оплот,"
+7,JAVA,Stalwart,n,оплот
 7,JAVA,Stem (from),v,происходить от (чего-л.) ; являться результатом (чего-л.)
 7,JAVA,Surge,n,"всплеск, скачок, резкий подъем"
 7,JAVA,Switch Case,n,оператор ветвления
@@ -480,101 +480,101 @@
 11,MY SPECIALITY,Work experience,n,опыт работы
 11,MY SPECIALITY,CV objective,n,цель резюме
 11,MY SPECIALITY,CV template,n,шаблон резюме
-2,THE WORLD WIDE WEB,Client-Server,,клиент-серверный
-2,THE WORLD WIDE WEB,data-centric,,"ориентированный на обработку данных, информационно-центрический"
-2,THE WORLD WIDE WEB,flexible,,"гибкий, адаптирующийся"
-2,THE WORLD WIDE WEB,participatory,,"общий, объединённый, совместный"
-2,THE WORLD WIDE WEB,exponential,,"быстрорастущий, экспоненциальный"
-2,THE WORLD WIDE WEB,disruptive,,"разрушительный, неблагоприятный"
-2,THE WORLD WIDE WEB,SaaS,,ПО как сервис
-3,WEBSITES AND THE INTERNET,Uniform Resource Locator (URL),,унифицированный указатель информационного ресурса (адрес сайта в интернете)
-3,WEBSITES AND THE INTERNET,pay as you go,,оплата по мере использования
-3,WEBSITES AND THE INTERNET,evolve,,"развиваться, эволюционировать"
-3,WEBSITES AND THE INTERNET,launch a website,,запустить сайт
-3,WEBSITES AND THE INTERNET,prioritize functionality over aesthetics,,"отдавать приоритет функциональности, а не эстетике"
-3,WEBSITES AND THE INTERNET,add dynamic content,,добавить динамичный контент
-3,WEBSITES AND THE INTERNET,maintain websites,,обслуживать вебсайты
-3,WEBSITES AND THE INTERNET,be perfected to the limit,,быть усовершенствованным до предела
-4,COMPUTER MALWARE,Firewall,,"брандмауэр, межсетевой экран"
-4,COMPUTER MALWARE,fraudulent,,"мошеннический, обманный"
-4,COMPUTER MALWARE,bundled with,,В комплекте с
-4,COMPUTER MALWARE,harbor,,"скрывать, укрывать"
-4,COMPUTER MALWARE,hijack,,похищать
-4,COMPUTER MALWARE,Mitigation,,зд. решение
-4,COMPUTER MALWARE,lure,,"завлекать, приманивать"
-4,COMPUTER MALWARE,Arbitrary Code,,произвольный код
-4,COMPUTER MALWARE,Evasion Techniques,,методы уклонения
-4,COMPUTER MALWARE,credentials,,"реквизиты для входа,учетные данные, полномочия, рекомендации"
-4,COMPUTER MALWARE,prosecute,,"преследовать в судебном порядке, обвинять"
-4,COMPUTER MALWARE,Inoculation,,"прививка, вакцинация"
-4,COMPUTER MALWARE,lackluster,,"неэффективный, низкий"
-4,COMPUTER MALWARE,impersonate,,выдавать себя за другое лицо
-4,COMPUTER MALWARE,Invasive,,"назойливый,"
-4,COMPUTER MALWARE,evolve to,,"превращаться в, развиваться"
-4,COMPUTER MALWARE,abuse,,"неверно использовать, злоумышленно использовать, обманывать, подделывать"
-4,COMPUTER MALWARE,program routine,,Подпрограмма
-5,DATA SECURITY,encryption,,шифрование
-5,DATA SECURITY,fraud,,"обман, мошенничество"
-5,DATA SECURITY,exploit,,"использовать, эксплуатировать, наживаться"
-5,DATA SECURITY,evade,,"избегать, уклоняться"
-5,DATA SECURITY,fraudulent,,мошеннический
-5,DATA SECURITY,brutish,,"жестокий, зверский"
-5,DATA SECURITY,fortified,,укрепленный
-5,DATA SECURITY,deploy patches,,развертывать исправления (Patch deployment ensures that the fixes are installed on every system that uses the software in question).
-5,DATA SECURITY,drain the resources,,истощать ресурсы
-5,DATA SECURITY,domain name system (DNS) spoofing,,подмена доменной системы имен (DNS)
-6,PROGRAMMING LANGUAGES,addition,,сложение
-6,PROGRAMMING LANGUAGES,subtraction,,вычитание
-6,PROGRAMMING LANGUAGES,comparison,,сравнение
-6,PROGRAMMING LANGUAGES,onslaught,,"натиск, напор"
-6,PROGRAMMING LANGUAGES,intended,,предназначенный
-6,PROGRAMMING LANGUAGES,encompass,,"охватывать, включать в себя"
-6,PROGRAMMING LANGUAGES,carry out,,"выполнять, осуществлять"
-6,PROGRAMMING LANGUAGES,resemble,,"напоминать, быть похожим на"
-6,PROGRAMMING LANGUAGES,invent,,"изобретать, придумывать"
-6,PROGRAMMING LANGUAGES,the desired outcome,,желаемый результат
-6,PROGRAMMING LANGUAGES,in one go,,за один раз
-6,PROGRAMMING LANGUAGES,write code at a more granular level,,писать код на более детальном уровне
-6,PROGRAMMING LANGUAGES,execute powerful operations,,выполнять мощные операции
-6,PROGRAMMING LANGUAGES,to lay the foundation,,заложить основу
-6,PROGRAMMING LANGUAGES,involve real-world objects,,включать реальные объекты
-6,PROGRAMMING LANGUAGES,require detailed knowledge of,,требовать подробных знаний о
-6,PROGRAMMING LANGUAGES,pave the way to / for computer programming languages,,прокладывать путь к / для языков программирования
-9,FUTURE TECHNOLOGIES,engage with (children),,"взаимодействовать с детьми, участвовать в общении или деятельности с ними"
-9,FUTURE TECHNOLOGIES,sci-fi story,,научно-фантастический рассказ
-9,FUTURE TECHNOLOGIES,prophetic,,"пророческий, предвещающий будущее"
-9,FUTURE TECHNOLOGIES,weird,,"странный, необычный"
-9,FUTURE TECHNOLOGIES,ubiquitous,,"вездесущий, повсеместный"
-9,FUTURE TECHNOLOGIES,targeted (solutions),,целенаправленные решения (нацеленные на конкретные проблемы)
-9,FUTURE TECHNOLOGIES,diminished (mental abilities),,ослабленные умственные способности
-9,FUTURE TECHNOLOGIES,renewable (energy),,"возобновляемая энергия (солнечная, ветровая и т.п.)"
-9,FUTURE TECHNOLOGIES,wireless (earbuds),,беспроводные наушники
-9,FUTURE TECHNOLOGIES,cybernetic (implants),,кибернетические импланты (технологии внутри тела)
-9,FUTURE TECHNOLOGIES,foresee,,"предвидеть, предсказывать будущее"
-9,FUTURE TECHNOLOGIES,feature,,"изображать, характеризовать"
-9,FUTURE TECHNOLOGIES,originate from,,"происходить из, возникать из чего-то"
-9,FUTURE TECHNOLOGIES,spread,,распространяться
-9,FUTURE TECHNOLOGIES,boost (productivity),,"повышать, увеличивать производительность"
-9,FUTURE TECHNOLOGIES,perform (surgical procedures),,выполнять хирургические операции
-9,FUTURE TECHNOLOGIES,deliver (supplies) to,,доставлять поставки кому-то/чему-то
-9,FUTURE TECHNOLOGIES,navigate (environments),,ориентироваться в окружающей среде или пространстве
-9,FUTURE TECHNOLOGIES,restrict yourself to,,"ограничивать себя чем-то, не выходить за рамки чего-то"
-9,FUTURE TECHNOLOGIES,transmit (brain signals),,"передавать сигналы мозга, посылать информацию из мозга"
-9,FUTURE TECHNOLOGIES,be preferable to the uncertainty of a human relationship,,быть предпочтительнее неопределенности человеческих отношений (речь идет о роботах)
-9,FUTURE TECHNOLOGIES,retreat to technological cocoons,,"уходить в технологические коконы, укрываться за технологиями для защиты или уединения"
-9,FUTURE TECHNOLOGIES,alter human capabilities beyond their current natural limits,,изменять человеческие возможности сверх их нынешних природных границ
-9,FUTURE TECHNOLOGIES,to be on the verge of an enhancement revolution,,находиться на грани революции улучшений/усовершенствований
-9,FUTURE TECHNOLOGIES,do more harm than good,,"причинять больше вреда, чем пользы"
-9,FUTURE TECHNOLOGIES,the core values of humankind,,основные ценности человечества
-9,FUTURE TECHNOLOGIES,do a little digging into,,немного копнуть в смысл или детали чего-то
-9,FUTURE TECHNOLOGIES,to be fitted into our brains,,быть встроенным/установленным в наши мозги
-9,FUTURE TECHNOLOGIES,evolve into,,"эволюционировать, развиваться"
-9,FUTURE TECHNOLOGIES,opt for,,"выбирать, предпочитать"
-9,FUTURE TECHNOLOGIES,extinction of phones,,исчезновение телефонов
-9,FUTURE TECHNOLOGIES,overcome (limitations),,преодолевать ограничения
-10,IT CAREERS,internship,,"практика, стажировка"
-11,MY SPECIALITY,certifications,,квалификационные документы
-11,MY SPECIALITY,resonate,,находить отклик
-11,MY SPECIALITY,craft (v),,"мастерить, создавать"
-11,MY SPECIALITY,challenging,,"стимулирующий, побуждающий"
-11,MY SPECIALITY,dependable,,"надёжный, заслуживающий доверия"
+2,THE WORLD WIDE WEB,Client-Server,adj,клиент-серверный
+2,THE WORLD WIDE WEB,data-centric,adj,"ориентированный на обработку данных, информационно-центрический"
+2,THE WORLD WIDE WEB,flexible,adj,"гибкий, адаптирующийся"
+2,THE WORLD WIDE WEB,participatory,adj,"общий, объединённый, совместный"
+2,THE WORLD WIDE WEB,exponential,adj,"быстрорастущий, экспоненциальный"
+2,THE WORLD WIDE WEB,disruptive,adj,"разрушительный, неблагоприятный"
+2,THE WORLD WIDE WEB,SaaS,n,ПО как сервис
+3,WEBSITES AND THE INTERNET,Uniform Resource Locator (URL),n,унифицированный указатель информационного ресурса (адрес сайта в интернете)
+3,WEBSITES AND THE INTERNET,pay as you go,v,оплата по мере использования
+3,WEBSITES AND THE INTERNET,evolve,v,"развиваться, эволюционировать"
+3,WEBSITES AND THE INTERNET,launch a website,v,запустить сайт
+3,WEBSITES AND THE INTERNET,prioritize functionality over aesthetics,v,"отдавать приоритет функциональности, а не эстетике"
+3,WEBSITES AND THE INTERNET,add dynamic content,v,добавить динамичный контент
+3,WEBSITES AND THE INTERNET,maintain websites,v,обслуживать вебсайты
+3,WEBSITES AND THE INTERNET,be perfected to the limit,v,быть усовершенствованным до предела
+4,COMPUTER MALWARE,Firewall,n,"брандмауэр, межсетевой экран"
+4,COMPUTER MALWARE,fraudulent,adj,"мошеннический, обманный"
+4,COMPUTER MALWARE,bundled with,adj,В комплекте с
+4,COMPUTER MALWARE,harbor,v,"скрывать, укрывать"
+4,COMPUTER MALWARE,hijack,v,похищать
+4,COMPUTER MALWARE,Mitigation,n,зд. решение
+4,COMPUTER MALWARE,lure,v,"завлекать, приманивать"
+4,COMPUTER MALWARE,Arbitrary Code,n,произвольный код
+4,COMPUTER MALWARE,Evasion Techniques,n,методы уклонения
+4,COMPUTER MALWARE,credentials,n,"реквизиты для входа,учетные данные, полномочия, рекомендации"
+4,COMPUTER MALWARE,prosecute,v,"преследовать в судебном порядке, обвинять"
+4,COMPUTER MALWARE,Inoculation,n,"прививка, вакцинация"
+4,COMPUTER MALWARE,lackluster,adj,"неэффективный, низкий"
+4,COMPUTER MALWARE,impersonate,v,выдавать себя за другое лицо
+4,COMPUTER MALWARE,Invasive,adj,"назойливый,"
+4,COMPUTER MALWARE,evolve to,v,"превращаться в, развиваться"
+4,COMPUTER MALWARE,abuse,v,"неверно использовать, злоумышленно использовать, обманывать, подделывать"
+4,COMPUTER MALWARE,program routine,n,Подпрограмма
+5,DATA SECURITY,encryption,n,шифрование
+5,DATA SECURITY,fraud,n,"обман, мошенничество"
+5,DATA SECURITY,exploit,v,"использовать, эксплуатировать, наживаться"
+5,DATA SECURITY,evade,v,"избегать, уклоняться"
+5,DATA SECURITY,fraudulent,adj,мошеннический
+5,DATA SECURITY,brutish,adj,"жестокий, зверский"
+5,DATA SECURITY,fortified,adj,укрепленный
+5,DATA SECURITY,deploy patches,v,развертывать исправления (Patch deployment ensures that the fixes are installed on every system that uses the software in question).
+5,DATA SECURITY,drain the resources,v,истощать ресурсы
+5,DATA SECURITY,domain name system (DNS) spoofing,n,подмена доменной системы имен (DNS)
+6,PROGRAMMING LANGUAGES,addition,n,сложение
+6,PROGRAMMING LANGUAGES,subtraction,n,вычитание
+6,PROGRAMMING LANGUAGES,comparison,n,сравнение
+6,PROGRAMMING LANGUAGES,onslaught,n,"натиск, напор"
+6,PROGRAMMING LANGUAGES,intended,adj,предназначенный
+6,PROGRAMMING LANGUAGES,encompass,v,"охватывать, включать в себя"
+6,PROGRAMMING LANGUAGES,carry out,v,"выполнять, осуществлять"
+6,PROGRAMMING LANGUAGES,resemble,v,"напоминать, быть похожим на"
+6,PROGRAMMING LANGUAGES,invent,v,"изобретать, придумывать"
+6,PROGRAMMING LANGUAGES,the desired outcome,n,желаемый результат
+6,PROGRAMMING LANGUAGES,in one go,adv,за один раз
+6,PROGRAMMING LANGUAGES,write code at a more granular level,v,писать код на более детальном уровне
+6,PROGRAMMING LANGUAGES,execute powerful operations,v,выполнять мощные операции
+6,PROGRAMMING LANGUAGES,to lay the foundation,v,заложить основу
+6,PROGRAMMING LANGUAGES,involve real-world objects,v,включать реальные объекты
+6,PROGRAMMING LANGUAGES,require detailed knowledge of,v,требовать подробных знаний о
+6,PROGRAMMING LANGUAGES,pave the way to / for computer programming languages,v,прокладывать путь к / для языков программирования
+9,FUTURE TECHNOLOGIES,engage with (children),v,"взаимодействовать с детьми, участвовать в общении или деятельности с ними"
+9,FUTURE TECHNOLOGIES,sci-fi story,n,научно-фантастический рассказ
+9,FUTURE TECHNOLOGIES,prophetic,adj,"пророческий, предвещающий будущее"
+9,FUTURE TECHNOLOGIES,weird,adj,"странный, необычный"
+9,FUTURE TECHNOLOGIES,ubiquitous,adj,"вездесущий, повсеместный"
+9,FUTURE TECHNOLOGIES,targeted (solutions),adj,целенаправленные решения (нацеленные на конкретные проблемы)
+9,FUTURE TECHNOLOGIES,diminished (mental abilities),adj,ослабленные умственные способности
+9,FUTURE TECHNOLOGIES,renewable (energy),adj,"возобновляемая энергия (солнечная, ветровая и т.п.)"
+9,FUTURE TECHNOLOGIES,wireless (earbuds),adj,беспроводные наушники
+9,FUTURE TECHNOLOGIES,cybernetic (implants),adj,кибернетические импланты (технологии внутри тела)
+9,FUTURE TECHNOLOGIES,foresee,v,"предвидеть, предсказывать будущее"
+9,FUTURE TECHNOLOGIES,feature,v,"изображать, характеризовать"
+9,FUTURE TECHNOLOGIES,originate from,v,"происходить из, возникать из чего-то"
+9,FUTURE TECHNOLOGIES,spread,v,распространяться
+9,FUTURE TECHNOLOGIES,boost (productivity),v,"повышать, увеличивать производительность"
+9,FUTURE TECHNOLOGIES,perform (surgical procedures),v,выполнять хирургические операции
+9,FUTURE TECHNOLOGIES,deliver (supplies) to,v,доставлять поставки кому-то/чему-то
+9,FUTURE TECHNOLOGIES,navigate (environments),v,ориентироваться в окружающей среде или пространстве
+9,FUTURE TECHNOLOGIES,restrict yourself to,v,"ограничивать себя чем-то, не выходить за рамки чего-то"
+9,FUTURE TECHNOLOGIES,transmit (brain signals),v,"передавать сигналы мозга, посылать информацию из мозга"
+9,FUTURE TECHNOLOGIES,be preferable to the uncertainty of a human relationship,adj,быть предпочтительнее неопределенности человеческих отношений (речь идет о роботах)
+9,FUTURE TECHNOLOGIES,retreat to technological cocoons,v,"уходить в технологические коконы, укрываться за технологиями для защиты или уединения"
+9,FUTURE TECHNOLOGIES,alter human capabilities beyond their current natural limits,v,изменять человеческие возможности сверх их нынешних природных границ
+9,FUTURE TECHNOLOGIES,to be on the verge of an enhancement revolution,v,находиться на грани революции улучшений/усовершенствований
+9,FUTURE TECHNOLOGIES,do more harm than good,v,"причинять больше вреда, чем пользы"
+9,FUTURE TECHNOLOGIES,the core values of humankind,n,основные ценности человечества
+9,FUTURE TECHNOLOGIES,do a little digging into,v,немного копнуть в смысл или детали чего-то
+9,FUTURE TECHNOLOGIES,to be fitted into our brains,v,быть встроенным/установленным в наши мозги
+9,FUTURE TECHNOLOGIES,evolve into,v,"эволюционировать, развиваться"
+9,FUTURE TECHNOLOGIES,opt for,v,"выбирать, предпочитать"
+9,FUTURE TECHNOLOGIES,extinction of phones,n,исчезновение телефонов
+9,FUTURE TECHNOLOGIES,overcome (limitations),v,преодолевать ограничения
+10,IT CAREERS,internship,n,"практика, стажировка"
+11,MY SPECIALITY,certifications,n,квалификационные документы
+11,MY SPECIALITY,resonate,v,находить отклик
+11,MY SPECIALITY,craft (v),v,"мастерить, создавать"
+11,MY SPECIALITY,challenging,adj,"стимулирующий, побуждающий"
+11,MY SPECIALITY,dependable,adj,"надёжный, заслуживающий доверия"
