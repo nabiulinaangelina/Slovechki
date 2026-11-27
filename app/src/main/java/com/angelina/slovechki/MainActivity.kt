@@ -17,6 +17,7 @@ import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.safeDrawing
@@ -72,7 +73,24 @@ private data class VocabWord(
     val term: String,
     val partOfSpeech: String,
     val translation: String,
+    val isPhrase: Boolean,
 )
+
+private enum class WordFilter(val label: String) {
+    ALL("Все"),
+    NOUN("Существительные"),
+    VERB("Глаголы"),
+    ADJECTIVE("Прилагательные"),
+    PHRASE("Фразы");
+
+    fun includes(word: VocabWord): Boolean = when (this) {
+        ALL -> true
+        NOUN -> word.partOfSpeech == "n"
+        VERB -> word.partOfSpeech == "v"
+        ADJECTIVE -> word.partOfSpeech == "adj"
+        PHRASE -> word.isPhrase
+    }
+}
 
 private data class UnitInfo(val id: Int, val title: String, val count: Int)
 
@@ -117,12 +135,15 @@ private fun readVocabulary(context: Context): Vocabulary {
     val wordsJson = root.getJSONArray("words")
     val words = (0 until wordsJson.length()).map { index ->
         val word = wordsJson.getJSONObject(index)
+        val term = word.getString("term")
         VocabWord(
             id = word.getString("id"),
             unit = word.getInt("unit"),
             term = word.getString("term"),
+            term = term,
             partOfSpeech = word.optString("partOfSpeech", ""),
             translation = word.optString("translation", "").trim(),
+            isPhrase = word.optBoolean("isPhrase", term.trim().split(Regex("\\s+")).size > 1),
         )
     }
     return Vocabulary(units, words)
@@ -139,9 +160,17 @@ private fun SlovechkiApp(vocabulary: Vocabulary, preferences: android.content.Sh
     var correct by remember { mutableIntStateOf(preferences.getInt("correct", 0)) }
     var studying by remember { mutableStateOf(false) }
     var matching by remember { mutableStateOf(false) }
+    var wordFilter by remember {
+        val saved = preferences.getString("word_filter", WordFilter.ALL.name)
+        mutableStateOf(WordFilter.values().firstOrNull { it.name == saved } ?: WordFilter.ALL)
+    }
 
     val selectedWords = remember(vocabulary.words, selectedUnits) {
+    val unitWords = remember(vocabulary.words, selectedUnits) {
         vocabulary.words.filter { it.unit in selectedUnits && it.translation.isNotBlank() }
+    }
+    val selectedWords = remember(unitWords, wordFilter) {
+        unitWords.filter(wordFilter::includes)
     }
 
     if (matching && selectedWords.size >= 5) {
@@ -168,6 +197,7 @@ private fun SlovechkiApp(vocabulary: Vocabulary, preferences: android.content.Sh
         HomeScreen(
             vocabulary = vocabulary,
             selectedUnits = selectedUnits,
+            wordFilter = wordFilter,
             answered = answered,
             correct = correct,
             onToggleUnit = { unitId ->
@@ -182,6 +212,10 @@ private fun SlovechkiApp(vocabulary: Vocabulary, preferences: android.content.Sh
                 selectedUnits = emptySet()
                 preferences.edit().putStringSet("selected_units", mutableSetOf()).apply()
             },
+            onWordFilterChange = { newFilter ->
+                wordFilter = newFilter
+                preferences.edit().putString("word_filter", newFilter.name).apply()
+            },
             onStart = { if (selectedWords.isNotEmpty()) studying = true },
             onStartMatching = { if (selectedWords.size >= 5) matching = true },
         )
@@ -192,16 +226,19 @@ private fun SlovechkiApp(vocabulary: Vocabulary, preferences: android.content.Sh
 private fun HomeScreen(
     vocabulary: Vocabulary,
     selectedUnits: Set<Int>,
+    wordFilter: WordFilter,
     answered: Int,
     correct: Int,
     onToggleUnit: (Int) -> Unit,
     onSelectAll: () -> Unit,
     onClear: () -> Unit,
+    onWordFilterChange: (WordFilter) -> Unit,
     onStart: () -> Unit,
     onStartMatching: () -> Unit,
 ) {
     val translatedTotal = vocabulary.words.count { it.translation.isNotBlank() }
     val available = vocabulary.words.count { it.unit in selectedUnits && it.translation.isNotBlank() }
+    val available = vocabulary.words.count { it.unit in selectedUnits && it.translation.isNotBlank() && wordFilter.includes(it) }
 
     Column(
         modifier = Modifier.fillMaxSize().windowInsetsPadding(WindowInsets.safeDrawing).verticalScroll(rememberScrollState()).padding(horizontal = 20.dp, vertical = 24.dp),
@@ -233,6 +270,26 @@ private fun HomeScreen(
             }
         }
 
+        Text("ТИПЫ КАРТОЧЕК", color = Ink, fontSize = 14.sp, fontWeight = FontWeight.Bold, letterSpacing = 1.sp)
+        Row(
+            modifier = Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()),
+            horizontalArrangement = Arrangement.spacedBy(8.dp),
+        ) {
+            WordFilter.values().forEach { filter ->
+                FilterChip(
+                    selected = wordFilter == filter,
+                    onClick = { onWordFilterChange(filter) },
+                    label = { Text(filter.label, fontSize = 12.sp) },
+                )
+            }
+        }
+        Text(
+            "«Фразы» — термины из двух и более слов; они также остаются в фильтре своей части речи.",
+            color = Muted,
+            fontSize = 12.sp,
+            lineHeight = 17.sp,
+        )
+
         Row(
             modifier = Modifier.fillMaxWidth(),
             horizontalArrangement = Arrangement.SpaceBetween,
@@ -251,6 +308,9 @@ private fun HomeScreen(
             vocabulary.units.forEach { unit ->
                 val selected = unit.id in selectedUnits
                 val translated = vocabulary.words.count { it.unit == unit.id && it.translation.isNotBlank() }
+                val translated = vocabulary.words.count {
+                    it.unit == unit.id && it.translation.isNotBlank() && wordFilter.includes(it)
+                }
                 Row(
                     modifier = Modifier
                         .fillMaxWidth()
@@ -262,6 +322,11 @@ private fun HomeScreen(
                     Column(modifier = Modifier.weight(1f).padding(start = 8.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
                         Text("Unit ${unit.id}: ${unit.title.lowercase().replaceFirstChar { it.uppercase() }}", color = Ink, fontSize = 15.sp, fontWeight = FontWeight.SemiBold)
                         Text("$translated из ${unit.count} с переводом", color = Muted, fontSize = 12.sp)
+                        Text(
+                            if (wordFilter == WordFilter.ALL) "$translated из ${unit.count} с переводом" else "$translated карточек этого типа",
+                            color = Muted,
+                            fontSize = 12.sp,
+                        )
                     }
                     if (selected) {
                         Surface(color = PineSoft, shape = RoundedCornerShape(50)) {
@@ -275,6 +340,11 @@ private fun HomeScreen(
         Card(colors = CardDefaults.cardColors(containerColor = Color.White), shape = RoundedCornerShape(18.dp)) {
             Text(
                 text = if (available == 0) "В выбранных юнитах пока нет слов с переводом. Когда переводы будут добавлены, тренировка станет доступна." else "В тренировке: $available слов из выбранных юнитов.",
+                text = when {
+                    available > 0 -> "В тренировке: $available карточек из выбранных юнитов."
+                    wordFilter == WordFilter.ALL -> "В выбранных юнитах пока нет карточек с переводом."
+                    else -> "В выбранных юнитах нет карточек типа «${wordFilter.label.lowercase()}»."
+                },
                 color = Muted,
                 fontSize = 14.sp,
                 lineHeight = 20.sp,
